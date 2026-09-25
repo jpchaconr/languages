@@ -1,0 +1,100 @@
+никто́|pron|nadie|*Никто* не знает.|Nadie lo sabe.|Здесь *никто* не живёт.|Aquí no vive nadie.
+заче́м|adv|para qué, por qué|*Зачем* ты это сделал?|¿Para qué lo hiciste?|*Зачем* тебе столько денег?|¿Para qué quieres tanto dinero?
+немно́го|adv|un poco|Я *немного* устал.|Estoy un poco cansado.|Я *немного* говорю по-русски.|Hablo un poco de ruso.
+де́ньги|sp|dinero|*Деньги* — это не главное.|El dinero no lo es todo.|Где мои *деньги*?|¿Dónde está mi dinero?
+друг|sm|amigo|Он мой лучший *друг*.|Es mi mejor amigo.|*Друг* познаётся в беде.|En la necesidad se conoce al amigo.
+ско́лько|adv|cuánto, cuántos|*Сколько* это стоит?|¿Cuánto cuesta?|*Сколько* тебе лет?|¿Cuántos años tienes?
+твой|det|tu, tuyo (masculino)|Это *твой* телефон?|¿Es tu teléfono?|Где *твой* брат?|¿Dónde está tu hermano?
+сам|pron|mismo, él mismo (masculino); solo, sin ayuda|Я сделал это *сам*.|Lo hice yo mismo.|Он *сам* не знает, чего хочет.|Ni él mismo sabe lo que quiere.
+пе́ред|prep|delante de; antes de|Машина стоит *перед* домом.|El coche está delante de la casa.|Я всегда мою руки *перед* едой.|Siempre me lavo las manos antes de comer.
+куда́|adv|adónde|*Куда* ты идёшь?|¿Adónde vas?|Я не знаю, *куда* ехать.|No sé adónde ir.
+мое́й|det|mi (casos oblicuos del femenino de «мой»)|Это подарок для *моей* мамы.|Es un regalo para mi madre.|В *моей* комнате тепло.|En mi habitación hace calor.
+то́чно|adv|exactamente; seguro; ¡exacto!|Ты *точно* придёшь?|¿Seguro que vendrás?|*Точно*! Я вспомнил.|¡Exacto! Ya me acuerdo.
+ка́жется|v|parece (de «казаться»); me parece que|*Кажется*, будет дождь.|Parece que va a llover.|Мне *кажется*, ты устал.|Me parece que estás cansado.
+сно́ва|adv|otra vez, de nuevo|Он *снова* опоздал.|Ha vuelto a llegar tarde.|Я рад видеть тебя *снова*.|Me alegro de volver a verte.
+мои́|det|mis, míos (plural de «мой»)|Это *мои* друзья.|Son mis amigos.|Где *мои* очки?|¿Dónde están mis gafas?
+мог|v|podía, pudo (pasado masculino de «мочь»)|Я не *мог* уснуть.|No podía dormirme.|Он *мог* бы помочь.|Él podría ayudar.
+сто́ит|v|cuesta (de «стоить»); vale la pena|Сколько *стоит* билет?|¿Cuánto cuesta el billete?|Этот фильм *стоит* посмотреть.|Vale la pena ver esta película.
+бо́же|int|¡Dios mío! (vocativo de «бог»)|*Боже*, как красиво!|¡Dios mío, qué bonito!|*Боже* мой, что случилось?|¡Dios mío! ¿Qué ha pasado?
+год|sm|año|Он учится здесь уже *год*.|Lleva un año estudiando aquí.|Какой сейчас *год*?|¿En qué año estamos?
+над|prep|sobre, encima de; de (reírse de)|Лампа висит *над* столом.|La lámpara cuelga sobre la mesa.|Не смейся *над* ним.|No te rías de él.
+челове́ка|sm|persona (genitivo y acusativo de «человек»)|Я знаю этого *человека*.|Conozco a esta persona.|Нас было три *человека*.|Éramos tres personas.
+бу́дут|v|serán, estarán (futuro plural de «быть»)|Гости *будут* в семь.|Los invitados llegarán a las siete.|Они *будут* рады тебя видеть.|Estarán encantados de verte.
+тех|pron|esos, aquellos (genitivo, acusativo y preposicional plural de «тот»)|С *тех* пор я его не видел.|Desde entonces no lo he visto.|Я помню *тех* людей.|Recuerdo a aquella gente.
+сказа́ла|v|dijo, dije (pasado femenino de «сказать»)|Она *сказала*, что придёт.|Dijo que vendría.|Что ты *сказала*?|¿Qué has dicho?
+вообще́|adv|en general; en absoluto (con negación)|Я *вообще* не пью.|No bebo en absoluto.|Что ты *вообще* здесь делаешь?|¿Y tú qué haces aquí?
+дом|sm|casa; edificio|Это мой *дом*.|Esta es mi casa.|Мы купили новый *дом*.|Compramos una casa nueva.
+зна́ете|v|sabe usted, sabéis (de «знать»)|Вы *знаете*, где вокзал?|¿Sabe dónde está la estación?|*Знаете*, я не согласен.|¿Sabe? No estoy de acuerdo.
+ма́ма|sf|mamá, madre|*Мама*, я дома!|¡Mamá, estoy en casa!|Моя *мама* — учительница.|Mi madre es profesora.
+говори́т|v|habla, dice (de «говорить»)|Он *говорит* по-русски.|Habla ruso.|Что она *говорит*?|¿Qué dice ella?
+хотя́|conj|aunque|*Хотя* было холодно, мы пошли гулять.|Aunque hacía frío, salimos a pasear.|Я пойду, *хотя* не хочу.|Iré, aunque no quiero.
+свой|det|su, mi, tu (propio, masculino)|У каждого *свой* путь.|Cada uno tiene su camino.|Он продал *свой* дом.|Vendió su casa.
+о́бласти|sf|región, provincia; campo, ámbito (genitivo, dativo y preposicional de «область»)|Он живёт в Московской *области*.|Vive en la región de Moscú.|Она работает в *области* медицины.|Trabaja en el campo de la medicina.
+оте́ц|sm|padre|Мой *отец* — инженер.|Mi padre es ingeniero.|*Отец* вернулся домой.|El padre volvió a casa.
+кото́рая|pron|que, la cual (relativo, femenino)|Девушка, *которая* там стоит, — моя сестра.|La chica que está allí es mi hermana.|Это книга, *которая* мне нравится.|Es el libro que me gusta.
+сэр|sm|señor (tratamiento inglés, «sir»)|Да, *сэр*!|¡Sí, señor!|Спасибо, *сэр*.|Gracias, señor.
+сде́лал|v|hizo, hice (pasado masculino de «сделать»)|Кто это *сделал*?|¿Quién ha hecho esto?|Я *сделал* ошибку.|Cometí un error.
+ми́стер|sm|señor (tratamiento inglés, «mister»)|*Мистер* Смит уже пришёл.|El señor Smith ya ha llegado.|Добрый вечер, *мистер* Браун.|Buenas tardes, señor Brown.
+люблю́|v|quiero, amo; me gusta (de «любить»)|Я *люблю* тебя.|Te quiero.|Я *люблю* читать.|Me gusta leer.
+хо́чет|v|quiere (de «хотеть»)|Он *хочет* спать.|Tiene sueño.|Она *хочет* стать актрисой.|Quiere ser actriz.
+совсе́м|adv|completamente, del todo; совсем не = nada|Я *совсем* забыл!|¡Se me olvidó por completo!|Это *совсем* не смешно.|No tiene ninguna gracia.
+ка́ждый|det|cada, cada uno, todo|Я звоню маме *каждый* день.|Llamo a mi madre todos los días.|*Каждый* может ошибиться.|Cualquiera puede equivocarse.
+найти́|v|encontrar (perfectivo)|Я не могу *найти* ключи.|No encuentro las llaves.|Где можно *найти* хорошее кафе?|¿Dónde se puede encontrar una buena cafetería?
+одна́|num|una; sola (femenino de «один»)|У меня *одна* сестра.|Tengo una hermana.|Она живёт *одна*.|Vive sola.
+кое-что́|pron|algo (concreto)|Я хочу тебе *кое-что* показать.|Quiero enseñarte algo.|Я *кое-что* знаю об этом.|Sé algo sobre eso.
+нра́вится|v|gusta (de «нравиться»)|Мне *нравится* эта песня.|Me gusta esta canción.|Тебе *нравится* Москва?|¿Te gusta Moscú?
+мо́гут|v|pueden (de «мочь»)|Они *могут* прийти завтра.|Pueden venir mañana.|Дети *могут* играть здесь.|Los niños pueden jugar aquí.
+про|prep|sobre, de, acerca de (coloquial)|Это фильм *про* войну.|Es una película sobre la guerra.|Не забудь *про* меня!|¡No te olvides de mí!
+пе́рвый|num|primero|Это мой *первый* день на работе.|Es mi primer día de trabajo.|Кто *первый*?|¿Quién es el primero?
+кого́|pron|a quién, de quién (genitivo y acusativo de «кто»)|*Кого* ты ждёшь?|¿A quién esperas?|У *кого* есть ручка?|¿Quién tiene un bolígrafo?
+рабо́ту|sf|trabajo (acusativo de «работа»)|Я иду на *работу*.|Voy al trabajo.|Он ищет *работу*.|Está buscando trabajo.
+чёрт|sm|diablo; ¡maldita sea!|*Чёрт*, я опоздал!|¡Maldita sea, llego tarde!|*Чёрт* знает, где он.|Sabe Dios dónde estará.
+оно́|pron|ello, él, ella (neutro)|Какое красивое платье! *Оно* новое?|¡Qué vestido tan bonito! ¿Es nuevo?|Где письмо? — *Оно* на столе.|¿Dónde está la carta? — Está en la mesa.
+понима́ю|v|entiendo, comprendo (de «понимать»)|Я не *понимаю*.|No entiendo.|Я *понимаю*, что ты чувствуешь.|Entiendo lo que sientes.
+мо́жем|v|podemos (de «мочь»)|Мы *можем* начать?|¿Podemos empezar?|Мы не *можем* ждать.|No podemos esperar.
+дела́|sp|asuntos, cosas (plural de «дело»): как дела = qué tal|Как *дела*?|¿Qué tal?|У меня *дела* в городе.|Tengo asuntos en la ciudad.
+твоя́|det|tu, tuya (femenino)|Это *твоя* сумка?|¿Es tu bolso?|Как *твоя* мама?|¿Cómo está tu madre?
+вопро́с|sm|pregunta; cuestión|У меня есть *вопрос*.|Tengo una pregunta.|Это хороший *вопрос*.|Es una buena pregunta.
+почти́|adv|casi|Я *почти* готов.|Ya casi estoy listo.|Уже *почти* полночь.|Ya es casi medianoche.
+бу́дем|v|seremos, estaremos (futuro de «быть»); + infinitivo = vamos a|Мы *будем* ждать тебя.|Te esperaremos.|Что *будем* делать?|¿Qué hacemos?
+ду́маешь|v|piensas, crees (de «думать»)|Что ты *думаешь*?|¿Qué opinas?|Ты *думаешь*, он придёт?|¿Crees que vendrá?
+э́тих|det|estos (genitivo, acusativo y preposicional plural de «этот»)|Я не знаю *этих* людей.|No conozco a esta gente.|Я куплю одну из *этих* книг.|Compraré uno de estos libros.
+своего́|det|su, mi, tu (propio, genitivo y acusativo masculino de «свой»)|Он любит *своего* сына.|Quiere a su hijo.|Я жду *своего* друга.|Espero a mi amigo.
+случи́лось|v|pasó, ocurrió (pasado neutro de «случиться»)|Что *случилось*?|¿Qué ha pasado?|Это *случилось* вчера.|Pasó ayer.
+кото́рых|pron|que, los cuales (genitivo, acusativo y preposicional plural de «который»)|Это люди, *которых* я люблю.|Es la gente a la que quiero.|Книги, о *которых* ты говорил, здесь.|Los libros de los que hablabas están aquí.
+одна́ко|conj|sin embargo, no obstante|*Однако* я не согласен.|Sin embargo, no estoy de acuerdo.|Было трудно, *однако* мы справились.|Fue difícil; sin embargo, lo logramos.
+рабо́ты|sf|trabajo (genitivo de «работа»); trabajos|Я иду с *работы*.|Vengo del trabajo.|У меня много *работы*.|Tengo mucho trabajo.
+домо́й|adv|a casa (con movimiento)|Я иду *домой*.|Me voy a casa.|Когда ты вернёшься *домой*?|¿Cuándo volverás a casa?
+свои́х|det|sus, mis, tus (propios, genitivo, acusativo y preposicional plural de «свой»)|Он любит *своих* детей.|Quiere a sus hijos.|Я давно не видел *своих* родителей.|Hace mucho que no veo a mis padres.
+стал|v|se hizo, llegó a ser; empezó a (pasado masculino de «стать»)|Он *стал* врачом.|Se hizo médico.|Он *стал* много работать.|Empezó a trabajar mucho.
+де́ле|sn|asunto (preposicional de «дело»): на самом деле = en realidad|На самом *деле* всё не так.|En realidad no es así.|Главное в этом *деле* — терпение.|Lo principal en este asunto es la paciencia.
+говори́ть|v|hablar, decir (imperfectivo)|Я учусь *говорить* по-русски.|Estoy aprendiendo a hablar ruso.|Не надо так *говорить*.|No digas eso.
+пря́мо|adv|recto, todo recto; justo, directamente|Идите *прямо*.|Siga todo recto.|Он сидел *прямо* передо мной.|Estaba sentado justo delante de mí.
+ви́дел|v|vio, vi (pasado masculino de «видеть»)|Я *видел* этот фильм.|He visto esta película.|Ты *видел* мои ключи?|¿Has visto mis llaves?
+таки́е|det|tales, así (plural de «такой»)|Все люди *такие*.|Todo el mundo es así.|Почему вы *такие* грустные?|¿Por qué estáis tan tristes?
+кото́рой|pron|que, la cual (casos oblicuos del femenino de «который»)|Девушка, с *которой* я говорил, — врач.|La chica con la que hablé es médica.|Это страна, в *которой* я родился.|Es el país en el que nací.
+нельзя́|adv|no se puede, está prohibido|Здесь *нельзя* курить.|Aquí no se puede fumar.|Так *нельзя*!|¡Así no se hace!
+знать|v|saber, conocer|Я хочу *знать* правду.|Quiero saber la verdad.|Откуда мне *знать*?|¿Cómo voy a saberlo?
+помо́чь|v|ayudar (perfectivo)|Могу я вам *помочь*?|¿Puedo ayudarle?|Ты можешь мне *помочь*?|¿Puedes ayudarme?
+действи́тельно|adv|realmente, de verdad|Это *действительно* важно.|Es realmente importante.|Ты *действительно* так думаешь?|¿De verdad piensas eso?
+говори́л|v|hablaba, decía; dijo (pasado masculino de «говорить»)|Я же *говорил*!|¡Ya te lo decía yo!|Он *говорил* по телефону.|Estaba hablando por teléfono.
+должно́|adj|debe, tiene que (neutro); должно быть = debe de|Это *должно* работать.|Esto tiene que funcionar.|*Должно* быть, он уже дома.|Debe de estar ya en casa.
+зна́ет|v|sabe, conoce (de «знать»)|Он всё *знает*.|Él lo sabe todo.|Кто *знает*?|¿Quién sabe?
+друго́й|det|otro; diferente|Дай мне *другой* стакан.|Dame otro vaso.|Он совсем *другой* человек.|Es una persona completamente distinta.
+са́мом|pron|mismo (preposicional de «самый»): на самом деле = en realidad|На *самом* деле я устал.|En realidad estoy cansado.|Он живёт в *самом* центре города.|Vive en pleno centro de la ciudad.
+моё|det|mi, mío (neutro)|Это *моё* место.|Este es mi sitio.|*Моё* имя — Анна.|Mi nombre es Anna.
+за́втра|adv|mañana|Увидимся *завтра*!|¡Nos vemos mañana!|*Завтра* будет холодно.|Mañana hará frío.
+дня|sm|día, del día (genitivo de «день»)|Хорошего *дня*!|¡Que tengas un buen día!|Я работаю до пяти часов *дня*.|Trabajo hasta las cinco de la tarde.
+явля́ется|v|es, constituye (formal, de «являться»)|Москва *является* столицей России.|Moscú es la capital de Rusia.|Это *является* проблемой.|Esto constituye un problema.
+па́рень|sm|chico, muchacho; novio|Он хороший *парень*.|Es un buen chico.|У неё есть *парень*.|Ella tiene novio.
+своё|det|su, mi, tu (propio, neutro)|Каждый делает *своё* дело.|Cada uno hace lo suyo.|Он забыл *своё* пальто.|Se olvidó el abrigo.
+слу́чае|sm|caso (preposicional de «случай»): в случае = en caso de|В любом *случае* я приду.|En cualquier caso, vendré.|В таком *случае* я согласен.|En ese caso, estoy de acuerdo.
+происхо́дит|v|pasa, ocurre (de «происходить»)|Что здесь *происходит*?|¿Qué está pasando aquí?|Такое *происходит* каждый день.|Esto ocurre todos los días.
+кро́ме|prep|excepto, salvo; кроме того = además|Все пришли, *кроме* него.|Vinieron todos menos él.|*Кроме* того, я занят.|Además, estoy ocupado.
+дете́й|sp|niños, hijos (genitivo y acusativo de «дети»)|У меня двое *детей*.|Tengo dos hijos.|Я люблю *детей*.|Me encantan los niños.
+всю|pron|todo, toda (acusativo femenino de «весь»)|Я работал *всю* ночь.|Trabajé toda la noche.|Расскажи мне *всю* правду.|Cuéntame toda la verdad.
+наш|det|nuestro (masculino)|Это *наш* дом.|Esta es nuestra casa.|*Наш* учитель очень строгий.|Nuestro profesor es muy estricto.
+похо́же|adv|parece que; se parece|*Похоже*, будет дождь.|Parece que va a llover.|Это *похоже* на правду.|Parece verdad.
+до́ктор|sm|doctor, médico|Мне нужен *доктор*.|Necesito un médico.|*Доктор*, мне плохо.|Doctor, me encuentro mal.
+отли́чно|adv|excelente, perfecto; muy bien|*Отлично*! Спасибо.|¡Perfecto! Gracias.|Ты *отлично* выглядишь.|Tienes un aspecto estupendo.
+уж|part|ya, pues (énfasis)|Ну *уж* нет!|¡Eso sí que no!|Не так *уж* и плохо.|No está tan mal.

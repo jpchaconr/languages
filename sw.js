@@ -1,7 +1,7 @@
 /* Service worker de Mil Palabras: la app funciona sin conexión.
    Estrategia: caché primero + actualización en segundo plano (los cambios llegan en la siguiente apertura).
    El progreso del usuario NO está aquí: vive en localStorage y no lo toca este archivo. */
-const CACHE = 'milpalabras-shell-v2';
+const CACHE = 'milpalabras-shell-v3';
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'config.js', 'data/palabras.js',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png',

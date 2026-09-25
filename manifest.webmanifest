@@ -1,7 +1,7 @@
 {
   "name": "Mil Palabras",
   "short_name": "Mil Palabras",
-  "description": "Aprende las 1000 palabras más frecuentes de inglés y alemán con tarjetas y repetición espaciada.",
+  "description": "Aprende las 1000 palabras más frecuentes de inglés, alemán y ruso con tarjetas y repetición espaciada.",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",

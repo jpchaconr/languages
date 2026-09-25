@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mil Palabras</title>
-<meta name="description" content="Aprende las 1000 palabras más frecuentes de inglés y alemán con tarjetas y repetición espaciada.">
+<meta name="description" content="Aprende las 1000 palabras más frecuentes de inglés, alemán y ruso con tarjetas y repetición espaciada.">
 <meta name="theme-color" content="#E7ECF1" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0E141B" media="(prefers-color-scheme: dark)">
 <meta name="mobile-web-app-capable" content="yes">
@@ -15,7 +15,7 @@
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Golos+Text:wght@400;700;800&family=JetBrains+Mono:wght@500&display=swap">
 <style>
 :root{
   --bg:#E7ECF1; --surface:#F6F8FA; --paper:#FFFFFF; --ink:#16202C; --muted:#5A6778;
@@ -23,8 +23,9 @@
   --accent:#2A4ED6; --accent-ink:#FFFFFF; --accent-soft:#DCE4FB;
   --good:#1E8B5C; --good-soft:#D5EFE2; --bad:#C9433A; --bad-soft:#F8DEDA;
   --shadow:0 1px 2px rgba(22,32,44,.08),0 12px 32px -12px rgba(22,32,44,.28);
-  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
-  --body:"Atkinson Hyperlegible",ui-sans-serif,system-ui,sans-serif;
+  /* Bricolage y Atkinson no tienen cirílico: el ruso cae en Golos Text (solo se descarga si hay texto cirílico) */
+  --display:"Bricolage Grotesque","Golos Text",ui-sans-serif,system-ui,sans-serif;
+  --body:"Atkinson Hyperlegible","Golos Text",ui-sans-serif,system-ui,sans-serif;
   --mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
@@ -86,7 +87,7 @@ h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
 .brand h1 span{color:var(--accent)}
 #home>*{flex:none}   /* sin esto la columna con scroll comprime los bloques con overflow hasta 0 px (el selector desaparecía) */
 .langpick{display:flex;flex-direction:column;gap:10px}
-.langs{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.langs{display:grid;grid-template-columns:1fr;gap:8px}
 .langpill{display:inline-flex;align-items:center;gap:8px;padding:5px 10px 5px 6px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--muted);font-size:13px;font-weight:700;flex:none}
 .langpill code{font:500 11px/1 var(--mono);padding:5px 6px;border-radius:999px;background:var(--surface);color:var(--muted)}
 .langpill svg{width:14px;height:14px;transition:transform .2s}
@@ -162,9 +163,13 @@ h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
 .pos{font-size:12px;font-weight:700;color:var(--muted);padding:5px 9px;border-radius:99px;background:var(--bg)}
 .face-body{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:10px;padding-block:8px}
 .word{font:800 clamp(40px,13vw,60px)/1 var(--display);letter-spacing:-.02em;overflow-wrap:anywhere}
+.word.l{font-size:clamp(34px,10.5vw,50px)}   /* palabras largas: más pequeñas en vez de partirse */
+.word.xl{font-size:clamp(28px,8.2vw,40px)}
 .ipa{font:500 15px/1 var(--mono);color:var(--muted)}
 .trans{font:800 clamp(28px,9vw,40px)/1.15 var(--display);overflow-wrap:anywhere}
+.trans.long{font-size:clamp(22px,6.8vw,30px)}
 .trans small{display:block;font:400 15px/1.4 var(--body);color:var(--muted);margin-top:8px}
+.trans .gram{display:block;font:400 14px/1.4 var(--body);color:var(--muted);margin-top:8px}
 .speak{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:99px;background:var(--accent-soft);color:var(--accent);font-weight:700;font-size:14px}
 .speak svg{width:18px;height:18px}
 .hint{text-align:center;font-size:13px;color:var(--muted)}
@@ -408,8 +413,9 @@ const hasPicked=()=>!!S.langPicked||Object.values(S.progress).some(p=>Object.key
 let langOpen=false; // selector desplegado a petición
 const prog=()=>(S.progress[S.lang]??={});
 const status=st=>!st?null:st.box===0?0:st.box<3?1:2; // por aprender · aprendiendo · dominada
-const ART={m:"der",f:"die",n:"das",pl:"die (pl.)"};
-const posLabel=w=>w.g&&ART[w.g]?`${w.pos} · ${ART[w.g]}`:w.pos;
+const GENDER={de:{m:"der",f:"die",n:"das",pl:"die (pl.)"},ru:{m:"masc.",f:"fem.",n:"neutro",pl:"plural"}}; // alemán: artículo; ruso: género
+const posLabel=w=>{const g=w.g&&(GENDER[S.lang]||{})[w.g];return g?`${w.pos} · ${g}`:w.pos};
+const STRESS=/\u0301/g; // acento del ruso (молоко́): se muestra, pero no se cuenta como letra ni se envía a la voz
 
 function dueWords(){const P=prog(),now=Date.now();return deck().words.filter(w=>P[w.r]&&P[w.r].due<=now).sort((a,b)=>P[a.r].due-P[b.r].due)}
 function newWords(){const P=prog();return deck().words.filter(w=>!P[w.r])}
@@ -486,17 +492,18 @@ function renderCard(){
   flipped=false;$("cardInner").classList.remove("flipped");
   const card=$("card");card.classList.add("dragging");card.style.transform="";setStamps(0);
   requestAnimationFrame(()=>card.classList.remove("dragging"));
+  const len=w.w.replace(STRESS,"").length,g=gloss(w.es);
   const target=`
     <div class="face-top"><span class="pos">${posLabel(w)}</span><span class="rank">${d.code} · Nº ${w.r}</span></div>
     <div class="face-body">
-      <div class="word" lang="${d.voice}">${esc(w.w)}</div>
+      <div class="word${len>11?" xl":len>8?" l":""}" lang="${d.voice}">${esc(w.w)}</div>
       <div class="ipa">${w.ipa}</div>
       <button class="speak" data-say="${esc(w.w)}">${ICON_SPEAK}Escuchar</button>
     </div>`;
   const native=(big)=>`
     <div class="face-top"><span class="pos">${posLabel(w)}</span><span class="rank">${d.code} · Nº ${w.r}</span></div>
     <div class="face-body">
-      <div class="trans">${esc(w.es.join(" · "))}${big?"":`<small>${esc(w.w)} ${w.ipa}</small>`}</div>
+      <div class="trans${g.main.length>34?" long":""}">${esc(g.main)}${g.note?`<span class="gram">${esc(g.note)}</span>`:""}${big?"":`<small>${esc(w.w)} ${w.ipa}</small>`}</div>
     </div>`;
   const hint=`<p class="hint">Toca la tarjeta para voltearla</p>`;
   const exBtn=`<button class="ex-btn" data-ex>${ICON_QUOTE}Ver frases de ejemplo</button>`;
@@ -511,6 +518,18 @@ function renderCard(){
   const total=sess.queue.length;
   $("counter").textContent=`${sess.i+1}/${total}`;
   $("barFill").style.width=`${sess.i/total*100}%`;
+}
+/* Traducción de la tarjeta: lo principal en grande y lo gramatical debajo, en pequeño
+   (paréntesis, «: x = y» tras la traducción y locuciones «у меня есть = tengo») */
+function gloss(es){
+  const main=[],note=[];
+  for(const s of es){
+    if(/^[^(:]*\s=\s/.test(s)){note.push(s);continue}
+    const par=[];
+    const m=s.replace(/\s*\(([^()]*)\)/g,(_,x)=>{par.push(x);return""}).replace(/:\s+(.*\s=\s.*)$/,(_,x)=>{par.push(x);return""}).trim();
+    if(m)main.push(m);note.push(...par);
+  }
+  return main.length?{main:main.join(" · "),note:note.join(" · ")}:{main:es.join(" · "),note:""};
 }
 function flip(){flipped=!flipped;$("cardInner").classList.toggle("flipped",flipped)}
 function setStamps(dx){$("stampYes").style.opacity=Math.max(0,Math.min(1,dx/90));$("stampNo").style.opacity=Math.max(0,Math.min(1,-dx/90))}
@@ -596,7 +615,7 @@ $("scrim").onclick=e=>{
 function speak(text){
   try{
     if(!("speechSynthesis" in window))return toast("Este navegador no puede pronunciar");
-    speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=deck().voice;u.rate=.9;speechSynthesis.speak(u);
+    speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text.replace(STRESS,""));u.lang=deck().voice;u.rate=.9;speechSynthesis.speak(u);
   }catch(e){toast("No se pudo reproducir el audio")}
 }
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}

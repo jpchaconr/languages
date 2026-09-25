@@ -1,0 +1,100 @@
+в|prep|en; a (con movimiento)|Я живу *в* Москве.|Vivo en Moscú.|Мы идём *в* кино.|Vamos al cine.
+и|conj|y; también|Мама *и* папа дома.|Mamá y papá están en casa.|Он умный *и* добрый.|Es listo y amable.
+не|part|no (niega la palabra que sigue)|Я *не* знаю.|No lo sé.|Это *не* моя сумка.|Este no es mi bolso.
+я|pron|yo|*Я* устал.|Estoy cansado.|*Я* люблю музыку.|Me encanta la música.
+что|pron|qué; que (conjunción)|*Что* ты делаешь?|¿Qué haces?|Я знаю, *что* ты прав.|Sé que tienes razón.
+на|prep|en, sobre; a (con movimiento)|Книга лежит *на* столе.|El libro está sobre la mesa.|Я иду *на* работу.|Voy al trabajo.
+с|prep|con; de, desde|Кофе *с* молоком.|Café con leche.|Я вернулся *с* работы.|He vuelto del trabajo.
+э́то|pron|esto, eso; este es, esto es|*Это* мой брат.|Este es mi hermano.|Что *это*?|¿Qué es esto?
+ты|pron|tú|*Ты* где?|¿Dónde estás?|*Ты* прав.|Tienes razón.
+как|adv|cómo; como|*Как* дела?|¿Qué tal?|Он поёт, *как* птица.|Canta como un pájaro.
+а|conj|y, pero (contraste); ¿y…?|Я здесь, *а* ты где?|Yo estoy aquí, ¿y tú dónde estás?|Это не чай, *а* кофе.|Esto no es té, sino café.
+он|pron|él|*Он* мой друг.|Él es mi amigo.|*Он* работает врачом.|Él trabaja de médico.
+у|prep|junto a, en casa de; у меня есть = tengo|*У* меня есть собака.|Tengo un perro.|Он живёт *у* бабушки.|Vive en casa de su abuela.
+но|conj|pero|Я хочу, *но* не могу.|Quiero, pero no puedo.|Дорого, *но* красиво.|Es caro, pero bonito.
+мы|pron|nosotros, nosotras|*Мы* опаздываем.|Llegamos tarde.|*Мы* живём здесь.|Vivimos aquí.
+по|prep|por (a lo largo de); según; los (días)|Мы гуляли *по* парку.|Paseamos por el parque.|*По* субботам я отдыхаю.|Los sábados descanso.
+так|adv|así; tan|Я *так* устал.|Estoy tan cansado.|Делай *так*.|Hazlo así.
+мне|pron|me, a mí (dativo de «я»)|Дай *мне* воды.|Dame agua.|*Мне* холодно.|Tengo frío.
+вы|pron|vosotros, vosotras; usted, ustedes|*Вы* говорите по-русски?|¿Habla usted ruso?|*Вы* готовы?|¿Estáis listos?
+о|prep|sobre, de, acerca de|Мы говорим *о* работе.|Hablamos del trabajo.|Я думаю *о* тебе.|Pienso en ti.
+его́|pron|lo, le, a él; su, sus (de él)|Я *его* знаю.|Lo conozco.|Это *его* машина.|Es su coche.
+меня́|pron|me, a mí (genitivo y acusativo de «я»)|*Меня* зовут Анна.|Me llamo Anna.|Подожди *меня*!|¡Espérame!
+за|prep|por; detrás de; a por|Спасибо *за* помощь.|Gracias por la ayuda.|Машина стоит *за* домом.|El coche está detrás de la casa.
+да|part|sí|*Да*, конечно.|Sí, claro.|*Да*, я согласен.|Sí, estoy de acuerdo.
+из|prep|de (procedencia), desde dentro de|Я *из* Испании.|Soy de España.|Он вышел *из* дома.|Salió de casa.
+все|pron|todos, todas (plural de «весь»)|*Все* здесь.|Están todos aquí.|*Все* люди разные.|Todas las personas son diferentes.
+нет|part|no; no hay|*Нет*, спасибо.|No, gracias.|У меня *нет* времени.|No tengo tiempo.
+для|prep|para|Это подарок *для* тебя.|Es un regalo para ti.|Книга *для* детей.|Un libro para niños.
+к|prep|hacia, a (+ dativo)|Я иду *к* врачу.|Voy al médico.|Приходи *к* нам в гости!|¡Ven a vernos!
+то|pron|eso, aquello; entonces (если…, то…)|*То*, что ты сказал, — правда.|Lo que dijiste es verdad.|Если хочешь, *то* иди.|Si quieres, entonces ve.
+е́сли|conj|si (condicional)|*Если* будет дождь, я останусь дома.|Si llueve, me quedaré en casa.|Позвони, *если* сможешь.|Llama si puedes.
+она́|pron|ella|*Она* моя сестра.|Ella es mi hermana.|*Она* живёт в Париже.|Ella vive en París.
+от|prep|de, desde (origen, alejamiento)|Это письмо *от* мамы.|Es una carta de mamá.|Мы живём далеко *от* центра.|Vivimos lejos del centro.
+бы|part|(partícula del condicional: -ría, -ra)|Я *бы* выпил кофе.|Me tomaría un café.|Если *бы* я знал!|¡Si lo hubiera sabido!
+же|part|pues, ya (énfasis); mismo|Я *же* говорил!|¡Ya te lo dije!|Это тот *же* человек.|Es la misma persona.
+тебя́|pron|te, a ti (genitivo y acusativo de «ты»)|Я *тебя* люблю.|Te quiero.|Как *тебя* зовут?|¿Cómo te llamas?
+ещё|adv|todavía, aún; más, otro|Он *ещё* спит.|Todavía está durmiendo.|Хочешь *ещё* чаю?|¿Quieres más té?
+они́|pron|ellos, ellas|*Они* мои родители.|Son mis padres.|*Они* живут в деревне.|Viven en el pueblo.
+когда́|adv|cuándo; cuando|*Когда* ты придёшь?|¿Cuándo vendrás?|Позвони, *когда* будешь дома.|Llama cuando estés en casa.
+был|v|era, estaba, fue (pasado masculino de «быть»)|Я *был* дома.|Estaba en casa.|Вчера *был* хороший день.|Ayer fue un buen día.
+то́лько|adv|solo, solamente; только что = acabar de|У меня *только* сто рублей.|Solo tengo cien rublos.|Он *только* что пришёл.|Acaba de llegar.
+что́бы|conj|para, para que|Я пришёл, *чтобы* помочь.|He venido para ayudar.|Я хочу, *чтобы* ты остался.|Quiero que te quedes.
+её|pron|la, le, a ella; su, sus (de ella)|Я *её* люблю.|La quiero.|Это *её* дом.|Es su casa.
+бы́ло|v|era, estaba, fue (pasado neutro de «быть»); había|Это *было* давно.|Eso fue hace mucho.|Вчера *было* холодно.|Ayer hacía frío.
+есть|v|hay; tener (у меня есть); comer|У тебя *есть* брат?|¿Tienes un hermano?|Здесь *есть* кафе?|¿Hay un café por aquí?
+тебе́|pron|te, a ti (dativo y preposicional de «ты»)|Я *тебе* позвоню.|Te llamaré.|Как *тебе* фильм?|¿Qué te parece la película?
+про́сто|adv|simplemente, solo; fácil, sencillo|Это *просто* шутка.|Es solo una broma.|Это очень *просто*.|Es muy sencillo.
+уже́|adv|ya|Я *уже* поел.|Ya he comido.|*Уже* поздно.|Ya es tarde.
+мо́жет|v|puede (de «мочь»); может быть = quizá|Он *может* помочь.|Él puede ayudar.|*Может*, завтра?|¿Quizá mañana?
+до|prep|hasta; antes de|*До* свидания!|¡Adiós!|Я работаю *до* шести.|Trabajo hasta las seis.
+ну|int|bueno, pues; venga|*Ну*, как дела?|Bueno, ¿qué tal?|*Ну* давай, быстрее!|¡Venga, más rápido!
+их|pron|los, las, a ellos; su, sus (de ellos)|Я *их* видел.|Los vi.|Это *их* собака.|Es su perro.
+бу́дет|v|será, estará (futuro de «быть»); habrá|Завтра *будет* дождь.|Mañana lloverá.|Всё *будет* хорошо.|Todo irá bien.
+и́ли|conj|o|Чай *или* кофе?|¿Té o café?|Сегодня *или* завтра.|Hoy o mañana.
+кто|pron|quién|*Кто* это?|¿Quién es?|*Кто* там?|¿Quién está ahí?
+вас|pron|os, a vosotros; le, les, a usted (genitivo y acusativo de «вы»)|Я *вас* не понимаю.|No le entiendo.|Как *вас* зовут?|¿Cómo se llama usted?
+вот|part|aquí está, he aquí; pues|*Вот* мой паспорт.|Aquí está mi pasaporte.|*Вот* это да!|¡Vaya!
+здесь|adv|aquí|Я *здесь*.|Estoy aquí.|*Здесь* нельзя курить.|Aquí no se puede fumar.
+хорошо́|adv|bien; vale, de acuerdo|Я *хорошо* себя чувствую.|Me siento bien.|*Хорошо*, я согласен.|Vale, estoy de acuerdo.
+быть|v|ser, estar|Я хочу *быть* врачом.|Quiero ser médico.|Может *быть*.|Puede ser.
+нас|pron|nos, a nosotros (genitivo, acusativo y preposicional de «мы»)|Подожди *нас*!|¡Espéranos!|У *нас* нет денег.|No tenemos dinero.
+о́чень|adv|muy; mucho|Мне *очень* нравится.|Me gusta mucho.|Это *очень* важно.|Es muy importante.
+всё|pron|todo; ya está, se acabó|*Всё* хорошо.|Todo está bien.|Я *всё* понял.|Lo he entendido todo.
+зна́ю|v|sé, conozco (de «знать»)|Я не *знаю*.|No lo sé.|Я *знаю* этого человека.|Conozco a esta persona.
+чем|pron|que (en comparaciones); con qué (instrumental de «что»)|Он старше, *чем* я.|Es mayor que yo.|*Чем* ты занимаешься?|¿A qué te dedicas?
+была́|v|era, estaba, fue (pasado femenino de «быть»)|Она *была* дома.|Ella estaba en casa.|Это *была* ошибка.|Fue un error.
+где|adv|dónde|*Где* ты живёшь?|¿Dónde vives?|Я не знаю, *где* он.|No sé dónde está.
+вре́мя|sn|tiempo; momento|*Время* идёт быстро.|El tiempo pasa rápido.|Сейчас не *время*.|Ahora no es el momento.
+э́того|pron|de esto, de este (genitivo de «это», «этот»)|Я не хочу *этого*.|No quiero esto.|После *этого* мы ушли.|Después de eso nos fuimos.
+сейча́с|adv|ahora; ahora mismo, enseguida|Я *сейчас* занят.|Ahora estoy ocupado.|*Сейчас* приду!|¡Ahora voy!
+почему́|adv|por qué|*Почему* ты плачешь?|¿Por qué lloras?|Не знаю, *почему*.|No sé por qué.
+там|adv|allí, ahí|Кто *там*?|¿Quién está ahí?|Я был *там* вчера.|Estuve allí ayer.
+э́том|pron|en esto, en este (preposicional de «это», «этот»)|Не думай об *этом*.|No pienses en eso.|В *этом* доме живёт мой друг.|En esta casa vive mi amigo.
+со|prep|con; de (= «с» ante algunos grupos de consonantes)|Пойдём *со* мной.|Ven conmigo.|Что *со* тобой?|¿Qué te pasa?
+вам|pron|os, a vosotros; le, les, a usted (dativo de «вы»)|Я *вам* помогу.|Le ayudaré.|Как *вам* Москва?|¿Qué le parece Moscú?
+бо́льше|adv|más; больше не = ya no|Мне нужно *больше* времени.|Necesito más tiempo.|Я *больше* не курю.|Ya no fumo.
+бы́ли|v|eran, estaban, fueron (pasado plural de «быть»)|Мы *были* в театре.|Estuvimos en el teatro.|Где вы *были*?|¿Dónde estabais?
+нам|pron|nos, a nosotros (dativo de «мы»)|Помогите *нам*!|¡Ayúdennos!|*Нам* пора.|Tenemos que irnos.
+ну́жно|adv|hay que, es necesario; (me) hace falta|Мне *нужно* идти.|Tengo que irme.|Что тебе *нужно*?|¿Qué necesitas?
+да́же|part|incluso, hasta; даже не = ni siquiera|*Даже* дети это знают.|Hasta los niños lo saben.|Он *даже* не позвонил.|Ni siquiera llamó.
+тепе́рь|adv|ahora (a partir de ahora)|*Теперь* я понимаю.|Ahora lo entiendo.|*Теперь* ты знаешь правду.|Ahora sabes la verdad.
+могу́|v|puedo (de «мочь»)|Я *могу* помочь?|¿Puedo ayudar?|Я не *могу* спать.|No puedo dormir.
+спаси́бо|int|gracias|*Спасибо* за помощь!|¡Gracias por la ayuda!|Большое *спасибо*!|¡Muchas gracias!
+хочу́|v|quiero (de «хотеть»)|Я *хочу* пить.|Tengo sed.|Я *хочу* домой.|Quiero irme a casa.
+ничего́|pron|nada; no pasa nada, no está mal|Я *ничего* не вижу.|No veo nada.|*Ничего* страшного.|No pasa nada.
+что́-то|pron|algo|*Что-то* случилось?|¿Ha pasado algo?|Я хочу *что-то* сказать.|Quiero decir algo.
+во|prep|en, a (= «в» ante algunos grupos de consonantes)|*Во* сколько начинается фильм?|¿A qué hora empieza la película?|Мы познакомились *во* время отпуска.|Nos conocimos durante las vacaciones.
+по́сле|prep|después de|*После* обеда я сплю.|Después de comer duermo.|Увидимся *после* работы.|Nos vemos después del trabajo.
+раз|sm|vez; uno (al contar)|Ещё *раз*!|¡Otra vez!|Я был там только один *раз*.|Solo estuve allí una vez.
+того́|pron|de eso, de aquel (genitivo de «то», «тот»)|После *того* как он ушёл, стало тихо.|Después de que se fuera, todo quedó en silencio.|Я *того* же мнения.|Soy de la misma opinión.
+э́тот|det|este (masculino)|*Этот* дом очень старый.|Esta casa es muy vieja.|Мне нравится *этот* фильм.|Me gusta esta película.
+мой|det|mi, mío (masculino)|Это *мой* брат.|Este es mi hermano.|Где *мой* телефон?|¿Dónde está mi teléfono?
+ли|part|(partícula interrogativa); si (en preguntas indirectas)|Знаешь *ли* ты его?|¿Lo conoces?|Не знаю, придёт *ли* он.|No sé si vendrá.
+потому́|adv|por eso; потому что = porque|Я не пришёл, *потому* что болел.|No vine porque estaba enfermo.|*Потому* что я так хочу!|¡Porque quiero!
+себя́|pron|a sí mismo, se (reflexivo)|Как ты *себя* чувствуешь?|¿Cómo te sientes?|Береги *себя*!|¡Cuídate!
+на́до|adv|hay que, es necesario; hace falta|Мне *надо* работать.|Tengo que trabajar.|Не *надо*!|¡No hace falta!
+при|prep|en presencia de, delante de; al, durante|Не говори так *при* детях.|No hables así delante de los niños.|*При* входе покажите билет.|Muestre la entrada al entrar.
+ему́|pron|le, a él (dativo de «он»)|Позвони *ему*.|Llámalo.|*Ему* десять лет.|Tiene diez años.
+ни|part|ni (refuerza la negación)|У меня нет *ни* копейки.|No tengo ni un céntimo.|*Ни* за что!|¡Ni hablar!
+об|prep|sobre, de (= «о» ante vocal)|Расскажи *об* этом.|Cuéntame sobre eso.|Я думаю *об* отпуске.|Pienso en las vacaciones.
