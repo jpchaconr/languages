@@ -1,0 +1,219 @@
+someone|pron|alguien|*Someone* is at the door.|Alguien está en la puerta.|I need *someone* to help me.|Necesito a alguien que me ayude.
+lot|s|montón, mucho (a lot)|Thanks a *lot*!|¡Muchas gracias!|She has a *lot* of friends.|Ella tiene muchos amigos.
+sir|s|señor (trato de respeto)|Yes, *sir*.|Sí, señor.|Excuse me, *sir*.|Disculpe, señor.
+next|adj|siguiente, próximo|See you *next* week.|Nos vemos la semana que viene.|Who is *next*?|¿Quién es el siguiente?
+might|v|podría, quizá (posibilidad)|It *might* rain later.|Podría llover más tarde.|She *might* be right.|Puede que tenga razón.
+show|v|mostrar; s: espectáculo|Can you *show* me the way?|¿Puedes mostrarme el camino?|We watched a good *show*.|Vimos un buen espectáculo.
+won|v|ganó, ganaron (pasado de «win»)|Our team *won* the game.|Nuestro equipo ganó el partido.|She *won* first prize.|Ella ganó el primer premio.
+found|v|encontró, encontré (pasado de «find»)|I *found* my keys.|Encontré mis llaves.|She *found* a new job.|Ella encontró un trabajo nuevo.
+done|v|hecho, terminado (de «do»)|I'm *done* with my homework.|Terminé mi tarea.|Well *done*!|¡Bien hecho!
+left|adj|izquierdo; v: se fue (pasado de «leave»)|Turn *left* at the corner.|Gira a la izquierda en la esquina.|He *left* an hour ago.|Se fue hace una hora.
+since|conj|desde, desde que; ya que|I've lived here *since* 2010.|Vivo aquí desde 2010.|*Since* it's late, let's go.|Como es tarde, vámonos.
+without|prep|sin|Coffee *without* sugar, please.|Café sin azúcar, por favor.|I can't live *without* music.|No puedo vivir sin música.
+believe|v|creer|I *believe* you.|Te creo.|Do you *believe* in luck?|¿Crees en la suerte?
+leave|v|irse, dejar, salir|I have to *leave* now.|Tengo que irme ya.|Please *leave* your bag here.|Deja tu bolso aquí, por favor.
+part|s|parte, papel|This is the best *part* of the movie.|Esta es la mejor parte de la película.|She plays a big *part* in the team.|Ella tiene un papel importante en el equipo.
+guys|s|chicos, tíos (informal)|Hey *guys*, come here!|¡Eh, chicos, vengan aquí!|You *guys* are funny.|Ustedes son graciosos.
+enough|adv|suficiente, bastante|I have *enough* money.|Tengo suficiente dinero.|That's *enough*!|¡Ya basta!
+family|s|familia|I love my *family*.|Quiero a mi familia.|Her *family* lives in Chile.|Su familia vive en Chile.
+today|adv|hoy|What are you doing *today*?|¿Qué haces hoy?|It's cold *today*.|Hoy hace frío.
+guy|s|tipo, chico (informal)|He is a nice *guy*.|Es un buen tipo.|Who is that *guy*?|¿Quién es ese tipo?
+bad|adj|malo, mal|That's *bad* news.|Eso son malas noticias.|I have a *bad* cold.|Tengo un mal resfriado.
+school|s|escuela, colegio|The kids go to *school* by bus.|Los niños van a la escuela en autobús.|*School* starts at eight.|La escuela empieza a las ocho.
+came|v|vino, vine (pasado de «come»)|She *came* home late.|Ella llegó tarde a casa.|They *came* by car.|Vinieron en coche.
+getting|v|consiguiendo, poniéndose (de «get»)|It's *getting* dark.|Se está haciendo de noche.|I'm *getting* tired.|Me estoy cansando.
+kind|s|tipo, clase; adj: amable|What *kind* of music do you like?|¿Qué tipo de música te gusta?|She is very *kind*.|Ella es muy amable.
+looking|v|mirando, buscando (de «look»)|I'm *looking* for my keys.|Estoy buscando mis llaves.|What are you *looking* at?|¿Qué estás mirando?
+care|v|importar, cuidar; s: cuidado|I don't *care*.|No me importa.|Take *care* of yourself.|Cuídate.
+thanks|int|gracias|*Thanks* for your help.|Gracias por tu ayuda.|*Thanks*, I appreciate it.|Gracias, te lo agradezco.
+end|s|final, fin; v: terminar|This is the *end* of the story.|Este es el final de la historia.|The movie will *end* soon.|La película terminará pronto.
+real|adj|real, verdadero|Is this *real* gold?|¿Es oro de verdad?|It's a *real* problem.|Es un problema real.
+course|s|curso; of course = claro|Of *course*!|¡Claro que sí!|I'm taking a Spanish *course*.|Estoy haciendo un curso de español.
+between|prep|entre|Sit *between* us.|Siéntate entre nosotros.|It's *between* the bank and the shop.|Está entre el banco y la tienda.
+under|prep|debajo de, bajo|The cat is *under* the table.|El gato está debajo de la mesa.|He is *under* pressure.|Está bajo presión.
+girl|s|chica, niña|That *girl* is my cousin.|Esa chica es mi prima.|The little *girl* smiled.|La niña sonrió.
+nice|adj|agradable, simpático, bonito|Have a *nice* day!|¡Que tengas un buen día!|She is very *nice*.|Ella es muy simpática.
+coming|v|viniendo (de «come»)|I'm *coming*!|¡Ya voy!|Are you *coming* to the party?|¿Vienes a la fiesta?
+father|s|padre|My *father* is a teacher.|Mi padre es profesor.|He looks like his *father*.|Se parece a su padre.
+each|det|cada, cada uno|*Each* student has a book.|Cada estudiante tiene un libro.|They cost two euros *each*.|Cuestan dos euros cada uno.
+wanted|v|quiso, quería (pasado de «want»)|I *wanted* to call you.|Quería llamarte.|She *wanted* a coffee.|Ella quería un café.
+try|v|intentar, probar|Let me *try* again.|Déjame intentarlo otra vez.|*Try* this cake!|¡Prueba este pastel!
+went|v|fue, fui (pasado de «go»)|We *went* to the beach.|Fuimos a la playa.|She *went* home early.|Ella se fue a casa temprano.
+wrong|adj|equivocado, incorrecto, mal|You are *wrong*.|Estás equivocado.|What's *wrong*?|¿Qué pasa?
+days|s|días|I stayed for three *days*.|Me quedé tres días.|These *days* I'm very busy.|Estos días estoy muy ocupado.
+high|adj|alto (altura), elevado|That mountain is very *high*.|Esa montaña es muy alta.|Prices are *high* here.|Los precios son altos aquí.
+called|v|llamó, llamado (de «call»)|My dog is *called* Max.|Mi perro se llama Max.|She *called* me last night.|Ella me llamó anoche.
+already|adv|ya|I've *already* eaten.|Ya he comido.|Is it *already* five o'clock?|¿Ya son las cinco?
+game|s|juego, partido|Let's play a *game*.|Juguemos a un juego.|We watched the *game* on TV.|Vimos el partido por la tele.
+understand|v|entender, comprender|I don't *understand*.|No entiendo.|Do you *understand* Spanish?|¿Entiendes español?
+car|s|coche, auto, carro|He drives a red *car*.|Conduce un coche rojo.|Where did you park the *car*?|¿Dónde aparcaste el coche?
+stay|v|quedarse, permanecer|Please *stay* here.|Por favor, quédate aquí.|We *stay* at a small hotel.|Nos alojamos en un hotel pequeño.
+live|v|vivir; adj: en vivo|I *live* in Madrid.|Vivo en Madrid.|Where do you *live*?|¿Dónde vives?
+remember|v|recordar, acordarse|Do you *remember* me?|¿Me recuerdas?|I can't *remember* his name.|No recuerdo su nombre.
+play|v|jugar, tocar; s: obra de teatro|The kids *play* in the park.|Los niños juegan en el parque.|She can *play* the piano.|Ella sabe tocar el piano.
+job|s|trabajo, empleo|She has a good *job*.|Ella tiene un buen trabajo.|I'm looking for a *job*.|Estoy buscando trabajo.
+fine|adj|bien, estupendo; s: multa|I'm *fine*, thanks.|Estoy bien, gracias.|That's *fine* with me.|Por mí está bien.
+seen|v|visto (de «see»)|Have you *seen* my keys?|¿Has visto mis llaves?|I've never *seen* snow.|Nunca he visto nieve.
+until|prep|hasta, hasta que|Wait *until* Monday.|Espera hasta el lunes.|I stayed *until* he came back.|Me quedé hasta que volvió.
+few|det|pocos; a few = unos cuantos|I have a *few* questions.|Tengo unas cuantas preguntas.|Only a *few* people came.|Solo vinieron unas pocas personas.
+start|v|empezar, comenzar; s: inicio|The class will *start* soon.|La clase empezará pronto.|Let's *start* now.|Empecemos ya.
+state|s|estado; v: declarar|California is a *state* in the US.|California es un estado de EE. UU.|What *state* are you from?|¿De qué estado eres?
+trying|v|intentando (de «try»)|I'm *trying* to sleep.|Estoy intentando dormir.|She is *trying* her best.|Ella está haciendo lo posible.
+once|adv|una vez; en cuanto|I go there *once* a week.|Voy allí una vez a la semana.|*Once* upon a time...|Érase una vez...
+else|adv|más, otro (something else)|What *else* do you need?|¿Qué más necesitas?|Anything *else*?|¿Algo más?
+ask|v|preguntar, pedir|Can I *ask* you a question?|¿Puedo hacerte una pregunta?|*Ask* him for help.|Pídele ayuda.
+against|prep|contra, en contra de|I'm *against* the plan.|Estoy en contra del plan.|We play *against* Spain today.|Hoy jugamos contra España.
+together|adv|juntos|We work *together*.|Trabajamos juntos.|Let's go *together*.|Vayamos juntos.
+yet|adv|todavía, aún, ya (en preguntas)|I haven't finished *yet*.|Todavía no he terminado.|Have you eaten *yet*?|¿Ya has comido?
+actually|adv|en realidad, de hecho|*Actually*, I'm not hungry.|En realidad, no tengo hambre.|What did he *actually* say?|¿Qué dijo realmente?
+second|num|segundo; s: segundo (tiempo)|This is my *second* coffee.|Este es mi segundo café.|Wait a *second*.|Espera un segundo.
+head|s|cabeza; v: dirigirse|My *head* hurts.|Me duele la cabeza.|She shook her *head*.|Ella negó con la cabeza.
+mind|s|mente; v: importar, molestar|Do you *mind* if I sit here?|¿Te importa si me siento aquí?|Change your *mind*.|Cambia de opinión.
+mother|s|madre|My *mother* cooks very well.|Mi madre cocina muy bien.|She is a *mother* of two.|Es madre de dos hijos.
+took|v|tomó, llevó (pasado de «take»)|She *took* the bus.|Ella tomó el autobús.|It *took* two hours.|Tardó dos horas.
+shit|s|mierda (vulgar); int: ¡mierda!|Oh *shit*, I forgot my keys!|¡Mierda, olvidé las llaves!|Don't talk *shit*.|No digas tonterías.
+men|s|hombres|The *men* are working.|Los hombres están trabajando.|There were three *men* in the room.|Había tres hombres en la habitación.
+happened|v|ocurrió, pasó (de «happen»)|What *happened*?|¿Qué pasó?|It *happened* last night.|Ocurrió anoche.
+hard|adj|duro, difícil; adv: mucho|The bed is too *hard*.|La cama es demasiado dura.|She works very *hard*.|Ella trabaja muchísimo.
+having|v|teniendo, tomando (de «have»)|We're *having* dinner.|Estamos cenando.|She is *having* a good time.|Ella lo está pasando bien.
+woman|s|mujer|That *woman* is my teacher.|Esa mujer es mi profesora.|A *woman* called you.|Una mujer te llamó.
+hear|v|oír, escuchar|I can't *hear* you.|No te oigo.|Did you *hear* that noise?|¿Oíste ese ruido?
+business|s|negocio, empresa|He runs a small *business*.|Dirige un pequeño negocio.|It's none of your *business*.|No es asunto tuyo.
+talking|v|hablando (de «talk»)|Who are you *talking* to?|¿Con quién hablas?|They are *talking* about work.|Están hablando del trabajo.
+friend|s|amigo, amiga|She is my best *friend*.|Ella es mi mejor amiga.|I met an old *friend*.|Me encontré con un viejo amigo.
+team|s|equipo|Our *team* won the match.|Nuestro equipo ganó el partido.|She works in a small *team*.|Ella trabaja en un equipo pequeño.
+case|s|caso; maleta|In that *case*, I'll stay.|En ese caso, me quedo.|It's a difficult *case*.|Es un caso difícil.
+run|v|correr; dirigir|I *run* every morning.|Corro todas las mañanas.|They *run* a small restaurant.|Ellos dirigen un restaurante pequeño.
+room|s|habitación, sala; espacio|My *room* is upstairs.|Mi habitación está arriba.|There is no *room* for more.|No hay espacio para más.
+whole|adj|entero, todo|I ate the *whole* pizza.|Me comí la pizza entera.|The *whole* class laughed.|Toda la clase se rió.
+number|s|número|What's your phone *number*?|¿Cuál es tu número de teléfono?|Choose a *number*.|Elige un número.
+son|s|hijo|They have a *son* and a daughter.|Tienen un hijo y una hija.|Her *son* is five years old.|Su hijo tiene cinco años.
+everyone|pron|todos, todo el mundo|*Everyone* is here.|Todos están aquí.|*Everyone* likes her.|A todo el mundo le cae bien.
+morning|s|mañana|Good *morning*!|¡Buenos días!|I run every *morning*.|Corro todas las mañanas.
+saw|v|vio, vi (pasado de «see»); s: sierra|I *saw* him yesterday.|Lo vi ayer.|We *saw* a good movie.|Vimos una buena película.
+different|adj|diferente, distinto|We have *different* opinions.|Tenemos opiniones diferentes.|This one is *different*.|Este es diferente.
+during|prep|durante|I slept *during* the flight.|Dormí durante el vuelo.|*During* the summer we travel.|Durante el verano viajamos.
+person|s|persona|She is a very kind *person*.|Ella es una persona muy amable.|Every *person* is different.|Cada persona es diferente.
+yourself|pron|tú mismo, te|Please help *yourself*.|Sírvete, por favor.|Be *yourself*.|Sé tú mismo.
+listen|v|escuchar|*Listen* to me, please.|Escúchame, por favor.|I *listen* to music every day.|Escucho música todos los días.
+open|v|abrir; adj: abierto|*Open* the window, please.|Abre la ventana, por favor.|The shop is *open*.|La tienda está abierta.
+free|adj|libre, gratis|Are you *free* tonight?|¿Estás libre esta noche?|The coffee is *free*.|El café es gratis.
+music|s|música|I love this *music*.|Me encanta esta música.|What kind of *music* do you like?|¿Qué tipo de música te gusta?
+set|v|poner, fijar; s: conjunto|*Set* the table, please.|Pon la mesa, por favor.|I *set* my alarm for seven.|Puse la alarma a las siete.
+move|v|mover, mudarse|Don't *move*!|¡No te muevas!|We *move* to Madrid next month.|Nos mudamos a Madrid el mes que viene.
+hello|int|hola|*Hello*, how are you?|Hola, ¿cómo estás?|Say *hello* to your mother.|Saluda a tu madre de mi parte.
+dad|s|papá|My *dad* is a doctor.|Mi papá es médico.|*Dad*, can you help me?|Papá, ¿puedes ayudarme?
+times|s|veces, tiempos|I've seen it three *times*.|Lo he visto tres veces.|Those were good *times*.|Eran buenos tiempos.
+says|v|dice (de «say»)|She *says* she is tired.|Ella dice que está cansada.|What does the sign say? — It *says* «Exit».|¿Qué dice el cartel? — Dice «Salida».
+change|v|cambiar; s: cambio, monedas|People *change*.|La gente cambia.|Keep the *change*.|Quédese con el cambio.
+fuck|v|joder (vulgar); int: ¡joder!|Oh *fuck*, I'm late!|¡Joder, llego tarde!|What the *fuck* was that?|¿Qué coño fue eso?
+city|s|ciudad|Madrid is a big *city*.|Madrid es una ciudad grande.|I love living in the *city*.|Me encanta vivir en la ciudad.
+pretty|adj|bonito; adv: bastante|She has a *pretty* smile.|Ella tiene una sonrisa bonita.|It's *pretty* cold today.|Hoy hace bastante frío.
+water|s|agua|Can I have some *water*?|¿Puedo tomar un poco de agua?|The *water* is cold.|El agua está fría.
+later|adv|más tarde, después|See you *later*!|¡Hasta luego!|I'll call you *later*.|Te llamaré más tarde.
+dead|adj|muerto|The battery is *dead*.|La batería está muerta.|The plant is *dead*.|La planta está muerta.
+face|s|cara, rostro; v: enfrentar|Wash your *face*.|Lávate la cara.|She has a kind *face*.|Tiene una cara amable.
+idea|s|idea|That's a good *idea*!|¡Es una buena idea!|I have no *idea*.|No tengo ni idea.
+kill|v|matar|Don't *kill* the plant!|¡No mates la planta!|That noise will *kill* me.|Ese ruido me va a matar.
+bit|s|poco, trozo (a bit)|Wait a *bit*.|Espera un poco.|I'm a *bit* tired.|Estoy un poco cansado.
+hope|v|esperar, desear; s: esperanza|I *hope* you feel better.|Espero que te mejores.|Don't lose *hope*.|No pierdas la esperanza.
+point|s|punto; v: señalar|That's a good *point*.|Es un buen punto.|Don't *point* at people.|No señales a la gente.
+friends|s|amigos|I'm going out with my *friends*.|Voy a salir con mis amigos.|We are good *friends*.|Somos buenos amigos.
+happy|adj|feliz, contento|I'm very *happy* today.|Hoy estoy muy feliz.|*Happy* birthday!|¡Feliz cumpleaños!
+week|s|semana|I'll see you next *week*.|Te veré la semana que viene.|There are seven days in a *week*.|Una semana tiene siete días.
+baby|s|bebé|The *baby* is sleeping.|El bebé está durmiendo.|She's going to have a *baby*.|Va a tener un bebé.
+matter|v|importar; s: asunto|It doesn't *matter*.|No importa.|What's the *matter*?|¿Qué pasa?
+making|v|haciendo (de «make»)|What are you *making*?|¿Qué estás preparando?|She is *making* a cake.|Ella está haciendo un pastel.
+women|s|mujeres|The *women* are talking.|Las mujeres están hablando.|Many *women* work here.|Aquí trabajan muchas mujeres.
+ago|adv|hace (tiempo)|I saw him two days *ago*.|Lo vi hace dos días.|How long *ago* was that?|¿Hace cuánto fue eso?
+problem|s|problema|We have a *problem*.|Tenemos un problema.|No *problem*!|¡No hay problema!
+four|num|cuatro|I have *four* brothers.|Tengo cuatro hermanos.|The table has *four* legs.|La mesa tiene cuatro patas.
+far|adv|lejos; adj: lejano|Is it *far* from here?|¿Está lejos de aquí?|So *far*, so good.|Hasta ahora, todo bien.
+boy|s|chico, niño|The *boy* is playing outside.|El niño está jugando afuera.|She has a *boy* and a girl.|Tiene un niño y una niña.
+read|v|leer|I *read* the news every day.|Leo las noticias todos los días.|Can you *read* this word?|¿Puedes leer esta palabra?
+saying|v|diciendo (de «say»); s: refrán|What are you *saying*?|¿Qué estás diciendo?|He kept *saying* sorry.|No dejaba de pedir perdón.
+ready|adj|listo, preparado|Are you *ready*?|¿Estás listo?|Dinner is *ready*.|La cena está lista.
+heard|v|oyó, oído (de «hear»)|I *heard* a noise.|Oí un ruido.|Have you *heard* the news?|¿Has oído las noticias?
+anyone|pron|alguien, nadie, cualquiera|Is *anyone* there?|¿Hay alguien ahí?|I don't know *anyone* here.|No conozco a nadie aquí.
+miss|v|echar de menos, perder; s: señorita|I *miss* you.|Te echo de menos.|Don't *miss* the bus.|No pierdas el autobús.
+mom|s|mamá|My *mom* makes great soup.|Mi mamá hace una sopa estupenda.|*Mom*, I'm home!|¡Mamá, ya llegué!
+lost|adj|perdido; v: perdió (de «lose»)|I'm *lost*.|Estoy perdido.|She *lost* her keys.|Perdió sus llaves.
+looks|v|parece, mira (de «look»); s: aspecto|She *looks* happy.|Ella parece feliz.|It *looks* like rain.|Parece que va a llover.
+working|v|trabajando, funcionando (de «work»)|I'm *working* today.|Hoy estoy trabajando.|The elevator isn't *working*.|El ascensor no funciona.
+true|adj|verdadero, cierto|Is that *true*?|¿Es verdad eso?|Your dream will come *true*.|Tu sueño se hará realidad.
+company|s|empresa, compañía|She works for a big *company*.|Ella trabaja para una empresa grande.|Thanks for your *company*.|Gracias por tu compañía.
+hell|s|infierno; what the hell = ¿qué demonios?|What the *hell* is that?|¿Qué demonios es eso?|It was *hell* on earth.|Fue un infierno.
+hi|int|hola|*Hi*, everyone!|¡Hola a todos!|*Hi*, how's it going?|Hola, ¿qué tal?
+hand|s|mano; v: pasar, entregar|Give me your *hand*.|Dame la mano.|Can you give me a *hand*?|¿Me echas una mano?
+party|s|fiesta; partido (político)|We had a *party* last night.|Anoche hicimos una fiesta.|Are you coming to the *party*?|¿Vienes a la fiesta?
+young|adj|joven|She is very *young*.|Ella es muy joven.|*Young* people love music.|A los jóvenes les encanta la música.
+myself|pron|yo mismo, me|I did it *myself*.|Lo hice yo mismo.|I hurt *myself*.|Me hice daño.
+five|num|cinco|I have *five* fingers.|Tengo cinco dedos.|The meeting is at *five*.|La reunión es a las cinco.
+fucking|adj|puñetero, maldito (vulgar)|It's *fucking* cold!|¡Hace un frío de mil demonios!|Turn off that *fucking* phone!|¡Apaga ese puto teléfono!
+side|s|lado|Sit on this *side*.|Siéntate de este lado.|The bank is on the other *side* of the street.|El banco está al otro lado de la calle.
+though|conj|aunque; adv: sin embargo|It's cold, *though* sunny.|Hace frío, aunque hay sol.|I like it. Expensive, *though*.|Me gusta. Aunque es caro.
+meet|v|conocer, encontrarse|Nice to *meet* you.|Encantado de conocerte.|Let's *meet* at six.|Quedemos a las seis.
+bring|v|traer, llevar|*Bring* your umbrella.|Trae tu paraguas.|Can you *bring* some water?|¿Puedes traer agua?
+full|adj|lleno, completo|The bus is *full*.|El autobús está lleno.|I'm *full*, thanks.|Estoy lleno, gracias.
+makes|v|hace, fabrica (de «make»)|She *makes* great coffee.|Ella hace un café excelente.|That *makes* sense.|Eso tiene sentido.
+phone|s|teléfono|My *phone* is ringing.|Mi teléfono está sonando.|Turn off your *phone*, please.|Apaga el teléfono, por favor.
+knew|v|sabía, conocía (pasado de «know»)|I *knew* it!|¡Lo sabía!|She *knew* the answer.|Ella sabía la respuesta.
+wife|s|esposa, mujer|His *wife* is a doctor.|Su esposa es médica.|I met my *wife* in Rome.|Conocí a mi esposa en Roma.
+power|s|poder, energía|Knowledge is *power*.|El conocimiento es poder.|The *power* went out.|Se fue la luz.
+police|s|policía (cuerpo)|Call the *police*!|¡Llama a la policía!|The *police* arrived quickly.|La policía llegó rápido.
+top|s|parte superior, cima; adj: mejor|We climbed to the *top*.|Subimos hasta la cima.|She is a *top* student.|Es una estudiante excelente.
+hold|v|sostener, agarrar|*Hold* my hand.|Agárrame la mano.|Can you *hold* this bag?|¿Puedes sostener esta bolsa?
+means|v|significa (de «mean»); s: medio|This sign *means* «stop».|Esta señal significa «alto».|It *means* a lot to me.|Significa mucho para mí.
+probably|adv|probablemente|It will *probably* rain.|Probablemente llueva.|He is *probably* at home.|Probablemente esté en casa.
+death|s|muerte|Her *death* was a shock.|Su muerte fue un golpe.|He is afraid of *death*.|Le tiene miedo a la muerte.
+pay|v|pagar; s: sueldo|I'll *pay* for dinner.|Yo pago la cena.|How much do you *pay* for rent?|¿Cuánto pagas de alquiler?
+turn|v|girar, volverse; s: turno|*Turn* left at the corner.|Gira a la izquierda en la esquina.|It's your *turn*.|Es tu turno.
+children|s|niños, hijos|The *children* are playing.|Los niños están jugando.|They have three *children*.|Tienen tres hijos.
+story|s|historia, cuento|Tell me a *story*.|Cuéntame un cuento.|That's a long *story*.|Es una historia larga.
+watch|v|mirar, ver; s: reloj|Let's *watch* a movie.|Veamos una película.|I lost my *watch*.|Perdí mi reloj.
+soon|adv|pronto|See you *soon*!|¡Hasta pronto!|The film starts *soon*.|La película empieza pronto.
+important|adj|importante|It's very *important*.|Es muy importante.|Family is *important* to me.|La familia es importante para mí.
+least|adv|menos; at least = al menos|At *least* call me.|Al menos llámame.|That's the *least* I can do.|Es lo mínimo que puedo hacer.
+heart|s|corazón|My *heart* is beating fast.|Mi corazón late rápido.|She has a kind *heart*.|Tiene un corazón bondadoso.
+guess|v|suponer, adivinar|I *guess* you're right.|Supongo que tienes razón.|Can you *guess* my age?|¿Puedes adivinar mi edad?
+line|s|línea, fila|Stand in *line*, please.|Hagan fila, por favor.|Draw a straight *line*.|Dibuja una línea recta.
+taking|v|tomando, llevando (de «take»)|I'm *taking* a shower.|Me estoy duchando.|She is *taking* the bus.|Ella va en autobús.
+brother|s|hermano|My *brother* lives in Berlin.|Mi hermano vive en Berlín.|He is my younger *brother*.|Él es mi hermano menor.
+war|s|guerra|The *war* ended in 1945.|La guerra terminó en 1945.|Nobody wants *war*.|Nadie quiere la guerra.
+body|s|cuerpo|Exercise is good for your *body*.|El ejercicio es bueno para el cuerpo.|Her *body* is tired.|Su cuerpo está cansado.
+late|adj|tarde, tardío|I'm *late* for work.|Llego tarde al trabajo.|It's too *late* now.|Ya es demasiado tarde.
+order|s|orden, pedido; v: pedir|Can I take your *order*?|¿Puedo tomar su pedido?|I'll *order* the soup.|Pediré la sopa.
+killed|v|mató, matado (de «kill»)|The storm *killed* the plants.|La tormenta mató las plantas.|He was *killed* in an accident.|Murió en un accidente.
+door|s|puerta|Close the *door*, please.|Cierra la puerta, por favor.|Someone is at the *door*.|Alguien está en la puerta.
+white|adj|blanco|She wore a *white* dress.|Llevaba un vestido blanco.|I like *white* wine.|Me gusta el vino blanco.
+hit|v|golpear, pegar; s: éxito|Don't *hit* your brother.|No le pegues a tu hermano.|The song was a big *hit*.|La canción fue un gran éxito.
+gone|v|ido (de «go»)|He has *gone* home.|Se ha ido a casa.|The money is *gone*.|El dinero ya no está.
+small|adj|pequeño|It's a *small* town.|Es un pueblo pequeño.|I need a *small* coffee.|Necesito un café pequeño.
+alone|adj|solo|I live *alone*.|Vivo solo.|Leave me *alone*!|¡Déjame en paz!
+country|s|país; campo|Spain is a beautiful *country*.|España es un país hermoso.|They live in the *country*.|Viven en el campo.
+able|adj|capaz (be able to = poder)|Will you be *able* to come?|¿Podrás venir?|She is *able* to speak three languages.|Ella es capaz de hablar tres idiomas.
+wants|v|quiere (de «want»)|She *wants* a new bike.|Ella quiere una bicicleta nueva.|Who *wants* coffee?|¿Quién quiere café?
+system|s|sistema|The *system* is down.|El sistema no funciona.|We need a new *system*.|Necesitamos un sistema nuevo.
+group|s|grupo|We work in a *group*.|Trabajamos en grupo.|A *group* of students arrived.|Llegó un grupo de estudiantes.
+hours|s|horas|I slept eight *hours*.|Dormí ocho horas.|The shop's opening *hours* are nine to six.|El horario de la tienda es de nueve a seis.
+close|v|cerrar; adj: cercano|Please *close* the door.|Cierra la puerta, por favor.|We are very *close* friends.|Somos amigos muy cercanos.
+black|adj|negro|He wore a *black* coat.|Llevaba un abrigo negro.|I drink *black* coffee.|Tomo el café solo.
+started|v|empezó, comenzó (de «start»)|The movie *started* late.|La película empezó tarde.|She *started* a new job.|Ella empezó un trabajo nuevo.
+government|s|gobierno|The *government* announced a new law.|El gobierno anunció una nueva ley.|She works for the *government*.|Ella trabaja para el gobierno.
+news|s|noticias, noticia|I have good *news*!|¡Tengo buenas noticias!|I watch the *news* every night.|Veo las noticias todas las noches.
+comes|v|viene (de «come»)|She *comes* from Peru.|Ella es de Perú.|Here *comes* the bus.|Ahí viene el autobús.
+kids|s|niños, chicos (informal)|The *kids* are at school.|Los niños están en la escuela.|How many *kids* do you have?|¿Cuántos hijos tienes?
+public|adj|público|It's a *public* park.|Es un parque público.|I take *public* transport.|Uso el transporte público.
+deal|s|trato, acuerdo; v: tratar|It's a *deal*!|¡Trato hecho!|How do you *deal* with stress?|¿Cómo lidias con el estrés?
+almost|adv|casi|I *almost* forgot.|Casi se me olvida.|It's *almost* ready.|Ya casi está listo.
+half|s|mitad, medio|Cut the apple in *half*.|Corta la manzana por la mitad.|It's *half* past two.|Son las dos y media.
+tomorrow|adv|mañana|See you *tomorrow*!|¡Hasta mañana!|What are you doing *tomorrow*?|¿Qué haces mañana?
+check|v|revisar, comprobar; s: cuenta|Please *check* your email.|Por favor, revisa tu correo.|Can we have the *check*?|¿Nos trae la cuenta?
+tonight|adv|esta noche|What are you doing *tonight*?|¿Qué haces esta noche?|It will be cold *tonight*.|Esta noche hará frío.
+office|s|oficina|I'm at the *office*.|Estoy en la oficina.|Her *office* is on the third floor.|Su oficina está en el tercer piso.
+minutes|s|minutos|Wait five *minutes*.|Espera cinco minutos.|It takes ten *minutes* to walk.|Se tarda diez minutos a pie.
+thinking|v|pensando (de «think»)|I'm *thinking* about you.|Estoy pensando en ti.|What are you *thinking*?|¿Qué estás pensando?
+beautiful|adj|hermoso, bonito|What a *beautiful* day!|¡Qué día tan hermoso!|She has a *beautiful* voice.|Ella tiene una voz hermosa.
+easy|adj|fácil|The test was *easy*.|El examen fue fácil.|It's not *easy* to learn German.|No es fácil aprender alemán.
+asked|v|preguntó, pidió (de «ask»)|She *asked* me a question.|Ella me hizo una pregunta.|I *asked* for help.|Pedí ayuda.
+playing|v|jugando, tocando (de «play»)|The kids are *playing* outside.|Los niños están jugando afuera.|Who is *playing* the guitar?|¿Quién está tocando la guitarra?

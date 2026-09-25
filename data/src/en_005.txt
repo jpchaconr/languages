@@ -1,0 +1,140 @@
+pull|v|tirar, jalar|*Pull* the door, don't push.|Tira de la puerta, no empujes.|He tried to *pull* the rope.|Intentó tirar de la cuerda.
+definitely|adv|sin duda, definitivamente|I'll *definitely* come.|Sin duda iré.|That's *definitely* true.|Eso es sin duda cierto.
+normal|adj|normal|It's a *normal* day.|Es un día normal.|Is this *normal*?|¿Es esto normal?
+interesting|adj|interesante|That's very *interesting*.|Eso es muy interesante.|I read an *interesting* book.|Leí un libro interesante.
+eight|num|ocho|I get up at *eight*.|Me levanto a las ocho.|She has *eight* cousins.|Tiene ocho primos.
+society|s|sociedad|Modern *society* is fast.|La sociedad moderna es rápida.|She helps *society*.|Ella ayuda a la sociedad.
+train|s|tren; v: entrenar|I take the *train* to work.|Voy al trabajo en tren.|We *train* every morning.|Entrenamos todas las mañanas.
+meant|v|quiso decir, significó (de «mean»)|I *meant* to call you.|Tenía intención de llamarte.|What he *meant* was different.|Lo que quería decir era distinto.
+join|v|unirse, apuntarse|Do you want to *join* us?|¿Quieres unirte a nosotros?|I'll *join* the club.|Me apuntaré al club.
+wonderful|adj|maravilloso|What a *wonderful* day!|¡Qué día tan maravilloso!|You are *wonderful*.|Eres maravilloso.
+term|s|término, trimestre|Learn this *term*.|Aprende este término.|The school *term* starts in September.|El trimestre escolar empieza en septiembre.
+scared|adj|asustado|I'm *scared* of the dark.|Tengo miedo a la oscuridad.|Don't be *scared*.|No tengas miedo.
+member|s|miembro, socio|She is a *member* of the club.|Ella es socia del club.|Every *member* has a card.|Cada miembro tiene una tarjeta.
+radio|s|radio|Turn on the *radio*.|Enciende la radio.|I listen to the *radio* in the car.|Escucho la radio en el coche.
+card|s|tarjeta, carta|Can I pay by *card*?|¿Puedo pagar con tarjeta?|We play *card* games.|Jugamos a juegos de cartas.
+fair|adj|justo; s: feria|That's not *fair*!|¡Eso no es justo!|We went to the *fair*.|Fuimos a la feria.
+bet|v|apostar; s: apuesta|I *bet* you're hungry.|Apuesto a que tienes hambre.|Let's make a *bet*.|Hagamos una apuesta.
+original|adj|original|This is the *original* recipe.|Esta es la receta original.|It's an *original* idea.|Es una idea original.
+rights|s|derechos|Everyone has *rights*.|Todos tenemos derechos.|She fights for human *rights*.|Ella lucha por los derechos humanos.
+ship|s|barco; v: enviar|The *ship* leaves at noon.|El barco sale al mediodía.|We *ship* orders worldwide.|Enviamos pedidos a todo el mundo.
+alright|adv|bien, de acuerdo|Are you *alright*?|¿Estás bien?|*Alright*, let's go.|De acuerdo, vámonos.
+player|s|jugador, reproductor|He is a good football *player*.|Es un buen jugador de fútbol.|I have a music *player*.|Tengo un reproductor de música.
+visit|v|visitar; s: visita|I *visit* my parents on Sundays.|Visito a mis padres los domingos.|Thanks for your *visit*.|Gracias por tu visita.
+hotel|s|hotel|We stayed at a small *hotel*.|Nos alojamos en un hotel pequeño.|The *hotel* has a pool.|El hotel tiene piscina.
+respect|s|respeto; v: respetar|Show some *respect*.|Muestra algo de respeto.|I *respect* your opinion.|Respeto tu opinión.
+lucky|adj|afortunado, con suerte|You're *lucky*!|¡Qué suerte tienes!|I'm *lucky* to have you.|Tengo suerte de tenerte.
+miles|s|millas|It's five *miles* from here.|Está a cinco millas de aquí.|We drove two hundred *miles*.|Conducimos doscientas millas.
+huge|adj|enorme|That's a *huge* house!|¡Qué casa tan enorme!|It was a *huge* mistake.|Fue un error enorme.
+whose|pron|cuyo, de quién|*Whose* bag is this?|¿De quién es esta bolsa?|The man *whose* car was stolen called us.|El hombre cuyo coche fue robado nos llamó.
+quickly|adv|rápidamente|Please come *quickly*.|Por favor, ven rápido.|She *quickly* finished her work.|Ella terminó rápido su trabajo.
+wall|s|pared, muro|There is a picture on the *wall*.|Hay un cuadro en la pared.|The *wall* is white.|La pared es blanca.
+similar|adj|parecido, similar|Our phones are *similar*.|Nuestros teléfonos son parecidos.|They have *similar* ideas.|Tienen ideas similares.
+spend|v|gastar, pasar (tiempo)|I don't want to *spend* much.|No quiero gastar mucho.|We *spend* the summer at the beach.|Pasamos el verano en la playa.
+stage|s|escenario, etapa|The singer is on *stage*.|La cantante está en el escenario.|We are at an early *stage*.|Estamos en una etapa temprana.
+finish|v|terminar|I have to *finish* my homework.|Tengo que terminar mi tarea.|When do you *finish* work?|¿Cuándo terminas de trabajar?
+sun|s|sol|The *sun* is shining.|Brilla el sol.|Don't sit in the *sun*.|No te sientes al sol.
+event|s|evento, acontecimiento|It's a big *event*.|Es un gran evento.|We organized an *event*.|Organizamos un evento.
+received|v|recibió, recibido (de «receive»)|I *received* your message.|Recibí tu mensaje.|She *received* a gift.|Ella recibió un regalo.
+higher|adj|más alto, superior|Prices are *higher* now.|Los precios son más altos ahora.|The tower is *higher* than that one.|La torre es más alta que aquella.
+throw|v|lanzar, tirar|*Throw* me the ball!|¡Lánzame la pelota!|Don't *throw* it away.|No lo tires.
+imagine|v|imaginar|*Imagine* a big house.|Imagina una casa grande.|I can't *imagine* it.|No puedo imaginarlo.
+somewhere|adv|en algún lugar|I left it *somewhere*.|Lo dejé en algún sitio.|Let's go *somewhere* quiet.|Vamos a algún lugar tranquilo.
+spent|v|gastó, pasó (de «spend»)|I *spent* all my money.|Gasté todo mi dinero.|We *spent* a week in Rome.|Pasamos una semana en Roma.
+worse|adj|peor|It's *worse* than I thought.|Es peor de lo que pensaba.|The weather got *worse*.|El tiempo empeoró.
+rules|s|reglas, normas|Follow the *rules*.|Sigue las reglas.|There are strict *rules* here.|Aquí hay normas estrictas.
+seriously|adv|en serio|Are you *seriously* leaving?|¿Te vas en serio?|I'm *seriously* tired.|Estoy realmente cansado.
+issues|s|asuntos, problemas|We have some *issues*.|Tenemos algunos problemas.|They discussed important *issues*.|Discutieron asuntos importantes.
+caught|v|atrapó, cogió (de «catch»)|She *caught* the ball.|Ella atrapó la pelota.|I *caught* a cold.|Me resfrié.
+june|s|junio|My birthday is in *June*.|Mi cumpleaños es en junio.|We travel in *June*.|Viajamos en junio.
+complete|adj|completo; v: completar|The list is *complete*.|La lista está completa.|Please *complete* the form.|Por favor, complete el formulario.
+wear|v|llevar puesto, vestir|What should I *wear*?|¿Qué me pongo?|She likes to *wear* dresses.|Le gusta llevar vestidos.
+race|s|carrera; raza|He won the *race*.|Ganó la carrera.|Everyone is equal, whatever their *race*.|Todos somos iguales, sea cual sea la raza.
+april|s|abril|Spring starts in *April*.|La primavera empieza en abril.|Her birthday is in *April*.|Su cumpleaños es en abril.
+size|s|talla, tamaño|What *size* do you wear?|¿Qué talla usas?|The room is a good *size*.|La habitación tiene buen tamaño.
+itself|pron|se, sí mismo (cosa o animal)|The cat washed *itself*.|El gato se lavó.|The door closed by *itself*.|La puerta se cerró sola.
+wrote|v|escribió, escribí (de «write»)|She *wrote* a letter.|Ella escribió una carta.|I *wrote* to him yesterday.|Le escribí ayer.
+ice|s|hielo|Add some *ice*, please.|Añade un poco de hielo, por favor.|The lake is covered with *ice*.|El lago está cubierto de hielo.
+letter|s|carta, letra|I wrote a *letter* to my mother.|Escribí una carta a mi madre.|Please write each *letter* clearly.|Por favor, escribe cada letra con claridad.
+county|s|condado|He lives in a rural *county*.|Vive en un condado rural.|The *county* fair is in July.|La feria del condado es en julio.
+floor|s|suelo, piso|The cat is on the *floor*.|El gato está en el suelo.|My office is on the third *floor*.|Mi oficina está en el tercer piso.
+christmas|s|Navidad|Merry *Christmas*!|¡Feliz Navidad!|We visit family at *Christmas*.|Visitamos a la familia en Navidad.
+written|v|escrito (de «write»)|The book is *written* in English.|El libro está escrito en inglés.|Have you *written* to her?|¿Le has escrito?
+result|s|resultado|What was the *result*?|¿Cuál fue el resultado?|The test *result* is good.|El resultado de la prueba es bueno.
+moved|v|se mudó, movió (de «move»)|We *moved* last year.|Nos mudamos el año pasado.|She *moved* the chair.|Ella movió la silla.
+dude|s|tío, colega (informal)|Hey *dude*, what's up?|Eh, colega, ¿qué pasa?|That *dude* is funny.|Ese tío es gracioso.
+fear|s|miedo; v: temer|I have a *fear* of heights.|Tengo miedo a las alturas.|Don't *fear* the dark.|No temas a la oscuridad.
+finished|v|terminó, terminado (de «finish»)|I *finished* my homework.|Terminé mi tarea.|Are you *finished*?|¿Has terminado?
+cup|s|taza, copa|Can I have a *cup* of tea?|¿Puedo tomar una taza de té?|She broke a *cup*.|Rompió una taza.
+agree|v|estar de acuerdo|I *agree* with you.|Estoy de acuerdo contigo.|Do you *agree*?|¿Estás de acuerdo?
+uncle|s|tío|My *uncle* lives in Chile.|Mi tío vive en Chile.|I visited my *uncle* yesterday.|Ayer visité a mi tío.
+laughing|v|riendo (de «laugh»)|They are *laughing* loudly.|Se ríen a carcajadas.|Why are you *laughing*?|¿Por qué te ríes?
+online|adv|en línea; adj: en línea|I buy books *online*.|Compro libros en línea.|Is the shop open *online*?|¿Está abierta la tienda en línea?
+store|s|tienda; v: guardar|The *store* is closed.|La tienda está cerrada.|Please *store* it in a cool place.|Guárdelo en un lugar fresco.
+science|s|ciencia|I love *science*.|Me encanta la ciencia.|She teaches *science*.|Ella enseña ciencias.
+vote|v|votar; s: voto|Did you *vote* yesterday?|¿Votaste ayer?|Every *vote* counts.|Cada voto cuenta.
+natural|adj|natural|It's a *natural* reaction.|Es una reacción natural.|I prefer *natural* juice.|Prefiero el zumo natural.
+role|s|papel, función|She plays a big *role* in the team.|Ella tiene un papel importante en el equipo.|He got the lead *role*.|Consiguió el papel principal.
+language|s|idioma, lenguaje|Which *language* do you speak?|¿Qué idioma hablas?|Learning a *language* takes time.|Aprender un idioma lleva tiempo.
+protect|v|proteger|We must *protect* nature.|Debemos proteger la naturaleza.|Hats *protect* you from the sun.|Los sombreros te protegen del sol.
+hang|v|colgar|*Hang* your coat here.|Cuelga tu abrigo aquí.|Let's *hang* out tonight.|Salgamos esta noche.
+wedding|s|boda|Their *wedding* is in June.|Su boda es en junio.|I went to a beautiful *wedding*.|Fui a una boda preciosa.
+writing|v|escribiendo; s: escritura|I'm *writing* an email.|Estoy escribiendo un correo.|Her *writing* is beautiful.|Su escritura es preciosa.
+scene|s|escena|It's my favorite *scene*.|Es mi escena favorita.|The police arrived at the *scene*.|La policía llegó a la escena.
+interested|adj|interesado|I'm *interested* in art.|Me interesa el arte.|Are you *interested*?|¿Te interesa?
+industry|s|industria|He works in the film *industry*.|Trabaja en la industria del cine.|The car *industry* is growing.|La industria automovilística está creciendo.
+gives|v|da (de «give»)|She *gives* me flowers.|Ella me da flores.|It *gives* me hope.|Me da esperanza.
+mad|adj|enfadado; loco|Are you *mad* at me?|¿Estás enfadado conmigo?|You're *mad*!|¡Estás loco!
+risk|s|riesgo; v: arriesgar|It's a big *risk*.|Es un gran riesgo.|Don't *risk* your life.|No arriesgues tu vida.
+character|s|personaje, carácter|He is my favorite *character*.|Es mi personaje favorito.|She has a strong *character*.|Tiene un carácter fuerte.
+include|v|incluir|Does the price *include* breakfast?|¿El precio incluye el desayuno?|Please *include* your name.|Por favor, incluye tu nombre.
+weird|adj|raro, extraño|That's *weird*.|Eso es raro.|He is a *weird* guy.|Es un tipo raro.
+simply|adv|simplemente|It's *simply* delicious.|Es simplemente delicioso.|I *simply* don't know.|Simplemente no lo sé.
+bar|s|bar, barra|Let's meet at the *bar*.|Quedemos en el bar.|I bought a chocolate *bar*.|Compré una barra de chocolate.
+ways|s|maneras, formas|There are many *ways* to learn.|Hay muchas maneras de aprender.|We went our separate *ways*.|Cada uno siguió su camino.
+model|s|modelo; v: modelar|She works as a *model*.|Ella trabaja como modelo.|This is the latest *model*.|Este es el último modelo.
+performance|s|actuación, rendimiento|The *performance* was great.|La actuación fue genial.|The car's *performance* is excellent.|El rendimiento del coche es excelente.
+bought|v|compró, compré (de «buy»)|I *bought* a new phone.|Compré un teléfono nuevo.|She *bought* some bread.|Ella compró pan.
+ride|v|montar, ir en; s: paseo|Can you *ride* a bike?|¿Sabes montar en bici?|Thanks for the *ride*.|Gracias por llevarme.
+island|s|isla|We visited a small *island*.|Visitamos una isla pequeña.|The *island* is beautiful.|La isla es preciosa.
+design|s|diseño; v: diseñar|I love the *design*.|Me encanta el diseño.|She will *design* the poster.|Ella diseñará el cartel.
+built|v|construyó, construido (de «build»)|They *built* a new house.|Construyeron una casa nueva.|The bridge was *built* in 1900.|El puente se construyó en 1900.
+amount|s|cantidad|A small *amount* of sugar, please.|Una pequeña cantidad de azúcar, por favor.|What's the total *amount*?|¿Cuál es el importe total?
+difference|s|diferencia|What's the *difference*?|¿Cuál es la diferencia?|It makes no *difference*.|No hay diferencia.
+river|s|río|We walked along the *river*.|Caminamos a lo largo del río.|The *river* is very long.|El río es muy largo.
+marriage|s|matrimonio|Their *marriage* is happy.|Su matrimonio es feliz.|A good *marriage* needs trust.|Un buen matrimonio necesita confianza.
+source|s|fuente, origen|What's your *source*?|¿Cuál es tu fuente?|Fruit is a good *source* of vitamins.|La fruta es una buena fuente de vitaminas.
+quiet|adj|tranquilo, callado|Please be *quiet*.|Por favor, guarda silencio.|It's a *quiet* street.|Es una calle tranquila.
+happening|v|ocurriendo (de «happen»)|What's *happening*?|¿Qué está pasando?|Something strange is *happening*.|Está pasando algo extraño.
+policy|s|política, normativa|What's the company *policy*?|¿Cuál es la política de la empresa?|Honesty is the best *policy*.|La honestidad es la mejor política.
+code|s|código|Enter the *code*.|Introduce el código.|She writes computer *code*.|Ella escribe código informático.
+oil|s|aceite, petróleo|Add some olive *oil*.|Añade un poco de aceite de oliva.|The car needs *oil*.|El coche necesita aceite.
+brain|s|cerebro|The *brain* is very complex.|El cerebro es muy complejo.|Use your *brain*!|¡Usa la cabeza!
+contact|s|contacto; v: contactar|Please stay in *contact*.|Por favor, mantente en contacto.|I'll *contact* you tomorrow.|Me pondré en contacto contigo mañana.
+beginning|s|principio, comienzo|At the *beginning*, it was hard.|Al principio, fue difícil.|The *beginning* of the movie is slow.|El comienzo de la película es lento.
+value|s|valor; v: valorar|This ring has great *value*.|Este anillo tiene gran valor.|I *value* your opinion.|Valoro tu opinión.
+official|adj|oficial; s: funcionario|It's the *official* website.|Es el sitio web oficial.|The *official* language is Spanish.|El idioma oficial es el español.
+mouth|s|boca|Open your *mouth*.|Abre la boca.|Don't talk with your *mouth* full.|No hables con la boca llena.
+totally|adv|totalmente|I *totally* agree.|Estoy totalmente de acuerdo.|That's *totally* different.|Eso es totalmente distinto.
+allowed|v|permitido (be allowed to)|Smoking is not *allowed* here.|Aquí no está permitido fumar.|Are we *allowed* to take photos?|¿Se permite hacer fotos?
+property|s|propiedad|This is private *property*.|Esto es propiedad privada.|He owns a lot of *property*.|Tiene muchas propiedades.
+trade|s|comercio; v: comerciar|Fair *trade* helps farmers.|El comercio justo ayuda a los agricultores.|They *trade* with many countries.|Comercian con muchos países.
+changes|s|cambios; v: cambia (de «change»)|We need some *changes*.|Necesitamos algunos cambios.|The weather *changes* quickly.|El tiempo cambia rápido.
+page|s|página|Open your book to *page* ten.|Abre el libro por la página diez.|The web *page* is slow.|La página web es lenta.
+super|adj|genial, súper|That's *super*!|¡Eso es genial!|We had a *super* time.|Lo pasamos genial.
+companies|s|empresas|Many *companies* are hiring.|Muchas empresas están contratando.|Big *companies* pay more.|Las empresas grandes pagan más.
+build|v|construir|They *build* houses.|Construyen casas.|Let's *build* a snowman.|Construyamos un muñeco de nieve.
+style|s|estilo|I like your *style*.|Me gusta tu estilo.|It's a modern *style*.|Es un estilo moderno.
+broke|v|rompió (de «break»); adj: sin dinero|She *broke* the glass.|Ella rompió el vaso.|I'm *broke* this week.|Esta semana estoy sin blanca.
+judge|s|juez; v: juzgar|The *judge* made a decision.|El juez tomó una decisión.|Don't *judge* people.|No juzgues a la gente.
+ran|v|corrió, corrí (de «run»)|She *ran* to the bus.|Ella corrió hacia el autobús.|I *ran* five kilometers.|Corrí cinco kilómetros.
+rate|s|tasa, ritmo; v: valorar|The *rate* is very low.|La tasa es muy baja.|What's the exchange *rate*?|¿Cuál es el tipo de cambio?
+fish|s|pescado, pez; v: pescar|I like *fish* and chips.|Me gusta el pescado con patatas fritas.|We saw a big *fish*.|Vimos un pez grande.
+crime|s|crimen, delito|It's a serious *crime*.|Es un delito grave.|The *crime* happened at night.|El crimen ocurrió de noche.
+fault|s|culpa, defecto|It's not my *fault*.|No es mi culpa.|The machine has a *fault*.|La máquina tiene un defecto.
+release|v|liberar, publicar; s: lanzamiento|They will *release* the album in May.|Publicarán el álbum en mayo.|The *release* date is Friday.|La fecha de lanzamiento es el viernes.
+fighting|v|peleando (de «fight»)|The kids are *fighting*.|Los niños están peleando.|They are *fighting* for peace.|Luchan por la paz.
+football|s|fútbol (europeo), fútbol americano|We play *football* on Sundays.|Jugamos al fútbol los domingos.|He loves *football*.|Le encanta el fútbol.
+provide|v|proporcionar, ofrecer|We *provide* free coffee.|Ofrecemos café gratis.|The hotel will *provide* towels.|El hotel proporcionará toallas.
+places|s|lugares, sitios|I visited many *places*.|Visité muchos lugares.|There are nice *places* to eat here.|Aquí hay buenos sitios para comer.
+career|s|carrera profesional|She has a great *career*.|Tiene una gran carrera profesional.|He wants to change his *career*.|Quiere cambiar de carrera profesional.

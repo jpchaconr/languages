@@ -1,0 +1,201 @@
+1|art|el, la, los, las|*The* cat is sleeping.|El gato está durmiendo.|Close *the* door, please.|Cierra la puerta, por favor.
+2|prep|a, hacia, para (con infinitivo)|We're going *to* the beach.|Vamos a la playa.|I need *to* sleep.|Necesito dormir.
+3|pron|yo|*I* am hungry.|Tengo hambre.|*I* like music.|Me gusta la música.
+4|pron|tú, usted, ustedes; te, le|Are *you* ready?|¿Estás listo?|I love *you*.|Te quiero.
+5|art|un, una|I have *a* dog.|Tengo un perro.|It's *a* good idea.|Es una buena idea.
+6|conj|y|Bread *and* butter.|Pan y mantequilla.|She laughed *and* left.|Ella se rió y se fue.
+7|prep|de|A cup *of* coffee.|Una taza de café.|The end *of* the movie.|El final de la película.
+8|prep|en, dentro de|She lives *in* Madrid.|Ella vive en Madrid.|The keys are *in* my bag.|Las llaves están en mi bolso.
+9|pron|ello, lo, la (cosa o animal)|*It* is raining.|Está lloviendo.|I found *it*.|Lo encontré.
+10|conj|que; ese, eso|I know *that* you're right.|Sé que tienes razón.|*That* house is old.|Esa casa es vieja.
+11|v|es, está (de «be»)|She *is* my sister.|Ella es mi hermana.|The soup *is* hot.|La sopa está caliente.
+12|prep|para, por|This gift is *for* you.|Este regalo es para ti.|Thanks *for* everything.|Gracias por todo.
+13|prep|sobre, en, encima de|The book is *on* the table.|El libro está sobre la mesa.|See you *on* Monday.|Nos vemos el lunes.
+14|det|este, esta, esto|*This* is my house.|Esta es mi casa.|I like *this* song.|Me gusta esta canción.
+15|pron|nosotros, nosotras|*We* are late.|Llegamos tarde.|*We* live here.|Vivimos aquí.
+16|v|era, estaba, fue (pasado de «be»)|I *was* tired yesterday.|Ayer estaba cansado.|It *was* a great party.|Fue una gran fiesta.
+17|pron|él|*He* is my friend.|Él es mi amigo.|*He* works at night.|Él trabaja de noche.
+18|prep|con|Coffee *with* milk.|Café con leche.|Come *with* me.|Ven conmigo.
+19|v|ser, estar|I want to *be* a doctor.|Quiero ser médico.|*Be* careful!|¡Ten cuidado!
+20|pron|qué, lo que|*What* is your name?|¿Cómo te llamas?|I don't know *what* to do.|No sé qué hacer.
+21|pron|me, a mí|Give *me* the keys.|Dame las llaves.|Call *me* tomorrow.|Llámame mañana.
+22|v|tener, haber|I *have* two brothers.|Tengo dos hermanos.|We *have* finished.|Hemos terminado.
+23|v|son, estás, estamos (de «be»)|You *are* right.|Tienes razón.|We *are* at home.|Estamos en casa.
+24|adv|no|I'm *not* tired.|No estoy cansado.|*Not* now.|Ahora no.
+25|det|mi, mis|*My* car is red.|Mi coche es rojo.|Where is *my* phone?|¿Dónde está mi teléfono?
+26|det|tu, tus, su, sus (de usted)|Is this *your* bag?|¿Es esta tu bolsa?|I like *your* shoes.|Me gustan tus zapatos.
+27|conj|pero|I tried, *but* I failed.|Lo intenté, pero fallé.|It's cheap *but* good.|Es barato pero bueno.
+28|prep|en, a (lugar o hora)|I'm *at* home.|Estoy en casa.|The class starts *at* nine.|La clase empieza a las nueve.
+29|conj|como, mientras|She works *as* a teacher.|Ella trabaja como profesora.|*As* I said, it's late.|Como dije, es tarde.
+30|v|hacer|What do you *do*?|¿A qué te dedicas?|*Do* your homework.|Haz tu tarea.
+31|adv|no; ningún|*No*, thank you.|No, gracias.|I have *no* money.|No tengo dinero.
+32|det|todo, todos|We *all* went home.|Todos nos fuimos a casa.|That's *all* I know.|Eso es todo lo que sé.
+33|v|poder, saber (hacer algo)|I *can* swim.|Sé nadar.|*Can* you help me?|¿Puedes ayudarme?
+34|adv|así, tan; por eso|I'm *so* happy!|¡Estoy tan feliz!|It was late, *so* we left.|Era tarde, así que nos fuimos.
+35|pron|ellos, ellas|*They* are my parents.|Son mis padres.|*They* live in Spain.|Ellos viven en España.
+36|adv|solo, justo, simplemente|I *just* arrived.|Acabo de llegar.|It's *just* a joke.|Es solo una broma.
+37|prep|como, parecido a; gustar (verbo)|She looks *like* her mother.|Se parece a su madre.|I *like* pizza.|Me gusta la pizza.
+38|v|saber, conocer|I *know* the answer.|Sé la respuesta.|Do you *know* him?|¿Lo conoces?
+39|prep|de (origen), desde|I'm *from* Chile.|Soy de Chile.|She works *from* home.|Ella trabaja desde casa.
+40|conj|si|*If* it rains, I'll stay home.|Si llueve, me quedo en casa.|Ask him *if* he's coming.|Pregúntale si viene.
+41|adv|allí, ahí; hay|*There* is a park nearby.|Hay un parque cerca.|Put it over *there*.|Ponlo allí.
+42|prep|por, junto a, para (plazo)|The book was written *by* her.|El libro fue escrito por ella.|Be home *by* eight.|Estate en casa para las ocho.
+43|num|uno, una; alguien|I have *one* sister.|Tengo una hermana.|*One* must be careful.|Uno debe tener cuidado.
+44|prep|sobre, acerca de|A book *about* Spain.|Un libro sobre España.|What is it *about*?|¿De qué trata?
+45|v|conseguir, obtener, llegar a ser|I *get* up at seven.|Me levanto a las siete.|Where can I *get* a ticket?|¿Dónde puedo conseguir una entrada?
+46|adv|fuera, afuera|Let's go *out* tonight.|Salgamos esta noche.|He is *out* of the office.|Está fuera de la oficina.
+47|adv|arriba, hacia arriba|Please stand *up*.|Por favor, levántense.|Look *up* at the sky.|Mira hacia el cielo.
+48|pron|ella|*She* is a nurse.|Ella es enfermera.|*She* speaks three languages.|Ella habla tres idiomas.
+49|det|su, sus (de él)|*His* brother is tall.|Su hermano es alto.|He lost *his* keys.|Perdió sus llaves.
+50|v|(auxiliar de futuro); voluntad|I *will* call you later.|Te llamaré más tarde.|It *will* be fun.|Será divertido.
+51|art|un, una (ante vocal)|She ate *an* apple.|Ella se comió una manzana.|It's *an* old book.|Es un libro viejo.
+52|adv|aquí|Come *here*.|Ven aquí.|I live *here*.|Vivo aquí.
+53|conj|o|Tea *or* coffee?|¿Té o café?|Yes *or* no?|¿Sí o no?
+54|det|su, sus (de ella); la, le|*Her* name is Ana.|Su nombre es Ana.|I saw *her* yesterday.|La vi ayer.
+55|v|ir|I *go* to work by bus.|Voy al trabajo en autobús.|Let's *go*!|¡Vamos!
+56|adv|cómo|*How* are you?|¿Cómo estás?|*How* much is it?|¿Cuánto cuesta?
+57|adv|ahora|I'm busy *now*.|Ahora estoy ocupado.|Do it *now*.|Hazlo ahora.
+58|pron|lo, le, a él|I told *him* the truth.|Le dije la verdad.|Do you know *him*?|¿Lo conoces?
+59|pron|quién, que|*Who* is that man?|¿Quién es ese hombre?|The woman *who* lives here.|La mujer que vive aquí.
+60|adj|correcto, derecho; adv: justo|You're *right*.|Tienes razón.|Turn *right* at the corner.|Gira a la derecha en la esquina.
+61|conj|cuando|Call me *when* you arrive.|Llámame cuando llegues.|*When* did it happen?|¿Cuándo ocurrió?
+62|adv|bien; pues|She sings very *well*.|Ella canta muy bien.|*Well*, let's begin.|Bueno, empecemos.
+63|v|eran, estaban, fueron (de «be»)|We *were* very tired.|Estábamos muy cansados.|They *were* at school.|Estaban en la escuela.
+64|s|tiempo, vez|I don't have *time*.|No tengo tiempo.|What *time* is it?|¿Qué hora es?
+65|v|tenía, había (pasado de «have»)|She *had* a headache.|Ella tenía dolor de cabeza.|We *had* dinner at eight.|Cenamos a las ocho.
+66|v|querer|I *want* some water.|Quiero un poco de agua.|What do you *want*?|¿Qué quieres?
+67|v|tiene (de «have»)|He *has* a new job.|Él tiene un trabajo nuevo.|She *has* finished.|Ella ha terminado.
+68|v|pensar, creer|I *think* so.|Creo que sí.|What do you *think*?|¿Qué piensas?
+69|adj|bueno|This is a *good* book.|Este es un buen libro.|Have a *good* day!|¡Que tengas un buen día!
+70|v|ver|I can *see* the sea.|Puedo ver el mar.|*See* you tomorrow!|¡Hasta mañana!
+71|v|(auxiliar de condicional)|I *would* like some tea.|Me gustaría un té.|He said he *would* come.|Dijo que vendría.
+72|adv|más|I need *more* time.|Necesito más tiempo.|Do you want *more* coffee?|¿Quieres más café?
+73|v|venir|*Come* and see!|¡Ven a ver!|Do you *come* here often?|¿Vienes aquí a menudo?
+74|v|sido, estado (de «be»)|I have *been* to Rome.|He estado en Roma.|She has *been* ill.|Ella ha estado enferma.
+75|v|conseguí, obtuvo, tuvo (pasado de «get»)|I *got* a new phone.|Conseguí un teléfono nuevo.|I've *got* two tickets.|Tengo dos entradas.
+76|int|oh, ah|*Oh*, I see!|¡Ah, ya veo!|*Oh* no, I forgot!|¡Oh no, se me olvidó!
+77|pron|los, las, les, a ellos|I saw *them* at the park.|Los vi en el parque.|Tell *them* to wait.|Diles que esperen.
+78|v|hice, hizo (pasado de «do»)|*Did* you sleep well?|¿Dormiste bien?|I *did* my homework.|Hice mi tarea.
+79|adv|por qué|*Why* are you crying?|¿Por qué lloras?|*Why* not?|¿Por qué no?
+80|det|algunos, unos, algo de|I need *some* help.|Necesito algo de ayuda.|*Some* people like cold weather.|A algunas personas les gusta el frío.
+81|adv|atrás, de vuelta; s: espalda|I'll be *back* soon.|Volveré pronto.|My *back* hurts.|Me duele la espalda.
+82|det|nuestro, nuestra|*Our* house is small.|Nuestra casa es pequeña.|This is *our* dog.|Este es nuestro perro.
+83|s|gente, personas|Many *people* were there.|Mucha gente estaba allí.|Young *people* love music.|A los jóvenes les encanta la música.
+84|int|sí (informal)|*Yeah*, I know.|Sí, ya lo sé.|*Yeah*, sure!|¡Sí, claro!
+85|det|su, sus (de ellos)|*Their* house is big.|Su casa es grande.|They love *their* children.|Aman a sus hijos.
+86|v|yendo (de «go»); ir a + infinitivo|I'm *going* to the store.|Voy a la tienda.|It's *going* to rain.|Va a llover.
+87|pron|nos, a nosotros|Come with *us*.|Ven con nosotros.|Tell *us* the story.|Cuéntanos la historia.
+88|adv|entonces, luego|We ate, *then* we left.|Comimos y luego nos fuimos.|What happened *then*?|¿Qué pasó entonces?
+89|adv|donde, dónde|*Where* do you live?|¿Dónde vives?|I know *where* it is.|Sé dónde está.
+90|v|dejar, permitir; «let's» = vamos a|*Let* me help you.|Déjame ayudarte.|*Let*'s go home.|Vayamos a casa.
+91|v|podía, podría (pasado de «can»)|I *could* not sleep.|No podía dormir.|*Could* you help me?|¿Podría ayudarme?
+92|v|tomar, llevar|*Take* an umbrella.|Lleva un paraguas.|The trip will *take* two hours.|El viaje durará dos horas.
+93|pron|que, cual; cuál|*Which* one do you want?|¿Cuál quieres?|The book, *which* I love, is old.|El libro, que adoro, es viejo.
+94|int|sí|*Yes*, please.|Sí, por favor.|*Yes*, I agree.|Sí, estoy de acuerdo.
+95|adv|realmente, de verdad|I *really* like it.|Me gusta mucho.|Is it *really* true?|¿De verdad es cierto?
+96|adv|solo, único|I *only* have five euros.|Solo tengo cinco euros.|She is the *only* child.|Ella es la única hija.
+97|v|hacer, fabricar|I *make* breakfast every day.|Preparo el desayuno todos los días.|Don't *make* noise.|No hagas ruido.
+98|v|mirar; parecer|*Look* at that!|¡Mira eso!|You *look* tired.|Te ves cansado.
+99|adj|nuevo|I bought a *new* phone.|Compré un teléfono nuevo.|Happy *New* Year!|¡Feliz Año Nuevo!
+100|prep|sobre, por encima de; terminado|The game is *over*.|El juego terminó.|A bridge *over* the river.|Un puente sobre el río.
+101|s|camino, manera|Which *way* is the station?|¿Por dónde está la estación?|That's the wrong *way*.|Esa es la manera equivocada.
+102|v|necesitar|I *need* your help.|Necesito tu ayuda.|Do you *need* anything?|¿Necesitas algo?
+103|v|decir|What did you *say*?|¿Qué dijiste?|Let me *say* something.|Déjame decir algo.
+104|num|dos|I have *two* cats.|Tengo dos gatos.|*Two* coffees, please.|Dos cafés, por favor.
+105|adv|muy|It's *very* cold.|Hace mucho frío.|Thank you *very* much.|Muchas gracias.
+106|adv|también; demasiado|Me *too*!|¡Yo también!|It's *too* expensive.|Es demasiado caro.
+107|conj|porque|I stayed home *because* I was sick.|Me quedé en casa porque estaba enfermo.|Why? *Because* I said so.|¿Por qué? Porque lo digo yo.
+108|s|hombre|That *man* is my uncle.|Ese hombre es mi tío.|The *man* smiled.|El hombre sonrió.
+109|adj|otro, demás|Do you have any *other* questions?|¿Tienes otras preguntas?|The *other* day I saw him.|El otro día lo vi.
+110|det|algún, cualquier, ningún|Do you have *any* money?|¿Tienes algo de dinero?|I don't have *any* questions.|No tengo ninguna pregunta.
+111|adj|primero|This is my *first* trip.|Este es mi primer viaje.|She came *first*.|Ella llegó primera.
+112|prep|en, dentro de, hacia|She walked *into* the room.|Ella entró en la habitación.|Turn the water *into* ice.|Convierte el agua en hielo.
+113|v|dijo, dije (pasado de «say»)|She *said* nothing.|Ella no dijo nada.|He *said* he was tired.|Dijo que estaba cansado.
+114|conj|que (en comparaciones)|She is taller *than* me.|Ella es más alta que yo.|Better late *than* never.|Más vale tarde que nunca.
+115|v|debería, debería de|You *should* rest.|Deberías descansar.|We *should* leave now.|Deberíamos irnos ya.
+116|adv|abajo, hacia abajo|Sit *down*, please.|Siéntate, por favor.|The price went *down*.|El precio bajó.
+117|adv|nunca|I *never* eat meat.|Nunca como carne.|She has *never* been to Paris.|Ella nunca ha estado en París.
+118|int|vale, de acuerdo|*Okay*, let's go.|Vale, vamos.|Are you *okay*?|¿Estás bien?
+119|prep|después de; conj: después de que|I'll call you *after* lunch.|Te llamaré después del almuerzo.|We left *after* the movie ended.|Nos fuimos después de que terminó la película.
+120|pron|algo|I want *something* to drink.|Quiero algo de beber.|*Something* is wrong.|Algo va mal.
+121|det|estos, estas|I like *these* shoes.|Me gustan estos zapatos.|*These* are my friends.|Estos son mis amigos.
+122|adv|mucho|Thank you very *much*.|Muchas gracias.|I don't have *much* time.|No tengo mucho tiempo.
+123|adv|incluso, aun|He didn't *even* say hello.|Ni siquiera saludó.|It's *even* better than before.|Es incluso mejor que antes.
+124|v|decir, contar|*Tell* me the truth.|Dime la verdad.|Can you *tell* me the time?|¿Puedes decirme la hora?
+125|adv|fuera, apagado; lejos|Turn *off* the light.|Apaga la luz.|The meeting is *off*.|La reunión se canceló.
+126|adv|también, además|I want to come *also*.|Yo también quiero ir.|She *also* speaks French.|Ella también habla francés.
+127|v|amar, querer; s: amor|I *love* my family.|Quiero a mi familia.|They fell in *love*.|Se enamoraron.
+128|adj|pequeño, poco|I have a *little* dog.|Tengo un perrito.|Just a *little* sugar, please.|Solo un poco de azúcar, por favor.
+129|s|trabajo; v: trabajar|I go to *work* at eight.|Voy al trabajo a las ocho.|I *work* in a bank.|Trabajo en un banco.
+130|s|día|Have a nice *day*!|¡Que tengas un buen día!|It rained all *day*.|Llovió todo el día.
+131|int|eh, hola, oye|*Hey*, wait for me!|¡Eh, espérame!|*Hey*, how are you?|Hola, ¿cómo estás?
+132|adv|todavía, aún|Are you *still* here?|¿Sigues aquí?|It's *still* raining.|Todavía está lloviendo.
+133|v|soy, estoy (de «be»)|I *am* a student.|Soy estudiante.|I *am* very tired.|Estoy muy cansado.
+134|prep|antes; adv: antes, ya|Wash your hands *before* dinner.|Lávate las manos antes de cenar.|I've seen this movie *before*.|Ya he visto esta película.
+135|s|vida|*Life* is beautiful.|La vida es bella.|Enjoy your *life*.|Disfruta de tu vida.
+136|v|dar|*Give* me a minute.|Dame un minuto.|I'll *give* you my number.|Te daré mi número.
+137|det|su, sus (de cosa o animal)|The dog wagged *its* tail.|El perro movió la cola.|The city has *its* charm.|La ciudad tiene su encanto.
+138|adv|por favor|*Please* sit down.|Por favor, siéntate.|Two coffees, *please*.|Dos cafés, por favor.
+139|s|años|I've lived here for ten *years*.|Llevo diez años viviendo aquí.|She is twenty *years* old.|Ella tiene veinte años.
+140|det|esos, esas, aquellos|Who are *those* people?|¿Quiénes son esas personas?|I like *those* shoes.|Me gustan esos zapatos.
+141|adj|genial, gran, estupendo|That's a *great* idea!|¡Es una gran idea!|We had a *great* time.|Lo pasamos genial.
+142|s|cosa|What is that *thing*?|¿Qué es esa cosa?|The first *thing* I do is drink coffee.|Lo primero que hago es tomar café.
+143|v|ayudar; s: ayuda|Can you *help* me?|¿Puedes ayudarme?|Thanks for your *help*.|Gracias por tu ayuda.
+144|v|significar; adj: malo, cruel|What does this *mean*?|¿Qué significa esto?|Don't be *mean* to him.|No seas malo con él.
+145|v|poder, ser posible|It *may* rain tomorrow.|Puede que llueva mañana.|*May* I come in?|¿Puedo pasar?
+146|adj|último; adv: por última vez|This is the *last* bus.|Este es el último autobús.|I saw him *last* week.|Lo vi la semana pasada.
+147|adj|seguro, cierto|Are you *sure*?|¿Estás seguro?|*Sure*, no problem.|Claro, no hay problema.
+148|v|encontrar|I can't *find* my keys.|No encuentro mis llaves.|Did you *find* a job?|¿Encontraste trabajo?
+149|v|hecho, hizo (pasado de «make»)|She *made* a cake.|Ella hizo un pastel.|It's *made* of wood.|Está hecho de madera.
+150|v|siendo (de «be»)|Thanks for *being* here.|Gracias por estar aquí.|*Being* a doctor is hard.|Ser médico es difícil.
+151|s|casa, hogar; adv: a casa|I'm going *home*.|Me voy a casa.|Make yourself at *home*.|Estás en tu casa.
+152|v|haciendo (de «do»)|What are you *doing*?|¿Qué estás haciendo?|I'm *doing* my homework.|Estoy haciendo mi tarea.
+153|adv|la mayoría, lo más|*Most* people agree.|La mayoría de la gente está de acuerdo.|Which do you like *most*?|¿Cuál te gusta más?
+154|v|agradecer|I want to *thank* you.|Quiero agradecerte.|*Thank* you very much.|Muchas gracias.
+155|adj|largo; adv: mucho tiempo|She has *long* hair.|Ella tiene el pelo largo.|I waited a *long* time.|Esperé mucho tiempo.
+156|adv|otra vez, de nuevo|Say it *again*, please.|Dilo otra vez, por favor.|I'll try *again* tomorrow.|Lo intentaré de nuevo mañana.
+157|adj|mejor; adv: mejor|This is *better* than that.|Esto es mejor que aquello.|I feel *better* today.|Hoy me siento mejor.
+158|s|mundo|He travels around the *world*.|Viaja por todo el mundo.|The *world* is changing.|El mundo está cambiando.
+159|v|deber, tener que|You *must* be careful.|Debes tener cuidado.|We *must* leave now.|Debemos irnos ya.
+160|adj|lo siento; triste|I'm *sorry* I'm late.|Siento llegar tarde.|*Sorry*, what did you say?|Perdón, ¿qué dijiste?
+161|prep|a través de, por|We walked *through* the park.|Caminamos por el parque.|I read it all the way *through*.|Lo leí de principio a fin.
+162|adv|siempre|She is *always* late.|Ella siempre llega tarde.|I *always* drink coffee.|Siempre tomo café.
+163|det|muchos, muchas|I have *many* friends.|Tengo muchos amigos.|How *many* people came?|¿Cuánta gente vino?
+164|s|cosas|I have a lot of *things* to do.|Tengo muchas cosas que hacer.|Pack your *things*.|Empaca tus cosas.
+165|prep|alrededor de, por ahí|We walked *around* the lake.|Caminamos alrededor del lago.|Is there a bank *around* here?|¿Hay un banco por aquí?
+166|pron|algo, nada, cualquier cosa|Do you need *anything*?|¿Necesitas algo?|I can't see *anything*.|No veo nada.
+167|v|poner, colocar|*Put* it on the table.|Ponlo sobre la mesa.|Where did you *put* my keys?|¿Dónde pusiste mis llaves?
+168|s|dios|Oh my *God*!|¡Dios mío!|Thank *God* you're safe.|Gracias a Dios que estás a salvo.
+169|pron|nada|I know *nothing* about it.|No sé nada de eso.|There is *nothing* to eat.|No hay nada para comer.
+170|v|hace (de «do»)|What *does* this word mean?|¿Qué significa esta palabra?|She *does* her homework.|Ella hace su tarea.
+171|s|año|Next *year* I'll travel.|El año que viene viajaré.|She is ten years old this *year*.|Este año cumple diez años.
+172|adv|lejos, fuera|Go *away*!|¡Vete!|He lives far *away*.|Vive muy lejos.
+173|s|noche|Good *night*!|¡Buenas noches!|We danced all *night*.|Bailamos toda la noche.
+174|v|pensó, pensé (pasado de «think»); s: pensamiento|I *thought* you were sleeping.|Pensé que estabas durmiendo.|She *thought* about it.|Ella lo pensó.
+175|adj|viejo, antiguo|My car is very *old*.|Mi coche es muy viejo.|How *old* are you?|¿Cuántos años tienes?
+176|det|cada, todo|*Every* day I walk to work.|Cada día voy caminando al trabajo.|*Every* child needs love.|Todo niño necesita amor.
+177|v|mantener, guardar, seguir|*Keep* the change.|Quédese con el cambio.|*Keep* going!|¡Sigue adelante!
+178|s|lugar|This is a nice *place*.|Este es un lugar agradable.|Take your *place*.|Ocupa tu sitio.
+179|v|parar, detenerse|*Stop* the car!|¡Para el coche!|Please *stop* talking.|Por favor, deja de hablar.
+180|adj|mejor (el mejor)|She is my *best* friend.|Ella es mi mejor amiga.|Do your *best*.|Haz lo mejor que puedas.
+181|v|llamar; s: llamada|I'll *call* you tonight.|Te llamaré esta noche.|What do they *call* it?|¿Cómo lo llaman?
+182|adj|mismo, igual|We have the *same* teacher.|Tenemos el mismo profesor.|Thanks, *same* to you!|¡Gracias, igualmente!
+183|num|tres|I have *three* sisters.|Tengo tres hermanas.|*Three* coffees, please.|Tres cafés, por favor.
+184|s|dinero|I don't have much *money*.|No tengo mucho dinero.|Time is *money*.|El tiempo es oro.
+185|adv|quizá, tal vez|*Maybe* he is right.|Quizá tenga razón.|*Maybe* tomorrow.|Tal vez mañana.
+186|v|sentir, sentirse|I *feel* tired.|Me siento cansado.|Do you *feel* better?|¿Te sientes mejor?
+187|conj|mientras; s: rato|I read *while* I wait.|Leo mientras espero.|Wait a *while*.|Espera un rato.
+188|adv|alguna vez, nunca|Have you *ever* been to Italy?|¿Has estado alguna vez en Italia?|The best film *ever*!|¡La mejor película de la historia!
+189|pron|todo|*Everything* is ready.|Todo está listo.|I did *everything* I could.|Hice todo lo que pude.
+190|v|dijo, contó (pasado de «tell»)|She *told* me the truth.|Ella me dijo la verdad.|I *told* you so.|Te lo dije.
+191|det|otro, otra|Can I have *another* coffee?|¿Puedo tomar otro café?|That's *another* story.|Esa es otra historia.
+192|det|tal, semejante|I've never seen *such* a thing.|Nunca he visto tal cosa.|It was *such* a nice day.|Fue un día tan bonito.
+193|s|casa|They bought a new *house*.|Compraron una casa nueva.|Come to my *house*.|Ven a mi casa.
+194|v|hablar, charlar|We need to *talk*.|Tenemos que hablar.|Don't *talk* with your mouth full.|No hables con la boca llena.
+195|adj|grande|That's a *big* house!|¡Qué casa tan grande!|He is my *big* brother.|Es mi hermano mayor.
+196|adj|propio|I have my *own* room.|Tengo mi propia habitación.|She does it on her *own*.|Ella lo hace por sí misma.
+197|s|nombre|What's your *name*?|¿Cómo te llamas?|Write your *name* here.|Escribe tu nombre aquí.
+198|v|esperar|*Wait* for me!|¡Espérame!|I can't *wait* to see you.|No puedo esperar a verte.
+199|v|usar|Can I *use* your phone?|¿Puedo usar tu teléfono?|You can *use* a pen.|Puedes usar un bolígrafo.
+200|v|usado, solía (pasado de «use»)|I *used* to live here.|Yo vivía aquí antes.|This car is *used*.|Este coche es de segunda mano.
+201|det|ambos|*Both* answers are correct.|Ambas respuestas son correctas.|We *both* like tea.|A los dos nos gusta el té.

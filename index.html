@@ -1,0 +1,824 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mil Palabras</title>
+<meta name="description" content="Aprende las 1000 palabras más frecuentes de inglés y alemán con tarjetas y repetición espaciada.">
+<meta name="theme-color" content="#E7ECF1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0E141B" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Mil Palabras">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+:root{
+  --bg:#E7ECF1; --surface:#F6F8FA; --paper:#FFFFFF; --ink:#16202C; --muted:#5A6778;
+  --line:#D3DBE4; --rule:#D6E3F1; --margin:#E2685C;
+  --accent:#2A4ED6; --accent-ink:#FFFFFF; --accent-soft:#DCE4FB;
+  --good:#1E8B5C; --good-soft:#D5EFE2; --bad:#C9433A; --bad-soft:#F8DEDA;
+  --shadow:0 1px 2px rgba(22,32,44,.08),0 12px 32px -12px rgba(22,32,44,.28);
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Atkinson Hyperlegible",ui-sans-serif,system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  color-scheme:dark;
+  --bg:#0E141B; --surface:#161F2A; --paper:#1C2632; --ink:#E7ECF2; --muted:#91A0B1;
+  --line:#2A3645; --rule:#243345; --margin:#B9544A;
+  --accent:#7F98FF; --accent-ink:#0E141B; --accent-soft:#233058;
+  --good:#4CC48B; --good-soft:#173628; --bad:#F07266; --bad-soft:#3F1F1C;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 14px 36px -12px rgba(0,0,0,.7);
+}}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0E141B; --surface:#161F2A; --paper:#1C2632; --ink:#E7ECF2; --muted:#91A0B1;
+  --line:#2A3645; --rule:#243345; --margin:#B9544A;
+  --accent:#7F98FF; --accent-ink:#0E141B; --accent-soft:#233058;
+  --good:#4CC48B; --good-soft:#173628; --bad:#F07266; --bad-soft:#3F1F1C;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 14px 36px -12px rgba(0,0,0,.7);
+}
+[hidden]{display:none!important}
+html{height:100%;box-sizing:border-box}
+*,*::before,*::after{box-sizing:inherit}
+body{height:100%;background:var(--bg);color:var(--ink);font:16px/1.45 var(--body);-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit;cursor:pointer;border:0;background:none}
+button:focus-visible,.chip:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.app{height:100%;max-width:480px;margin:0 auto;padding-inline:16px;display:flex;flex-direction:column}
+.view{flex:1;min-height:0;display:flex;flex-direction:column}
+h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
+.eyebrow{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+
+/* ---------- Inicio ---------- */
+#home{overflow-y:auto;padding-block:20px 28px;gap:22px;scrollbar-width:none}
+.brand{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brandR{display:flex;align-items:center;gap:8px;min-width:0}
+.brand .eyebrow{text-align:right}
+@media (max-width:400px){.app .brand h1{font-size:24px}}
+.acct{position:relative;flex:none}
+.avatar{width:36px;height:36px;border-radius:50%;border:1px solid var(--line);background:var(--surface);color:var(--muted);display:grid;place-items:center;position:relative;flex:none;font:800 14px/1 var(--display);padding:0}
+.avatar svg{width:19px;height:19px}
+.avatar img{position:absolute;inset:0;width:100%;height:100%;border-radius:50%;object-fit:cover}
+.avatar.sm{width:34px;height:34px}
+.avatar[data-on],.avatar.sm{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.avatar::after{content:"";position:absolute;right:-1px;bottom:-1px;width:11px;height:11px;border-radius:50%;border:2px solid var(--bg);background:var(--good);display:none}
+.avatar[data-st]::after{display:block}
+.avatar[data-st="warn"]::after{background:#E0A526}
+.avatar[data-st="err"]::after{background:var(--bad)}
+.avatar[data-st="busy"]::after{background:var(--accent);animation:pulse 1s ease-in-out infinite}
+.avatar[data-new]::before{content:"";position:absolute;right:-2px;top:-2px;width:11px;height:11px;border-radius:50%;background:var(--accent);border:2px solid var(--bg);z-index:1}
+.avatar.sm::after,.avatar.sm::before{display:none}
+@keyframes pulse{50%{opacity:.35}}
+@keyframes pop{from{transform:translateY(-6px);opacity:0}}
+.acctpop{position:absolute;right:0;top:calc(100% + 12px);z-index:20;width:min(300px,calc(100vw - 32px));background:var(--paper);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);padding:14px;animation:pop .16s ease-out}
+.acctpop::before{content:"";position:absolute;right:13px;top:-6px;width:10px;height:10px;background:var(--paper);border-left:1px solid var(--line);border-top:1px solid var(--line);transform:rotate(45deg)}
+.acctpop #gsync{background:none;border:0;padding:0}
+.whoami{display:flex;align-items:center;gap:10px;min-width:0}
+.whoami>span:last-child{min-width:0}
+.whoami b{display:block;font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.whoami small{display:block;font-size:12px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.brand h1{font-size:28px;font-weight:800;letter-spacing:-.02em}
+.brand h1 span{color:var(--accent)}
+#home>*{flex:none}   /* sin esto la columna con scroll comprime los bloques con overflow hasta 0 px (el selector desaparecía) */
+.langpick{display:flex;flex-direction:column;gap:10px}
+.langs{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.langpill{display:inline-flex;align-items:center;gap:8px;padding:5px 10px 5px 6px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--muted);font-size:13px;font-weight:700;flex:none}
+.langpill code{font:500 11px/1 var(--mono);padding:5px 6px;border-radius:999px;background:var(--surface);color:var(--muted)}
+.langpill svg{width:14px;height:14px;transition:transform .2s}
+.langpill[aria-expanded="true"] svg{transform:rotate(180deg)}
+.chip{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:16px;background:var(--surface);border:1px solid var(--line);font-weight:700;text-align:left;min-width:0}
+.chip code{font:500 12px/1 var(--mono);padding:8px 7px;border-radius:10px;background:var(--bg);color:var(--muted)}
+.chip span{display:flex;flex-direction:column;gap:2px;min-width:0}
+.chip small{font:400 12px/1.2 var(--body);opacity:.75;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip[aria-pressed="true"] code{background:var(--accent);color:var(--accent-ink)}
+
+.deck{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:18px;display:flex;flex-direction:column;gap:14px}
+.deck-head{display:flex;justify-content:space-between;align-items:flex-end;gap:12px}
+.deck-head h2{font-size:22px;font-weight:800}
+.deck-head p{margin:2px 0 0;color:var(--muted);font-size:14px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.stat b{display:block;font:800 24px/1.1 var(--display);font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--muted)}
+.freqmap{display:grid;grid-template-columns:repeat(50,1fr);gap:2px}
+.freqmap i{aspect-ratio:1;border-radius:2px;background:var(--line);max-width:100%}
+.freqmap i[data-s="0"]{background:var(--bad)}
+.freqmap i[data-s="1"]{background:var(--accent)}
+.freqmap i[data-s="2"]{background:var(--good)}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--muted)}
+.legend span::before{content:"";display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:6px;background:var(--c)}
+
+.modes{display:flex;flex-direction:column;gap:12px}
+.mode{display:grid;grid-template-columns:1fr auto;align-items:center;gap:4px 12px;text-align:left;padding:18px;border-radius:18px;background:var(--paper);box-shadow:var(--shadow);border:1px solid var(--line);transition:transform .15s}
+.mode:active{transform:scale(.98)}
+.mode h3{font-size:20px;font-weight:800}
+.mode p{grid-column:1;margin:0;color:var(--muted);font-size:14px}
+.mode .count{grid-row:1/3;grid-column:2;min-width:56px;height:56px;padding-inline:10px;border-radius:16px;display:grid;place-items:center;font:800 22px/1 var(--display);font-variant-numeric:tabular-nums}
+.mode.new .count{background:var(--accent);color:var(--accent-ink)}
+.mode.review .count{background:var(--good-soft);color:var(--good)}
+.mode[disabled]{opacity:.55;cursor:default}
+.mode .peek{font-family:var(--mono);font-size:12px;color:var(--ink)}
+
+.settings{display:flex;flex-direction:column;gap:14px;padding-top:4px}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:14px}
+.seg{display:flex;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:3px}
+.seg button{padding:6px 12px;border-radius:7px;font-size:13px;font-weight:700;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--paper);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.link{color:var(--bad);font-size:13px;font-weight:700;padding:6px 0}
+#localBackup{display:flex;flex-direction:column;gap:10px}
+.backup{display:flex;flex-direction:column;gap:10px;padding-top:14px;margin-top:6px;border-top:1px solid var(--line)}
+.note{margin:0;font-size:13px;color:var(--muted)}
+.note.warn{color:var(--bad);font-weight:700}
+.btnrow{display:flex;gap:8px;flex-wrap:wrap}
+#gsync{display:flex;flex-direction:column;gap:8px;padding:12px;border-radius:14px;background:var(--surface);border:1px solid var(--line)}
+#gsync[hidden]{display:none}
+#gsync h4{margin:0;font:800 15px/1.2 var(--display)}
+.secondary.sm,.primary.sm{flex:1;padding:10px;font-size:14px;border-radius:12px;min-width:120px}
+
+/* ---------- Estudio ---------- */
+#study{padding-block:12px 20px;gap:14px}
+.topbar{display:flex;align-items:center;gap:12px}
+.icon-btn{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;background:var(--surface);border:1px solid var(--line);flex:none}
+.icon-btn svg{width:20px;height:20px}
+.bar{flex:1;height:6px;border-radius:99px;background:var(--line);overflow:hidden}
+.bar i{display:block;height:100%;width:0;background:var(--accent);border-radius:inherit;transition:width .3s}
+.counter{font:500 13px/1 var(--mono);color:var(--muted);font-variant-numeric:tabular-nums;min-width:44px;text-align:right}
+.stage{flex:1;min-height:0;display:grid;place-items:center;position:relative}
+.card{position:relative;width:100%;max-width:380px;height:100%;max-height:520px;perspective:1400px;touch-action:none;user-select:none;-webkit-user-select:none;transition:transform .28s cubic-bezier(.2,.8,.2,1)}
+.card.dragging{transition:none}
+.card-inner{position:absolute;inset:0;transform-style:preserve-3d;transition:transform .5s cubic-bezier(.3,.7,.2,1)}
+.card-inner.flipped{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:20px;background:var(--paper);box-shadow:var(--shadow);border:1px solid var(--line);display:flex;flex-direction:column;padding:18px 20px 20px;overflow:hidden;
+  background-image:linear-gradient(var(--margin),var(--margin)),repeating-linear-gradient(to bottom,transparent 0 35px,var(--rule) 35px 36px);
+  background-size:100% 2px,100% 100%;background-position:0 64px,0 64px;background-repeat:no-repeat,repeat}
+.face.back{transform:rotateY(180deg)}
+.face-top{display:flex;justify-content:space-between;align-items:center;height:32px}
+.rank{font:500 12px/1 var(--mono);color:var(--margin)}
+.pos{font-size:12px;font-weight:700;color:var(--muted);padding:5px 9px;border-radius:99px;background:var(--bg)}
+.face-body{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:10px;padding-block:8px}
+.word{font:800 clamp(40px,13vw,60px)/1 var(--display);letter-spacing:-.02em;overflow-wrap:anywhere}
+.ipa{font:500 15px/1 var(--mono);color:var(--muted)}
+.trans{font:800 clamp(28px,9vw,40px)/1.15 var(--display);overflow-wrap:anywhere}
+.trans small{display:block;font:400 15px/1.4 var(--body);color:var(--muted);margin-top:8px}
+.speak{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:99px;background:var(--accent-soft);color:var(--accent);font-weight:700;font-size:14px}
+.speak svg{width:18px;height:18px}
+.hint{text-align:center;font-size:13px;color:var(--muted)}
+.ex-btn{align-self:stretch;display:flex;align-items:center;justify-content:center;gap:8px;padding:12px;border-radius:14px;border:1.5px dashed var(--line);font-weight:700;color:var(--ink);background:var(--paper)}
+.stamp{position:absolute;top:28px;padding:6px 12px;border:3px solid currentColor;border-radius:8px;font:800 20px/1 var(--display);text-transform:uppercase;letter-spacing:.04em;opacity:0;pointer-events:none;z-index:3;background:var(--paper)}
+.stamp.yes{left:18px;color:var(--good);transform:rotate(-12deg)}
+.stamp.no{right:18px;color:var(--bad);transform:rotate(12deg)}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.grade{display:flex;flex-direction:column;align-items:center;gap:2px;padding:14px 8px;border-radius:16px;font-weight:700;font-size:16px}
+.grade small{font-weight:400;font-size:12px;opacity:.8}
+.grade.no{background:var(--bad-soft);color:var(--bad)}
+.grade.yes{background:var(--good-soft);color:var(--good)}
+.grade:active{transform:scale(.97)}
+
+/* ---------- Hoja de ejemplos ---------- */
+.scrim{position:fixed;inset:0;background:rgba(10,15,22,.45);z-index:10;display:flex;align-items:flex-end;justify-content:center}
+.sheet{width:100%;max-width:480px;max-height:80%;overflow-y:auto;background:var(--surface);border-radius:22px 22px 0 0;padding:10px 20px calc(24px + env(safe-area-inset-bottom,0px));animation:up .25s ease-out}
+.grab{width:40px;height:5px;border-radius:9px;background:var(--line);margin:0 auto 14px}
+.sheet-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px}
+.sheet-head h2{font-size:26px;font-weight:800}
+.sheet-head p{margin:2px 0 0;color:var(--muted)}
+.ex-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.ex-list li{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;padding:14px;border-radius:14px;background:var(--paper);border:1px solid var(--line)}
+.ex-list q{quotes:none;font-size:18px;font-weight:700}
+.ex-list mark{background:var(--accent-soft);color:var(--accent);border-radius:4px;padding:0 3px}
+.ex-list span{grid-column:1;color:var(--muted);font-size:15px}
+.ex-list .icon-btn{grid-row:1/3;grid-column:2}
+@keyframes up{from{transform:translateY(40px);opacity:.4}}
+
+/* ---------- Resumen ---------- */
+#done{justify-content:center;gap:22px;padding-block:24px;text-align:center}
+#done h2{font-size:32px;font-weight:800}
+.tally{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tally div{padding:18px 8px;border-radius:18px}
+.tally b{display:block;font:800 44px/1 var(--display)}
+.tally .k{background:var(--good-soft);color:var(--good)}
+.tally .u{background:var(--bad-soft);color:var(--bad)}
+.missed{display:flex;flex-wrap:wrap;justify-content:center;gap:6px}
+.missed span{padding:6px 12px;border-radius:99px;background:var(--surface);border:1px solid var(--line);font-weight:700}
+.primary{padding:16px;border-radius:16px;background:var(--accent);color:var(--accent-ink);font-weight:700;font-size:16px}
+.secondary{padding:14px;border-radius:16px;background:var(--surface);border:1px solid var(--line);font-weight:700}
+.empty{color:var(--muted);font-size:14px;text-align:center;margin:0}
+
+.toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:14px;z-index:20;max-width:calc(100% - 32px)}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<div class="app">
+  <!-- INICIO -->
+  <section class="view" id="home">
+    <div class="brand">
+      <h1>Mil<span>·</span>Palabras</h1>
+      <div class="brandR">
+        <span class="eyebrow" id="tagline">Tarjetas por frecuencia</span>
+        <button class="langpill" id="langPill" aria-controls="langPick" aria-expanded="false" aria-label="Cambiar de idioma" hidden></button>
+        <div class="acct">
+          <button class="avatar" id="btnAcct" aria-haspopup="dialog" aria-expanded="false" aria-controls="acctPop" hidden></button>
+          <div class="acctpop" id="acctPop" role="dialog" aria-label="Copia en Google Drive" hidden>
+            <div id="gsync" hidden>
+              <div class="whoami" id="whoami" hidden><span class="avatar sm" id="whoAvatar" aria-hidden="true"></span><span><b id="whoName"></b><small id="whoMail"></small></span></div>
+              <h4 id="gTitle">Copia en tu Google Drive</h4>
+              <p class="note" id="gInfo"></p>
+              <div class="btnrow">
+                <button class="primary sm" id="btnGConnect">Conectar con Google</button>
+                <button class="secondary sm" id="btnGSync" hidden>Sincronizar</button>
+                <button class="secondary sm" id="btnGOff" hidden>Desconectar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="langpick" id="langPick">
+      <span class="eyebrow" id="langHint"></span>
+      <div class="langs" id="langs" role="group" aria-label="Idioma que estás aprendiendo"></div>
+    </div>
+
+    <div class="deck">
+      <div class="deck-head">
+        <div>
+          <h2 id="deckTitle"></h2>
+          <p id="deckSub"></p>
+        </div>
+      </div>
+      <div class="stats" id="stats"></div>
+      <div class="freqmap" id="freqmap" aria-label="Mapa de palabras ordenadas por frecuencia"></div>
+      <div class="legend">
+        <span style="--c:var(--line)">Sin ver</span>
+        <span style="--c:var(--bad)">Por aprender</span>
+        <span style="--c:var(--accent)">Aprendiendo</span>
+        <span style="--c:var(--good)">Dominada</span>
+      </div>
+    </div>
+
+    <div class="modes">
+      <button class="mode new" id="btnNew">
+        <h3>Palabras nuevas</h3>
+        <p id="newSub"></p>
+        <span class="count" id="newCount"></span>
+      </button>
+      <button class="mode review" id="btnReview">
+        <h3>Repasar</h3>
+        <p id="reviewSub"></p>
+        <span class="count" id="reviewCount"></span>
+      </button>
+    </div>
+
+    <div class="settings">
+      <span class="eyebrow">Ajustes</span>
+      <div class="row"><span>Mostrar primero</span><div class="seg" id="segDir"></div></div>
+      <div class="row"><span>Tarjetas por sesión</span><div class="seg" id="segSize"></div></div>
+      <div class="row"><span></span><button class="link" id="btnReset">Reiniciar progreso de este idioma</button></div>
+    </div>
+
+    <div class="backup" id="backupBox">
+      <div id="localBackup">
+      <span class="eyebrow">Tu progreso</span>
+      <p class="note" id="saveInfo"></p>
+      <div class="btnrow">
+        <button class="secondary sm" id="btnExport">Exportar copia</button>
+        <button class="secondary sm" id="btnImport">Importar copia</button>
+        <input type="file" id="fileImport" accept="application/json,.json" hidden>
+      </div>
+      </div>
+      <button class="secondary sm" id="btnInstall" hidden>Instalar como app</button>
+      <p class="note" id="iosNote" hidden>En iPhone o iPad: Compartir → «Añadir a pantalla de inicio».</p>
+    </div>
+  </section>
+
+  <!-- ESTUDIO -->
+  <section class="view" id="study" hidden>
+    <div class="topbar">
+      <button class="icon-btn" id="btnExit" aria-label="Salir de la sesión">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <div class="bar"><i id="barFill"></i></div>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="stage">
+      <div class="card" id="card" tabindex="0" aria-label="Tarjeta. Toca para voltear">
+        <div class="card-inner" id="cardInner">
+          <div class="face front" id="front"></div>
+          <div class="face back" id="back"></div>
+        </div>
+        <div class="stamp yes" id="stampYes">La sabía</div>
+        <div class="stamp no" id="stampNo">No la sabía</div>
+      </div>
+    </div>
+    <div class="actions">
+      <button class="grade no" id="btnNo">No la sabía<small>desliza ←</small></button>
+      <button class="grade yes" id="btnYes">La sabía<small>desliza →</small></button>
+    </div>
+  </section>
+
+  <!-- RESUMEN -->
+  <section class="view" id="done" hidden>
+    <span class="eyebrow" id="doneEyebrow">Sesión terminada</span>
+    <h2 id="doneTitle"></h2>
+    <div class="tally">
+      <div class="k"><b id="tK">0</b>La sabía</div>
+      <div class="u"><b id="tU">0</b>No la sabía</div>
+    </div>
+    <div class="missed" id="missed"></div>
+    <button class="primary" id="btnRetry">Repasar las que fallé</button>
+    <button class="secondary" id="btnHome">Volver al inicio</button>
+  </section>
+</div>
+
+<div class="scrim" id="scrim" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="grab"></div>
+    <div class="sheet-head">
+      <div><h2 id="sheetTitle"></h2><p id="sheetSub"></p></div>
+      <button class="icon-btn" id="btnCloseSheet" aria-label="Cerrar ejemplos">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <ul class="ex-list" id="exList"></ul>
+  </div>
+</div>
+
+<script src="data/palabras.js"></script>
+<script src="config.js"></script>
+<script>
+if(typeof DATA==="undefined"){document.body.innerHTML="<p style='padding:24px;font:16px sans-serif'>No se pudieron cargar las palabras (data/palabras.js).</p>";throw new Error("DATA no cargado")}
+
+/* ============ Estado y repetición espaciada (cajas de Leitner) ============
+   El progreso se guarda en localStorage de este navegador/dispositivo, palabra a palabra, en cada respuesta.
+   progress[idioma][rank] = {box, due, seen, ok, ko}   (rank = puesto de la palabra en la lista de frecuencia) */
+const KEY="milpalabras.v2", DAY=864e5, HOUR=36e5;
+const INTERVALS=[0,1,3,7,16,35]; // días de espera según la caja 0–5
+const $=id=>document.getElementById(id);
+const defaults=()=>({lang:Object.keys(DATA)[0],dir:"target",size:10,progress:{},savedAt:0,settingsAt:0,resetAt:{},langPicked:false});
+let storageOK=true, persisted=false;
+function probeStorage(){try{localStorage.setItem("__t","1");localStorage.removeItem("__t");return true}catch(e){return false}}
+storageOK=probeStorage();
+let S=load();
+function normalize(s){
+  const d=Object.assign(defaults(),s);
+  if(!DATA[d.lang])d.lang=Object.keys(DATA)[0];
+  d.settingsAt=+d.settingsAt||0;d.langPicked=!!d.langPicked;
+  const clean={},resets={};
+  for(const l of Object.keys(DATA)){
+    clean[l]={};
+    const ra=+((d.resetAt||{})[l]);if(ra>0)resets[l]=ra;
+    for(const [r,st] of Object.entries((d.progress&&d.progress[l])||{}))
+      if(st&&Number.isFinite(st.box)&&Number.isFinite(st.due))clean[l][r]={box:st.box|0,due:+st.due,seen:st.seen|0,ok:st.ok|0,ko:st.ko|0,t:+st.t||0};
+  }
+  d.progress=clean;d.resetAt=resets;return d;
+}
+function load(){
+  try{const s=JSON.parse(localStorage.getItem(KEY));if(s&&typeof s.progress==="object")return normalize(s)}catch(e){}
+  return defaults();
+}
+let dirty=false;   // hay cambios locales aún no subidos a Drive
+function persist(){
+  try{localStorage.setItem(KEY,JSON.stringify(S));storageOK=true}
+  catch(e){if(storageOK){toast("Este navegador no permite guardar el progreso. Usa «Exportar copia» para no perderlo.")}storageOK=false}
+}
+function save(){S.savedAt=Date.now();persist();dirty=true;renderSaveInfo();scheduleSync()}
+function renderSaveInfo(){
+  const el=$("saveInfo");if(!el)return;
+  if(!storageOK){el.className="note warn";el.textContent="⚠ Este navegador no puede guardar el progreso (¿modo privado?). Exporta una copia al terminar.";return}
+  el.className="note";
+  const n=Object.values(S.progress).reduce((a,p)=>a+Object.keys(p).length,0);
+  const when=S.savedAt?" · último guardado "+new Date(S.savedAt).toLocaleString("es",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"";
+  const tip=SYNC_ENABLED?" Conecta tu cuenta de Google (arriba a la derecha) para guardar también una copia en tu Drive.":"";
+  el.textContent=`Se guarda solo en este dispositivo${persisted?" (almacenamiento protegido)":""}. ${n} palabra${n===1?"":"s"} con historial${when}.${tip}`;
+}
+function requestPersist(){
+  if(persisted||!navigator.storage||!navigator.storage.persist)return;
+  navigator.storage.persist().then(p=>{persisted=p;renderSaveInfo()}).catch(()=>{});
+}
+if(navigator.storage&&navigator.storage.persisted)navigator.storage.persisted().then(p=>{persisted=p;renderSaveInfo()}).catch(()=>{});
+addEventListener("storage",e=>{if(e.key===KEY){S=load();if(!$("home").hidden)renderHome()}}); // otra pestaña guardó progreso
+
+const deck=()=>DATA[S.lang];
+const hasPicked=()=>!!S.langPicked||Object.values(S.progress).some(p=>Object.keys(p).length>0); // quien ya tiene progreso ya eligió idioma
+let langOpen=false; // selector desplegado a petición
+const prog=()=>(S.progress[S.lang]??={});
+const status=st=>!st?null:st.box===0?0:st.box<3?1:2; // por aprender · aprendiendo · dominada
+const ART={m:"der",f:"die",n:"das",pl:"die (pl.)"};
+const posLabel=w=>w.g&&ART[w.g]?`${w.pos} · ${ART[w.g]}`:w.pos;
+
+function dueWords(){const P=prog(),now=Date.now();return deck().words.filter(w=>P[w.r]&&P[w.r].due<=now).sort((a,b)=>P[a.r].due-P[b.r].due)}
+function newWords(){const P=prog();return deck().words.filter(w=>!P[w.r])}
+function grade(w,known){
+  const P=prog(),isNew=!P[w.r],st=P[w.r]||{box:0,due:0,seen:0,ok:0,ko:0};
+  st.seen++;st.t=Date.now();
+  if(known){st.ok++;st.box=isNew?2:Math.min(st.box+1,5)}else{st.ko++;st.box=0}
+  st.due=Date.now()+INTERVALS[st.box]*DAY;
+  P[w.r]=st;save();requestPersist();
+}
+function untilText(ms){const h=Math.round(ms/HOUR);if(h<1)return"en unos minutos";if(h<24)return`en ${h} h`;const d=Math.round(ms/DAY);return`en ${d} día${d>1?"s":""}`}
+
+/* ============ Inicio ============ */
+function renderHome(){
+  const d=deck(),P=prog(),words=d.words;
+  const picked=hasPicked(),open=!picked||langOpen;
+  $("langPick").hidden=!open;$("tagline").hidden=picked;$("langPill").hidden=!picked;
+  $("langHint").textContent=picked?"Cambiar de idioma":"¿Qué idioma quieres aprender?";
+  $("langPill").innerHTML=`<code>${d.code}</code>${d.name}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
+  $("langPill").setAttribute("aria-expanded",String(open&&picked));
+  $("langs").innerHTML=Object.entries(DATA).map(([k,v])=>{const n=Object.keys(S.progress[k]||{}).length;return`<button class="chip" data-lang="${k}" aria-pressed="${picked&&k===S.lang}"><code>${v.code}</code><span>${v.name}<small>${n?`${n} de ${v.words.length} vistas`:"Sin empezar"}</small></span></button>`}).join("");
+  $("deckTitle").textContent=d.name;
+  $("deckSub").textContent=`Las ${words.length} palabras más usadas`;
+  const seen=words.filter(w=>P[w.r]).length,mastered=words.filter(w=>status(P[w.r])===2).length,due=dueWords();
+  $("stats").innerHTML=[[seen,"vistas"],[mastered,"dominadas"],[due.length,"por repasar"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+  $("freqmap").innerHTML=words.map(w=>{const s=status(P[w.r]);return`<i ${s===null?"":`data-s="${s}"`} title="Nº ${w.r} · ${esc(w.w)}"></i>`}).join("");
+
+  const nw=newWords(),next=nw.slice(0,S.size);
+  $("newCount").textContent=nw.length?next.length:"✓";
+  $("newSub").innerHTML=nw.length?`Siguientes: <span class="peek">${next.slice(0,4).map(w=>esc(w.w)).join(", ")}${next.length>4?"…":""}</span>`:"Completaste todas las palabras del mazo";
+  $("btnNew").disabled=!nw.length;
+
+  $("reviewCount").textContent=due.length;
+  if(due.length){$("reviewSub").textContent="Tarjetas que toca repasar hoy"}
+  else if(seen){const nextDue=Math.min(...Object.values(P).map(s=>s.due));$("reviewSub").textContent=`Nada pendiente. Próximo repaso ${untilText(nextDue-Date.now())} · toca para practicar igual`}
+  else{$("reviewSub").textContent="Aprende palabras nuevas y aparecerán aquí"}
+  $("btnReview").disabled=!seen;
+
+  $("segDir").innerHTML=[["target",d.name],["native","Español"]].map(([k,l])=>`<button data-dir="${k}" aria-pressed="${S.dir===k}">${l}</button>`).join("");
+  $("segSize").innerHTML=[5,10,20].map(n=>`<button data-size="${n}" aria-pressed="${S.size===n}">${n}</button>`).join("");
+  resetArmed=false;$("btnReset").textContent=`Reiniciar progreso de ${d.name.toLowerCase()}`;
+  renderSaveInfo();renderG();
+}
+$("langs").onclick=e=>{
+  const b=e.target.closest("[data-lang]");if(!b)return;
+  if(S.lang!==b.dataset.lang){S.lang=b.dataset.lang;S.settingsAt=Date.now()}
+  S.langPicked=true;langOpen=false;save();renderHome();window.scrollTo(0,0);$("home").scrollTo(0,0);
+};
+$("langPill").onclick=()=>{langOpen=!langOpen;renderHome();if(langOpen){const a=$("langs").querySelector('[aria-pressed="true"]');if(a)a.focus()}};
+$("segDir").onclick=e=>{const b=e.target.closest("[data-dir]");if(b){S.dir=b.dataset.dir;S.settingsAt=Date.now();save();renderHome()}};
+$("segSize").onclick=e=>{const b=e.target.closest("[data-size]");if(b){S.size=+b.dataset.size;S.settingsAt=Date.now();save();renderHome()}};
+let resetArmed=false;
+$("btnReset").onclick=()=>{
+  if(!resetArmed){resetArmed=true;$("btnReset").textContent="Toca otra vez para confirmar";setTimeout(()=>{if(resetArmed)renderHome()},3500);return}
+  S.progress[S.lang]={};S.resetAt[S.lang]=Date.now();save();renderHome();toast("Progreso reiniciado");
+};
+$("btnNew").onclick=()=>start("new",newWords().slice(0,S.size));
+$("btnReview").onclick=()=>{
+  let q=dueWords().slice(0,S.size);
+  if(!q.length){const P=prog();q=deck().words.filter(w=>P[w.r]).sort((a,b)=>P[a.r].box-P[b.r].box||P[b.r].ko-P[a.r].ko).slice(0,S.size)}
+  start("review",q);
+};
+
+/* ============ Sesión de estudio ============ */
+let sess=null,flipped=false,busy=false;
+function show(id){["home","study","done"].forEach(v=>$(v).hidden=v!==id)}
+function start(mode,words){
+  if(!words.length)return;
+  sess={mode,queue:words.map(w=>({w,retry:false})),i:0,first:new Map()};
+  show("study");renderCard();
+}
+function renderCard(){
+  const item=sess.queue[sess.i],w=item.w,d=deck();
+  flipped=false;$("cardInner").classList.remove("flipped");
+  const card=$("card");card.classList.add("dragging");card.style.transform="";setStamps(0);
+  requestAnimationFrame(()=>card.classList.remove("dragging"));
+  const target=`
+    <div class="face-top"><span class="pos">${posLabel(w)}</span><span class="rank">${d.code} · Nº ${w.r}</span></div>
+    <div class="face-body">
+      <div class="word" lang="${d.voice}">${esc(w.w)}</div>
+      <div class="ipa">${w.ipa}</div>
+      <button class="speak" data-say="${esc(w.w)}">${ICON_SPEAK}Escuchar</button>
+    </div>`;
+  const native=(big)=>`
+    <div class="face-top"><span class="pos">${posLabel(w)}</span><span class="rank">${d.code} · Nº ${w.r}</span></div>
+    <div class="face-body">
+      <div class="trans">${esc(w.es.join(" · "))}${big?"":`<small>${esc(w.w)} ${w.ipa}</small>`}</div>
+    </div>`;
+  const hint=`<p class="hint">Toca la tarjeta para voltearla</p>`;
+  const exBtn=`<button class="ex-btn" data-ex>${ICON_QUOTE}Ver frases de ejemplo</button>`;
+  if(S.dir==="target"){
+    $("front").innerHTML=target+hint;
+    $("back").innerHTML=native(false)+exBtn;
+  }else{
+    $("front").innerHTML=native(true)+hint;
+    $("back").innerHTML=target+exBtn;
+  }
+  if(item.retry)$("front").querySelector(".face-top .pos").insertAdjacentHTML("afterend",`<span class="pos" style="color:var(--bad)">otra vez</span>`);
+  const total=sess.queue.length;
+  $("counter").textContent=`${sess.i+1}/${total}`;
+  $("barFill").style.width=`${sess.i/total*100}%`;
+}
+function flip(){flipped=!flipped;$("cardInner").classList.toggle("flipped",flipped)}
+function setStamps(dx){$("stampYes").style.opacity=Math.max(0,Math.min(1,dx/90));$("stampNo").style.opacity=Math.max(0,Math.min(1,-dx/90))}
+function answer(known){
+  if(busy||!sess)return;busy=true;
+  const card=$("card"),item=sess.queue[sess.i];
+  setStamps(known?120:-120);
+  card.style.transform=`translateX(${known?130:-130}%) rotate(${known?14:-14}deg)`;
+  grade(item.w,known);
+  if(!sess.first.has(item.w.r))sess.first.set(item.w.r,known);
+  if(!known&&!item.retry)sess.queue.push({w:item.w,retry:true});
+  setTimeout(()=>{
+    busy=false;sess.i++;
+    if(sess.i>=sess.queue.length)finish();else renderCard();
+  },matchMedia("(prefers-reduced-motion: reduce)").matches?0:260);
+}
+$("btnYes").onclick=()=>answer(true);
+$("btnNo").onclick=()=>answer(false);
+$("btnExit").onclick=()=>{sess=null;show("home");renderHome()};
+
+/* Gestos: tocar = voltear · deslizar = calificar */
+let drag=null;const card=$("card");
+card.addEventListener("pointerdown",e=>{
+  if(busy||e.target.closest("button"))return;
+  drag={x:e.clientX,dx:0,moved:false};card.setPointerCapture(e.pointerId);card.classList.add("dragging");
+});
+card.addEventListener("pointermove",e=>{
+  if(!drag)return;drag.dx=e.clientX-drag.x;if(Math.abs(drag.dx)>8)drag.moved=true;
+  if(drag.moved){card.style.transform=`translateX(${drag.dx}px) rotate(${drag.dx/20}deg)`;setStamps(drag.dx)}
+});
+function endDrag(){
+  if(!drag)return;const {dx,moved}=drag;drag=null;card.classList.remove("dragging");
+  if(!moved){flip();return}
+  if(dx>90)answer(true);else if(dx<-90)answer(false);else{card.style.transform="";setStamps(0)}
+}
+card.addEventListener("pointerup",endDrag);
+card.addEventListener("pointercancel",()=>{if(drag){drag.moved=true;drag.dx=0;endDrag()}});
+card.addEventListener("click",e=>{
+  const say=e.target.closest("[data-say]");if(say){speak(say.dataset.say);return}
+  if(e.target.closest("[data-ex]"))openSheet(sess.queue[sess.i].w);
+});
+document.addEventListener("keydown",e=>{
+  if(!$("scrim").hidden){if(e.key==="Escape")closeSheet();return}
+  if($("study").hidden||e.target.closest("button"))return;
+  if(e.key===" "||e.key==="Enter"){e.preventDefault();flip()}
+  else if(e.key==="ArrowRight")answer(true);
+  else if(e.key==="ArrowLeft")answer(false);
+});
+
+/* ============ Resumen ============ */
+let lastMissed=[];
+function finish(){
+  const firsts=[...sess.first.entries()],k=firsts.filter(([,v])=>v).length,u=firsts.length-k;
+  const byRank=new Map(deck().words.map(w=>[w.r,w]));
+  lastMissed=firsts.filter(([,v])=>!v).map(([r])=>byRank.get(r));
+  $("doneEyebrow").textContent=sess.mode==="new"?"Palabras nuevas · terminado":"Repaso · terminado";
+  $("doneTitle").textContent=u===0?"¡Perfecto, todas a la primera!":k>=u?"¡Buen trabajo!":"Vas por buen camino";
+  $("tK").textContent=k;$("tU").textContent=u;
+  $("missed").innerHTML=lastMissed.map(w=>`<span>${esc(w.w)}</span>`).join("");
+  $("btnRetry").hidden=!lastMissed.length;
+  sess=null;show("done");
+  if(SYNC_ENABLED&&G.connected){clearTimeout(syncTimer);sync("silent")}
+}
+$("btnRetry").onclick=()=>start("review",lastMissed);
+$("btnHome").onclick=()=>{show("home");renderHome()};
+
+/* ============ Hoja de ejemplos ============ */
+function openSheet(w){
+  $("sheetTitle").textContent=w.w;
+  $("sheetSub").textContent=w.es.join(" · ");
+  $("exList").innerHTML=w.ex.map(([s,t])=>`
+    <li><q lang="${deck().voice}">${esc(s).replace(/\*(.+?)\*/g,"<mark>$1</mark>")}</q><span>${esc(t)}</span>
+    <button class="icon-btn" data-say="${esc(s.replace(/\*/g,""))}" aria-label="Escuchar frase">${ICON_SPEAK}</button></li>`).join("");
+  $("scrim").hidden=false;$("btnCloseSheet").focus();
+}
+function closeSheet(){$("scrim").hidden=true;card.focus()}
+$("scrim").onclick=e=>{
+  if(e.target===$("scrim")||e.target.closest("#btnCloseSheet"))return closeSheet();
+  const say=e.target.closest("[data-say]");if(say)speak(say.dataset.say);
+};
+
+/* ============ Utilidades ============ */
+function speak(text){
+  try{
+    if(!("speechSynthesis" in window))return toast("Este navegador no puede pronunciar");
+    speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=deck().voice;u.rate=.9;speechSynthesis.speak(u);
+  }catch(e){toast("No se pudo reproducir el audio")}
+}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+let toastT;function toast(msg){let t=document.querySelector(".toast");if(!t){t=document.createElement("div");t.className="toast";t.setAttribute("role","status");document.body.append(t)}t.textContent=msg;t.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>t.hidden=true,2200)}
+const ICON_SPEAK=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H3v6h3l5 4V5z"/><path d="M15.5 8.5a5 5 0 010 7M18.5 5.5a9 9 0 010 13"/></svg>`;
+const ICON_QUOTE=`<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>`;
+
+/* ============ Sincronización con Google Drive ============
+   Local primero: localStorage es la copia de trabajo. Si el usuario conecta Google, el progreso se combina
+   con progreso.json en la carpeta oculta de la app en su Drive (permiso drive.appdata: la app no ve nada más).
+   Combinación palabra a palabra: gana el registro con marca de tiempo `t` más reciente; los reinicios
+   dejan una marca `resetAt` por idioma para que los datos antiguos no «resuciten» desde otro dispositivo. */
+const CFG=window.MILPALABRAS_CONFIG||{};
+const G_ID=CFG.googleClientId||"", G_SCOPE="https://www.googleapis.com/auth/drive.appdata", G_FILE="progreso.json";
+const SYNC_ENABLED=/\.apps\.googleusercontent\.com$/.test(G_ID);
+const GKEY="milpalabras.gdrive";
+let G=(()=>{const d={connected:false,fileId:null,lastSync:0,user:null,hintSeen:false};try{return Object.assign(d,JSON.parse(localStorage.getItem(GKEY)))}catch(e){return d}})();
+const gsave=()=>{try{localStorage.setItem(GKEY,JSON.stringify(G))}catch(e){}};
+let gState=G.connected?"idle":"off", gMsg="", token=null, tokenExp=0, tokenClient=null, authWait=null, syncChain=Promise.resolve(), syncTimer=null;
+
+const fp=s=>JSON.stringify([s.lang,s.dir,s.size,s.settingsAt,s.resetAt,s.progress]);
+function mergeStates(a,b){
+  const m=defaults(),newer=(a.settingsAt||0)>=(b.settingsAt||0)?a:b;
+  m.lang=newer.lang;m.dir=newer.dir;m.size=newer.size;m.settingsAt=Math.max(a.settingsAt||0,b.settingsAt||0);
+  m.savedAt=Math.max(a.savedAt||0,b.savedAt||0);m.langPicked=!!(a.langPicked||b.langPicked);
+  for(const l of Object.keys(DATA)){
+    const reset=Math.max((a.resetAt||{})[l]||0,(b.resetAt||{})[l]||0);
+    if(reset)m.resetAt[l]=reset;
+    const pa=a.progress[l]||{},pb=b.progress[l]||{},out={};
+    for(const r of new Set([...Object.keys(pa),...Object.keys(pb)])){
+      const x=pa[r],y=pb[r];
+      const best=!x?y:!y?x:(x.t!==y.t?(x.t>y.t?x:y):(x.seen>=y.seen?x:y));
+      if(reset&&best.t<=reset)continue;
+      out[r]=best;
+    }
+    m.progress[l]=out;
+  }
+  return m;
+}
+
+function loadGIS(){
+  if(window.google&&google.accounts&&google.accounts.oauth2)return Promise.resolve();
+  return new Promise((res,rej)=>{
+    const s=document.createElement("script");s.src="https://accounts.google.com/gsi/client";s.async=true;
+    s.onload=res;s.onerror=()=>{const e=new Error("No se pudo cargar Google");e.offline=true;rej(e)};document.head.append(s);
+  });
+}
+function getToken(interactive){
+  if(token&&Date.now()<tokenExp-60000)return Promise.resolve(token);
+  return loadGIS().then(()=>new Promise((res,rej)=>{
+    const timer=setTimeout(()=>{if(authWait){const w=authWait;authWait=null;const e=new Error("timeout");e.auth=true;w.rej(e)}},interactive?120000:15000);
+    const settle=(ok,v)=>{clearTimeout(timer);const w=authWait;authWait=null;if(!w)return;if(ok)w.res(v);else{v.auth=true;w.rej(v)}};
+    authWait={res,rej};
+    if(!tokenClient)tokenClient=google.accounts.oauth2.initTokenClient({client_id:G_ID,scope:G_SCOPE,
+      callback:r=>{if(r&&r.access_token){token=r.access_token;tokenExp=Date.now()+(+r.expires_in||3600)*1000;settle(true,token)}else settle(false,new Error((r&&r.error)||"auth"))},
+      error_callback:e=>settle(false,new Error((e&&e.type)||"auth"))});
+    tokenClient.requestAccessToken({prompt:interactive?"":"none"});
+  }));
+}
+async function api(url,opt,mode){
+  const go=async t=>fetch(url,Object.assign({},opt,{headers:Object.assign({},opt&&opt.headers,{Authorization:"Bearer "+t})}));
+  let r=await go(await getToken(mode==="interactive"));
+  if(r.status===401){token=null;r=await go(await getToken(mode==="interactive"))}
+  if(!r.ok){const e=new Error("Drive "+r.status);e.status=r;e.code=r.status;throw e}
+  return r;
+}
+async function findFile(mode){
+  if(G.fileId)return G.fileId;
+  const q=encodeURIComponent(`name='${G_FILE}' and 'appDataFolder' in parents and trashed=false`);
+  const j=await(await api(`https://www.googleapis.com/drive/v3/files?spaces=appDataFolder&q=${q}&fields=files(id)&pageSize=1`,{},mode)).json();
+  G.fileId=j.files&&j.files[0]?j.files[0].id:null;gsave();return G.fileId;
+}
+async function upload(state,mode){
+  const text=JSON.stringify({app:"milpalabras",v:2,exportedAt:new Date().toISOString(),state});
+  if(G.fileId){await api(`https://www.googleapis.com/upload/drive/v3/files/${G.fileId}?uploadType=media`,{method:"PATCH",headers:{"Content-Type":"application/json"},body:text},mode);return}
+  const b="mp"+Math.random().toString(36).slice(2);
+  const body=`--${b}\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n${JSON.stringify({name:G_FILE,parents:["appDataFolder"]})}\r\n--${b}\r\nContent-Type: application/json\r\n\r\n${text}\r\n--${b}--`;
+  const j=await(await api("https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart&fields=id",{method:"POST",headers:{"Content-Type":"multipart/related; boundary="+b},body},mode)).json();
+  if(!j||!j.id)throw new Error("Drive no confirmó el archivo");
+  G.fileId=j.id;gsave();
+}
+
+async function fetchProfile(mode){   // nombre/foto para el avatar; opcional: si falla, se muestra un avatar genérico
+  try{
+    const j=await(await api("https://www.googleapis.com/drive/v3/about?fields=user(displayName,emailAddress,photoLink)",{},mode)).json();
+    if(j&&j.user){G.user={name:j.user.displayName||"",email:j.user.emailAddress||"",photo:j.user.photoLink||""};gsave()}
+  }catch(e){}
+}
+function sync(mode){syncChain=syncChain.then(()=>doSync(mode)).catch(()=>{});return syncChain}
+async function doSync(mode){
+  if(!SYNC_ENABLED||!G.connected)return;
+  if(!navigator.onLine){setG("pending");return}
+  setG("busy");
+  try{
+    let id=await findFile(mode),remote=null;
+    if(id){
+      try{const j=await(await api(`https://www.googleapis.com/drive/v3/files/${id}?alt=media`,{},mode)).json();if(j&&j.app==="milpalabras"&&j.state)remote=normalize(j.state)}
+      catch(e){if(e.code===404){G.fileId=null;gsave()}else throw e}
+    }
+    const merged=remote?mergeStates(S,remote):S;
+    if(fp(merged)!==fp(S)){S=merged;persist()}      // síncrono: no se pierde ninguna respuesta dada mientras se descargaba
+    if(!remote||fp(S)!==fp(remote))await upload(S,mode);
+    if(!G.user)await fetchProfile(mode);
+    dirty=false;G.lastSync=Date.now();gsave();setG("ok");
+    if(!$("home").hidden)renderHome();
+  }catch(e){
+    if(e.auth){
+      if(!G.lastSync){G.connected=false;gsave();setG("off");toast(mode==="interactive"?"No se concedió el acceso a Google":"");return}
+      setG("reauth");
+    }else if(e.offline||e instanceof TypeError)setG("pending");
+    else setG("error",e.code===403?"Google rechazó el acceso (¿Drive API activada y ID de cliente correcto?)":e.message);
+  }
+}
+function scheduleSync(){if(!SYNC_ENABLED||!G.connected)return;clearTimeout(syncTimer);syncTimer=setTimeout(()=>sync("silent"),20000)}
+function ago(ms){const m=Math.round((Date.now()-ms)/6e4);return m<1?"hace un momento":m<60?`hace ${m} min`:m<1440?`hace ${Math.round(m/60)} h`:`hace ${Math.round(m/1440)} d`}
+function setG(s,msg){gState=s;gMsg=msg||"";renderG();renderSaveInfo()}
+const ICON_USER=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.2-4 4.2-6 8-6s6.800 2 8 6"/></svg>`;
+function fillAvatar(el,u){
+  const ini=u&&((u.name||u.email||"").trim()[0]||"").toUpperCase();
+  el.innerHTML=ini?`<span>${esc(ini)}</span>${u.photo?`<img src="${esc(u.photo)}" alt="" referrerpolicy="no-referrer">`:""}`:ICON_USER;
+  const img=el.querySelector("img");if(img)img.onerror=()=>img.remove();
+}
+function renderBackupBox(){
+  /* Con la cuenta de Google conectada el progreso ya está a salvo en Drive: no se muestra «Tu progreso» ni las copias manuales.
+     El botón de instalar (si procede) sigue visible; si no queda nada que mostrar, se oculta también el contenedor y su línea. */
+  const connected=SYNC_ENABLED&&G.connected&&!(!G.lastSync&&gState==="busy");
+  $("localBackup").hidden=connected;
+  $("backupBox").hidden=connected&&$("btnInstall").hidden&&$("iosNote").hidden;
+}
+function renderG(){
+  renderBackupBox();
+  const btn=$("btnAcct"),box=$("gsync");if(!btn||!box)return;
+  btn.hidden=!SYNC_ENABLED;box.hidden=!SYNC_ENABLED;
+  if(!SYNC_ENABLED){$("acctPop").hidden=true;return}
+  const connecting=G.connected&&!G.lastSync&&gState==="busy";   // primera conexión en curso: aún no está "conectado"
+  const on=G.connected&&!connecting,u=G.user;
+  const txt={
+    off:"Guarda tu progreso en tu propio Google Drive y sincroniza tus dispositivos. La app solo accede a una carpeta oculta suya, no a tus archivos.",
+    idle:"Conectado a Google Drive.",busy:connecting?"Conectando con Google…":"Sincronizando…",
+    ok:`Sincronizado con Google Drive · ${G.lastSync?ago(G.lastSync):""}`,
+    pending:"Sin conexión: los cambios se subirán a Drive cuando vuelva internet.",
+    reauth:"Hay que volver a autorizar el acceso a Google. Toca «Sincronizar».",
+    error:"No se pudo sincronizar"+(gMsg?": "+gMsg:"")+". Puedes reintentar."
+  };
+  const state=on?gState:connecting?"busy":"off",warn=on&&(gState==="error"||gState==="reauth");
+  /* avatar de la cabecera */
+  const st=connecting?"busy":!on?"":gState==="busy"?"busy":gState==="error"?"err":(gState==="reauth"||gState==="pending")?"warn":"ok";
+  btn.toggleAttribute("data-on",on);btn.toggleAttribute("data-new",!on&&!G.hintSeen);
+  if(st)btn.dataset.st=st;else delete btn.dataset.st;
+  fillAvatar(btn,on?u:null);
+  btn.setAttribute("aria-label",on?`Cuenta de Google conectada${u?": "+(u.name||u.email):""}. ${txt[state].replace(/…$/,"")}`:"Conectar con Google para guardar tu progreso en Drive");
+  /* panel */
+  $("whoami").hidden=!on;$("gTitle").hidden=on;
+  if(on){fillAvatar($("whoAvatar"),u);$("whoName").textContent=u?(u.name||u.email):"Cuenta de Google conectada";$("whoMail").textContent=u&&u.name?u.email:""}
+  $("btnGConnect").hidden=on;$("btnGSync").hidden=!on;$("btnGOff").hidden=!on;
+  const busy=gState==="busy";$("btnGSync").disabled=busy;$("btnGConnect").disabled=busy||connecting;
+  const el=$("gInfo");el.textContent=txt[state];el.className="note"+(warn?" warn":"");
+}
+function openAcct(open){
+  const pop=$("acctPop"),btn=$("btnAcct");if(open===undefined)open=pop.hidden;
+  pop.hidden=!open;btn.setAttribute("aria-expanded",String(open));
+  if(open){
+    if(!G.hintSeen){G.hintSeen=true;gsave();renderG()}
+    const f=pop.querySelector("button:not([hidden]):not(:disabled)");if(f)f.focus();
+  }
+}
+$("btnAcct").onclick=()=>openAcct();
+document.addEventListener("pointerdown",e=>{if(!$("acctPop").hidden&&!e.target.closest(".acct"))openAcct(false)});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("acctPop").hidden){openAcct(false);$("btnAcct").focus()}});
+$("btnGConnect").onclick=()=>{G.connected=true;G.lastSync=0;gsave();sync("interactive")};
+$("btnGSync").onclick=()=>sync("interactive");
+$("btnGOff").onclick=()=>{
+  if(!confirm("¿Desconectar Google Drive? Tu progreso se queda en este dispositivo y la copia sigue en tu Drive."))return;
+  try{if(token&&window.google&&google.accounts.oauth2.revoke)google.accounts.oauth2.revoke(token,()=>{})}catch(e){}
+  token=null;tokenExp=0;G={connected:false,fileId:null,lastSync:0,user:null,hintSeen:true};gsave();setG("off");toast("Google Drive desconectado");
+};
+addEventListener("online",()=>{if(G.connected&&gState==="pending")sync("silent")});
+document.addEventListener("visibilitychange",()=>{
+  if(!SYNC_ENABLED||!G.connected)return;
+  if(document.visibilityState==="hidden"&&dirty){clearTimeout(syncTimer);sync("silent")}
+  else if(document.visibilityState==="visible"&&Date.now()-G.lastSync>5*6e4)sync("silent");
+});
+if(SYNC_ENABLED&&G.connected)setTimeout(()=>sync("silent"),1200);
+// Precarga el script de Google solo cuando el usuario llega a esa sección: así la ventana de permiso se abre al instante al pulsar «Conectar»
+if(SYNC_ENABLED&&"IntersectionObserver" in window){const io=new IntersectionObserver(es=>{if(es.some(x=>x.isIntersecting)){io.disconnect();loadGIS().catch(()=>{})}});io.observe($("gsync"))}
+
+/* ============ Copia de seguridad ============ */
+function exportProgress(){
+  const data={app:"milpalabras",v:2,exportedAt:new Date().toISOString(),state:S};
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(new Blob([JSON.stringify(data)],{type:"application/json"}));
+  a.download=`milpalabras-progreso-${new Date().toISOString().slice(0,10)}.json`;
+  document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000);
+  toast("Copia de seguridad descargada");
+}
+function importProgress(file){
+  const r=new FileReader();
+  r.onload=()=>{
+    try{
+      const j=JSON.parse(r.result);
+      if(!j||j.app!=="milpalabras"||!j.state||typeof j.state.progress!=="object")throw 0;
+      const next=normalize(j.state),n=Object.values(next.progress).reduce((a,p)=>a+Object.keys(p).length,0);
+      if(!confirm(`Se reemplazará tu progreso actual por el de la copia (${n} palabras con historial). ¿Continuar?`))return;
+      S=next;save();renderHome();toast("Progreso restaurado");
+    }catch(e){toast("El archivo no es una copia válida de Mil Palabras")}
+  };
+  r.onerror=()=>toast("No se pudo leer el archivo");
+  r.readAsText(file);
+}
+$("btnExport").onclick=exportProgress;
+$("btnImport").onclick=()=>$("fileImport").click();
+$("fileImport").onchange=e=>{const f=e.target.files[0];e.target.value="";if(f)importProgress(f)};
+
+/* ============ Instalación y modo sin conexión ============ */
+let deferredInstall=null;
+addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredInstall=e;$("btnInstall").hidden=false;renderBackupBox()});
+$("btnInstall").onclick=async()=>{if(!deferredInstall)return;deferredInstall.prompt();try{await deferredInstall.userChoice}catch(e){}deferredInstall=null;$("btnInstall").hidden=true;renderBackupBox()};
+addEventListener("appinstalled",()=>{$("btnInstall").hidden=true;renderBackupBox();toast("App instalada")});
+if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!navigator.standalone)$("iosNote").hidden=false;
+if("serviceWorker" in navigator&&/^https?:$/.test(location.protocol))addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+
+renderHome();
+</script>
+</body>
+</html>

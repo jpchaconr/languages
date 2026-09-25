@@ -1,0 +1,220 @@
+ich|pron|yo|*Ich* bin müde.|Estoy cansado.|*Ich* lerne Deutsch.|Aprendo alemán.
+die|art|la, las, los (femenino y plural)|*Die* Frau ist nett.|La mujer es simpática.|*Die* Kinder spielen im Garten.|Los niños juegan en el jardín.
+und|conj|y|Kaffee *und* Kuchen.|Café y pastel.|Du *und* ich.|Tú y yo.
+der|art|el (masculino)|*Der* Hund bellt.|El perro ladra.|*Der* Tag ist lang.|El día es largo.
+das|art|el, lo (neutro); eso, esto|*Das* Kind schläft.|El niño duerme.|*Das* ist mein Bruder.|Este es mi hermano.
+ist|v|es, está (de «sein»)|Er *ist* Lehrer.|Él es profesor.|Das Wetter *ist* schön.|El tiempo es bueno.
+sie|pron|ella; ellos, ellas; usted (Sie)|*Sie* wohnt in Wien.|Ella vive en Viena.|*Sie* sind meine Eltern.|Ellos son mis padres.
+nicht|adv|no|Ich weiß es *nicht*.|No lo sé.|*Nicht* jetzt.|Ahora no.
+in|prep|en, dentro de|Ich wohne *in* Berlin.|Vivo en Berlín.|Das Buch ist *in* der Tasche.|El libro está en el bolso.
+es|pron|ello, lo; (sujeto impersonal)|*Es* regnet.|Está lloviendo.|Ich glaube *es* nicht.|No me lo creo.
+du|pron|tú|Wie heißt *du*?|¿Cómo te llamas?|*Du* hast recht.|Tienes razón.
+zu|prep|a, hacia; demasiado|Ich gehe *zu* meiner Mutter.|Voy a casa de mi madre.|Das ist *zu* teuer.|Eso es demasiado caro.
+ein|art|un (masculino y neutro)|Ich habe *ein* Auto.|Tengo un coche.|*Ein* Bier, bitte.|Una cerveza, por favor.
+mit|prep|con|Kaffee *mit* Milch.|Café con leche.|Ich fahre *mit* dem Bus.|Voy en autobús.
+den|art|el (acusativo masculino); los (dativo plural)|Ich sehe *den* Hund.|Veo al perro.|Sie hilft *den* Kindern.|Ella ayuda a los niños.
+wir|pron|nosotros, nosotras|*Wir* wohnen in Köln.|Vivimos en Colonia.|*Wir* haben Zeit.|Tenemos tiempo.
+von|prep|de, desde; por|Das Buch ist *von* mir.|El libro es mío.|Ich komme *von* der Arbeit.|Vengo del trabajo.
+was|pron|qué, lo que|*Was* machst du?|¿Qué haces?|Ich weiß nicht, *was* er will.|No sé lo que quiere.
+er|pron|él|*Er* arbeitet heute.|Él trabaja hoy.|*Er* ist mein Freund.|Él es mi amigo.
+auf|prep|sobre, en, encima de|Das Buch liegt *auf* dem Tisch.|El libro está sobre la mesa.|Ich warte *auf* den Bus.|Espero el autobús.
+für|prep|para, por|Das Geschenk ist *für* dich.|El regalo es para ti.|Danke *für* alles.|Gracias por todo.
+eine|art|una (femenino)|Ich brauche *eine* Pause.|Necesito un descanso.|Sie hat *eine* Schwester.|Ella tiene una hermana.
+dass|conj|que|Ich weiß, *dass* du müde bist.|Sé que estás cansado.|Er sagt, *dass* er kommt.|Dice que viene.
+wie|adv|cómo; como|*Wie* geht es dir?|¿Cómo estás?|Er ist so groß *wie* ich.|Es tan alto como yo.
+so|adv|así, tan|Ich bin *so* müde.|Estoy tan cansado.|Mach es *so*.|Hazlo así.
+aber|conj|pero|Ich möchte, *aber* ich kann nicht.|Quiero, pero no puedo.|Es ist klein, *aber* schön.|Es pequeño, pero bonito.
+im|prep|en el (in dem)|Ich bin *im* Büro.|Estoy en la oficina.|*Im* Sommer ist es heiß.|En verano hace calor.
+sich|pron|se|Er wäscht *sich* die Hände.|Se lava las manos.|Sie freut *sich*.|Ella se alegra.
+hat|v|tiene, ha (de «haben»)|Sie *hat* zwei Kinder.|Ella tiene dos hijos.|Er *hat* gegessen.|Él ha comido.
+ja|adv|sí|*Ja*, das stimmt.|Sí, es verdad.|*Ja*, bitte.|Sí, por favor.
+an|prep|a, en, junto a|Das Bild hängt *an* der Wand.|El cuadro cuelga de la pared.|Ich denke *an* dich.|Pienso en ti.
+auch|adv|también|Ich komme *auch*.|Yo también voy.|Sie spricht *auch* Englisch.|Ella también habla inglés.
+dem|art|el (dativo masculino y neutro)|Ich helfe *dem* Mann.|Ayudo al hombre.|Das Buch liegt auf *dem* Tisch.|El libro está sobre la mesa.
+mir|pron|me, a mí|Gib *mir* bitte das Buch.|Dame el libro, por favor.|Das gehört *mir*.|Eso es mío.
+sind|v|son, somos, estáis (de «sein»)|Wir *sind* müde.|Estamos cansados.|Sie *sind* meine Freunde.|Ellos son mis amigos.
+war|v|era, estaba, fue (de «sein»)|Ich *war* gestern krank.|Ayer estaba enfermo.|Der Film *war* super.|La película fue genial.
+als|conj|cuando; como; que (comparación)|*Als* Kind spielte ich viel.|De niño jugaba mucho.|Er ist größer *als* ich.|Es más alto que yo.
+wenn|conj|si, cuando|*Wenn* es regnet, bleibe ich zu Hause.|Si llueve, me quedo en casa.|Ruf mich an, *wenn* du da bist.|Llámame cuando llegues.
+haben|v|tener, haber|Wir *haben* Zeit.|Tenemos tiempo.|Sie *haben* recht.|Tienen razón.
+mich|pron|me, a mí|Er ruft *mich* an.|Él me llama.|Das freut *mich*.|Eso me alegra.
+noch|adv|todavía, aún; más|Ich bin *noch* müde.|Todavía estoy cansado.|Möchten Sie *noch* einen Kaffee?|¿Quiere otro café?
+nur|adv|solo, solamente|Ich habe *nur* fünf Euro.|Solo tengo cinco euros.|Das ist *nur* ein Spiel.|Es solo un juego.
+hier|adv|aquí|Ich wohne *hier*.|Vivo aquí.|Komm *hier* her!|¡Ven aquí!
+aus|prep|de (origen), desde dentro|Ich komme *aus* Chile.|Soy de Chile.|Er nimmt das Buch *aus* der Tasche.|Saca el libro del bolso.
+des|art|del, de la (genitivo masculino y neutro)|Das ist das Auto *des* Lehrers.|Este es el coche del profesor.|Der Anfang *des* Films ist langsam.|El comienzo de la película es lento.
+einen|art|un (acusativo masculino)|Ich habe *einen* Bruder.|Tengo un hermano.|Er kauft *einen* Tisch.|Él compra una mesa.
+bei|prep|en casa de, junto a, en|Ich wohne *bei* meinen Eltern.|Vivo con mis padres.|Er arbeitet *bei* Siemens.|Trabaja en Siemens.
+habe|v|tengo, he (de «haben»)|Ich *habe* Hunger.|Tengo hambre.|Ich *habe* das Buch gelesen.|He leído el libro.
+da|adv|allí, ahí; entonces; como (causal)|Ist jemand *da*?|¿Hay alguien ahí?|*Da* kam er herein.|Entonces entró.
+ihr|pron|vosotros; su (de ella); le, a ella|*Ihr* seid spät.|Llegáis tarde.|Ich gebe *ihr* das Buch.|Le doy el libro a ella.
+nach|prep|después de; hacia|*Nach* dem Essen gehen wir spazieren.|Después de comer damos un paseo.|Wir fahren *nach* Berlin.|Vamos a Berlín.
+wird|v|se vuelve, va a (de «werden»)|Es *wird* kalt.|Se está enfriando.|Er *wird* Arzt.|Él será médico.
+kann|v|puede, sabe (de «können»)|Sie *kann* gut singen.|Ella sabe cantar bien.|*Kann* ich helfen?|¿Puedo ayudar?
+oder|conj|o|Tee *oder* Kaffee?|¿Té o café?|Ja *oder* nein?|¿Sí o no?
+dich|pron|te, a ti|Ich liebe *dich*.|Te quiero.|Ich rufe *dich* morgen an.|Te llamo mañana.
+schon|adv|ya; ya (énfasis)|Bist du *schon* fertig?|¿Ya has terminado?|Ich war *schon* dort.|Ya estuve allí.
+dann|adv|entonces, luego|Erst essen wir, *dann* gehen wir.|Primero comemos, luego nos vamos.|Bis *dann*!|¡Hasta entonces!
+bin|v|soy, estoy (de «sein»)|Ich *bin* Student.|Soy estudiante.|Ich *bin* müde.|Estoy cansado.
+werden|v|llegar a ser, volverse; futuro|Ich möchte Arzt *werden*.|Quiero ser médico.|Wir *werden* kommen.|Vendremos.
+sein|v|ser, estar|Ich will glücklich *sein*.|Quiero ser feliz.|Das kann nicht *sein*.|Eso no puede ser.
+man|pron|se, uno|Hier darf *man* nicht rauchen.|Aquí no se puede fumar.|Wie sagt *man* das?|¿Cómo se dice eso?
+mal|adv|una vez; (partícula suavizadora)|Komm *mal* her!|¡Ven un momento!|Hör *mal*, ich muss dir etwas sagen.|Escucha, tengo que decirte algo.
+uns|pron|nos, a nosotros|Er hilft *uns*.|Él nos ayuda.|Kommst du mit *uns*?|¿Vienes con nosotros?
+dir|pron|te, a ti|Wie geht es *dir*?|¿Cómo estás?|Ich gebe *dir* das Buch.|Te doy el libro.
+nein|int|no|*Nein*, danke.|No, gracias.|*Nein*, das stimmt nicht.|No, eso no es verdad.
+jetzt|adv|ahora|Ich bin *jetzt* beschäftigt.|Ahora estoy ocupado.|Was machst du *jetzt*?|¿Qué haces ahora?
+gut|adj|bueno, bien|Das Essen ist *gut*.|La comida está buena.|Mir geht es *gut*.|Estoy bien.
+doch|adv|sí (contradicción); pero, sin embargo|Du kommst nicht? — *Doch*!|¿No vienes? — ¡Sí!|Es ist kalt, *doch* schön.|Hace frío, pero es bonito.
+am|prep|en el, el (an dem); superlativo|Ich wohne *am* Meer.|Vivo junto al mar.|Wir treffen uns *am* Montag.|Nos vemos el lunes.
+zum|prep|al, para el (zu dem)|Ich gehe *zum* Arzt.|Voy al médico.|Was möchtest du *zum* Essen?|¿Qué quieres para comer?
+mehr|adv|más|Ich brauche *mehr* Zeit.|Necesito más tiempo.|Ich habe kein Geld *mehr*.|Ya no tengo dinero.
+einer|art|uno; de una (femenino, genitivo/dativo)|Er ist *einer* meiner Freunde.|Es uno de mis amigos.|Ich helfe *einer* Frau.|Ayudo a una mujer.
+hast|v|tienes, has (de «haben»)|Du *hast* recht.|Tienes razón.|*Hast* du Zeit?|¿Tienes tiempo?
+keine|det|ninguna, ningún (femenino y plural)|Ich habe *keine* Zeit.|No tengo tiempo.|Sie hat *keine* Kinder.|Ella no tiene hijos.
+über|prep|sobre, acerca de, por encima de|Wir sprechen *über* das Wetter.|Hablamos del tiempo.|Die Lampe hängt *über* dem Tisch.|La lámpara cuelga sobre la mesa.
+meine|det|mi, mis (femenino y plural)|*Meine* Mutter ist Lehrerin.|Mi madre es profesora.|Wo sind *meine* Schlüssel?|¿Dónde están mis llaves?
+vor|prep|delante de, antes de|Der Bus hält *vor* dem Haus.|El autobús para delante de la casa.|Ich stehe *vor* sieben Uhr auf.|Me levanto antes de las siete.
+einem|art|un (dativo)|Ich wohne in *einem* kleinen Dorf.|Vivo en un pueblo pequeño.|Er spricht mit *einem* Freund.|Habla con un amigo.
+ihn|pron|lo, a él|Ich kenne *ihn* gut.|Lo conozco bien.|Wir sehen *ihn* morgen.|Lo vemos mañana.
+alles|pron|todo|*Alles* ist gut.|Todo está bien.|Ich habe *alles* verstanden.|Lo he entendido todo.
+mein|det|mi (masculino y neutro)|*Mein* Bruder wohnt in Berlin.|Mi hermano vive en Berlín.|Das ist *mein* Buch.|Este es mi libro.
+immer|adv|siempre|Er kommt *immer* zu spät.|Siempre llega tarde.|Ich trinke *immer* Kaffee.|Siempre tomo café.
+muss|v|tiene que, debe (de «müssen»)|Ich *muss* gehen.|Tengo que irme.|Er *muss* arbeiten.|Él tiene que trabajar.
+wieder|adv|otra vez, de nuevo|Ich komme bald *wieder*.|Volveré pronto.|Sie ist *wieder* krank.|Ella está enferma otra vez.
+weiß|v|sé, sabe (de «wissen»)|Ich *weiß* es nicht.|No lo sé.|Er *weiß* alles.|Él lo sabe todo.
+diese|det|esta, estas, estos|*Diese* Frau kenne ich.|Conozco a esta mujer.|*Diese* Bücher sind neu.|Estos libros son nuevos.
+bist|v|eres, estás (de «sein»)|Du *bist* mein Freund.|Eres mi amigo.|Wo *bist* du?|¿Dónde estás?
+geht|v|va, anda (de «gehen»)|Er *geht* zur Schule.|Él va a la escuela.|Wie *geht* es dir?|¿Cómo estás?
+können|v|poder, saber (hacer)|Wir *können* dir helfen.|Podemos ayudarte.|Sie *können* gut Deutsch.|Saben bien alemán.
+alle|det|todos, todas|*Alle* Kinder lachen.|Todos los niños ríen.|Wir sind *alle* müde.|Todos estamos cansados.
+sehr|adv|muy|Das ist *sehr* gut.|Eso está muy bien.|Danke *sehr*!|¡Muchas gracias!
+will|v|quiere (de «wollen»)|Ich *will* nach Hause.|Quiero irme a casa.|Er *will* Arzt werden.|Él quiere ser médico.
+also|adv|así que, pues, por tanto|Du bist müde, *also* geh schlafen.|Estás cansado, así que ve a dormir.|*Also*, los geht's!|¡Bueno, vamos!
+nichts|pron|nada|Ich weiß *nichts*.|No sé nada.|Es gibt *nichts* zu essen.|No hay nada para comer.
+etwas|pron|algo|Möchtest du *etwas* trinken?|¿Quieres beber algo?|Ich habe *etwas* vergessen.|Se me ha olvidado algo.
+wo|adv|dónde|*Wo* wohnst du?|¿Dónde vives?|Ich weiß nicht, *wo* er ist.|No sé dónde está.
+bis|prep|hasta|Ich warte *bis* Montag.|Espero hasta el lunes.|*Bis* bald!|¡Hasta pronto!
+zur|prep|a la, para la (zu der)|Ich gehe *zur* Schule.|Voy a la escuela.|Wir fahren *zur* Arbeit.|Vamos al trabajo.
+ihre|det|su, sus (de ella, de ellos)|*Ihre* Tochter ist zehn.|Su hija tiene diez años.|Sie lieben *ihre* Kinder.|Aman a sus hijos.
+wurde|v|se volvió, fue (de «werden»)|Er *wurde* Lehrer.|Se hizo profesor.|Das Haus *wurde* 1900 gebaut.|La casa se construyó en 1900.
+ihnen|pron|les, a ellos; a usted (Ihnen)|Ich gebe *ihnen* das Buch.|Les doy el libro.|Kann ich *Ihnen* helfen?|¿Puedo ayudarle?
+durch|prep|a través de, por|Wir gehen *durch* den Park.|Caminamos por el parque.|Das Licht kommt *durch* das Fenster.|La luz entra por la ventana.
+machen|v|hacer|Was willst du *machen*?|¿Qué quieres hacer?|Wir *machen* eine Pause.|Hacemos una pausa.
+gibt|v|da (de «geben»); es gibt = hay|Es *gibt* einen Park in der Nähe.|Hay un parque cerca.|Sie *gibt* mir ein Buch.|Ella me da un libro.
+hab|v|tengo (forma coloquial de «habe»)|Ich *hab* keine Zeit.|No tengo tiempo.|Ich *hab* dich lieb.|Te quiero.
+denn|conj|porque, pues|Ich bleibe zu Hause, *denn* ich bin krank.|Me quedo en casa porque estoy enfermo.|Wie geht es dir *denn*?|Bueno, ¿cómo estás?
+bitte|int|por favor; de nada|Ein Kaffee, *bitte*.|Un café, por favor.|Danke! — *Bitte*!|¡Gracias! — ¡De nada!
+hatte|v|tenía, tuvo (de «haben»)|Ich *hatte* Hunger.|Tenía hambre.|Sie *hatte* keine Zeit.|Ella no tenía tiempo.
+warum|adv|por qué|*Warum* weinst du?|¿Por qué lloras?|*Warum* nicht?|¿Por qué no?
+viel|det|mucho|Ich habe *viel* Arbeit.|Tengo mucho trabajo.|Er hat *viel* Geld.|Él tiene mucho dinero.
+ihm|pron|le, a él|Ich gebe *ihm* das Buch.|Le doy el libro.|Es geht *ihm* gut.|Él está bien.
+wer|pron|quién|*Wer* ist das?|¿Quién es ese?|*Wer* hat angerufen?|¿Quién ha llamado?
+soll|v|debe, se supone (de «sollen»)|Was *soll* ich tun?|¿Qué debo hacer?|Er *soll* morgen kommen.|Se supone que viene mañana.
+oh|int|oh, ah|*Oh*, das wusste ich nicht!|¡Ah, eso no lo sabía!|*Oh*, wie schön!|¡Oh, qué bonito!
+sagen|v|decir|Was willst du *sagen*?|¿Qué quieres decir?|Kannst du mir die Wahrheit *sagen*?|¿Puedes decirme la verdad?
+zeit|sf|tiempo, hora|Ich habe keine *Zeit*.|No tengo tiempo.|Wie viel *Zeit* haben wir?|¿Cuánto tiempo tenemos?
+mann|sm|hombre, marido|Der *Mann* liest Zeitung.|El hombre lee el periódico.|Ihr *Mann* arbeitet in Bonn.|Su marido trabaja en Bonn.
+einfach|adj|sencillo, fácil; adv: simplemente|Das ist ganz *einfach*.|Eso es muy fácil.|Ich weiß es *einfach* nicht.|Simplemente no lo sé.
+dieser|det|este (masculino); de esta|*Dieser* Mann ist mein Onkel.|Este hombre es mi tío.|Wir sprechen mit *dieser* Frau.|Hablamos con esta mujer.
+kein|det|ningún, ninguno (masculino y neutro)|Ich habe *kein* Auto.|No tengo coche.|Das ist *kein* Problem.|No es ningún problema.
+weil|conj|porque|Ich bleibe zu Hause, *weil* ich krank bin.|Me quedo en casa porque estoy enfermo.|Er lacht, *weil* es lustig ist.|Se ríe porque es gracioso.
+ganz|adv|completamente, bastante; adj: entero|Das ist *ganz* einfach.|Eso es muy fácil.|Ich habe *ganz* vergessen, ihn anzurufen.|Olvidé por completo llamarlo.
+danke|int|gracias|*Danke* für deine Hilfe.|Gracias por tu ayuda.|*Danke*, gut.|Bien, gracias.
+vielleicht|adv|quizá, tal vez|*Vielleicht* kommt er später.|Quizá venga más tarde.|Hast du *vielleicht* Zeit?|¿Tendrías tiempo, tal vez?
+damit|conj|para que; adv: con eso|Ich lerne, *damit* ich bestehe.|Estudio para aprobar.|Was willst du *damit* sagen?|¿Qué quieres decir con eso?
+seine|det|su, sus (de él)|*Seine* Frau ist Ärztin.|Su mujer es médica.|Er liebt *seine* Kinder.|Ama a sus hijos.
+würde|v|(condicional) haría, sería|Ich *würde* gern reisen.|Me gustaría viajar.|Er *würde* kommen, wenn er könnte.|Vendría si pudiera.
+sehen|v|ver|Ich kann dich nicht *sehen*.|No puedo verte.|Wir *sehen* uns morgen.|Nos vemos mañana.
+euch|pron|os, a vosotros|Ich helfe *euch*.|Os ayudo.|Wie geht es *euch*?|¿Cómo estáis?
+müssen|v|tener que, deber|Wir *müssen* gehen.|Tenemos que irnos.|Kinder *müssen* schlafen.|Los niños tienen que dormir.
+gehen|v|ir, andar|Wir *gehen* nach Hause.|Nos vamos a casa.|Wie lange *gehen* wir noch?|¿Cuánto más vamos a caminar?
+leben|v|vivir; s: vida|Wir *leben* in Wien.|Vivimos en Viena.|Ich möchte in Spanien *leben*.|Me gustaría vivir en España.
+tun|v|hacer|Was soll ich *tun*?|¿Qué debo hacer?|Ich muss noch etwas *tun*.|Todavía tengo que hacer algo.
+wirklich|adv|realmente, de verdad|Das ist *wirklich* gut.|Eso es realmente bueno.|Meinst du das *wirklich*?|¿Lo dices en serio?
+los|adv|suelto; (¡los! = ¡vamos!)|*Los*, wir müssen gehen!|¡Vamos, tenemos que irnos!|Was ist *los*?|¿Qué pasa?
+heute|adv|hoy|Was machst du *heute*?|¿Qué haces hoy?|*Heute* ist es kalt.|Hoy hace frío.
+kommt|v|viene (de «kommen»)|Er *kommt* aus Peru.|Él es de Perú.|Der Bus *kommt* gleich.|El autobús llega enseguida.
+vom|prep|del (von dem)|Ich komme *vom* Arzt.|Vengo del médico.|Das Buch ist *vom* Lehrer.|El libro es del profesor.
+nun|adv|ahora, pues|*Nun*, was machen wir?|Bueno, ¿qué hacemos?|Von *nun* an bleibe ich hier.|A partir de ahora me quedo aquí.
+unter|prep|debajo de, entre|Die Katze ist *unter* dem Tisch.|El gato está debajo de la mesa.|Er ist *unter* den Gästen.|Está entre los invitados.
+nie|adv|nunca|Ich war *nie* in Spanien.|Nunca he estado en España.|Das vergesse ich *nie*.|Eso no lo olvidaré nunca.
+zwei|num|dos|Ich habe *zwei* Brüder.|Tengo dos hermanos.|*Zwei* Kaffee, bitte.|Dos cafés, por favor.
+wäre|v|(subjuntivo) sería, fuera|Das *wäre* toll!|¡Eso sería genial!|Wenn ich reich *wäre*...|Si yo fuera rico...
+ab|prep|a partir de, desde|*Ab* Montag arbeite ich hier.|A partir del lunes trabajo aquí.|Das Ticket gilt *ab* heute.|El billete vale desde hoy.
+waren|v|eran, estaban, fueron (de «sein»)|Wir *waren* im Kino.|Estuvimos en el cine.|Sie *waren* sehr müde.|Estaban muy cansados.
+werde|v|voy a, me vuelvo (de «werden»)|Ich *werde* dich anrufen.|Te llamaré.|Ich *werde* müde.|Me estoy cansando.
+deine|det|tu, tus (femenino y plural)|Wo ist *deine* Tasche?|¿Dónde está tu bolso?|Ich mag *deine* Freunde.|Me caen bien tus amigos.
+wissen|v|saber|Ich möchte es *wissen*.|Quiero saberlo.|Wir *wissen* die Antwort nicht.|No sabemos la respuesta.
+weg|adv|fuera, lejos; ido|Er ist schon *weg*.|Ya se ha ido.|Mein Handy ist *weg*.|Mi móvil ha desaparecido.
+macht|v|hace (de «machen»)|Was *macht* er?|¿Qué hace él?|Das *macht* nichts.|No importa.
+kommen|v|venir, llegar|Wir *kommen* morgen.|Vendremos mañana.|Woher *kommen* Sie?|¿De dónde viene usted?
+wollen|v|querer|Wir *wollen* nach Hause.|Queremos irnos a casa.|Was *wollen* Sie trinken?|¿Qué quiere beber?
+ohne|prep|sin|Kaffee *ohne* Zucker.|Café sin azúcar.|Ich gehe nicht *ohne* dich.|No me voy sin ti.
+gegen|prep|contra; hacia (hora)|Ich bin *gegen* den Plan.|Estoy en contra del plan.|Wir kommen *gegen* acht.|Llegamos hacia las ocho.
+lassen|v|dejar, permitir; hacer (hacer que)|Sie *lassen* uns nicht hinein.|No nos dejan entrar.|Wir *lassen* das Auto reparieren.|Hacemos reparar el coche.
+komm|v|ven (imperativo de «kommen»)|*Komm* her!|¡Ven aquí!|*Komm*, wir gehen.|Vamos, nos vamos.
+frau|sf|mujer, señora, esposa|Die *Frau* ist Ärztin.|La mujer es médica.|*Frau* Müller ist da.|La señora Müller está aquí.
+okay|int|vale, de acuerdo|*Okay*, wir gehen.|Vale, nos vamos.|Ist alles *okay*?|¿Está todo bien?
+selbst|pron|uno mismo; adv: incluso|Ich mache es *selbst*.|Lo hago yo mismo.|*Selbst* er hat gelacht.|Incluso él se rio.
+ob|conj|si (duda)|Ich weiß nicht, *ob* er kommt.|No sé si viene.|Frag ihn, *ob* er Zeit hat.|Pregúntale si tiene tiempo.
+seit|prep|desde, hace|Ich wohne *seit* 2010 hier.|Vivo aquí desde 2010.|Wir warten *seit* einer Stunde.|Esperamos desde hace una hora.
+hätte|v|(subjuntivo) tendría, habría|Ich *hätte* gern einen Kaffee.|Quisiera un café.|Wenn ich Zeit *hätte*...|Si tuviera tiempo...
+dein|det|tu (masculino y neutro)|Wo ist *dein* Auto?|¿Dónde está tu coche?|Ist das *dein* Buch?|¿Es este tu libro?
+sicher|adj|seguro; adv: seguramente|Bist du *sicher*?|¿Estás seguro?|Das ist *sicher* richtig.|Eso seguramente es correcto.
+hey|int|eh, hola, oye|*Hey*, wie geht's?|Eh, ¿qué tal?|*Hey*, warte auf mich!|¡Eh, espérame!
+wollte|v|quería (de «wollen»)|Ich *wollte* dich anrufen.|Quería llamarte.|Er *wollte* nach Hause.|Quería irse a casa.
+tut|v|hace (de «tun»); duele|Es *tut* mir leid.|Lo siento.|Der Kopf *tut* weh.|Me duele la cabeza.
+gerade|adv|justo, ahora mismo; adj: recto|Ich esse *gerade*.|Ahora mismo estoy comiendo.|Er ist *gerade* angekommen.|Acaba de llegar.
+könnte|v|podría (de «können»)|*Könnte* ich das Fenster öffnen?|¿Podría abrir la ventana?|Er *könnte* recht haben.|Podría tener razón.
+anderen|adj|otros, otras (declinado)|Ich mag die *anderen* nicht.|No me gustan los otros.|Mit *anderen* Worten...|En otras palabras...
+zurück|adv|de vuelta, atrás|Ich bin bald *zurück*.|Vuelvo pronto.|Er kommt heute *zurück*.|Hoy regresa.
+kannst|v|puedes, sabes (de «können»)|*Kannst* du mir helfen?|¿Puedes ayudarme?|Du *kannst* gut kochen.|Cocinas bien.
+dieses|det|este (neutro)|*Dieses* Buch ist gut.|Este libro es bueno.|Ich mag *dieses* Lied.|Me gusta esta canción.
+eines|det|de un, de una; uno (genitivo)|Er ist *eines* meiner Kinder.|Es uno de mis hijos.|Das Ende *eines* Tages.|El final de un día.
+sollte|v|debería (de «sollen»)|Ich *sollte* mehr schlafen.|Debería dormir más.|Er *sollte* zum Arzt gehen.|Debería ir al médico.
+beim|prep|en, junto a, al (bei dem)|Ich bin *beim* Arzt.|Estoy en el médico.|Er hilft *beim* Kochen.|Ayuda a cocinar.
+gesagt|v|dicho (participio de «sagen»)|Was hast du *gesagt*?|¿Qué has dicho?|Wie ich schon *gesagt* habe...|Como ya he dicho...
+genau|adv|exacto, exactamente|*Genau*!|¡Exacto!|Es ist *genau* acht Uhr.|Son las ocho en punto.
+menschen|sp|personas, gente|Viele *Menschen* sind hier.|Aquí hay mucha gente.|Alle *Menschen* sind gleich.|Todas las personas son iguales.
+wohl|adv|probablemente; bien|Er ist *wohl* krank.|Probablemente esté enfermo.|Fühlst du dich *wohl*?|¿Te sientes bien?
+willst|v|quieres (de «wollen»)|Was *willst* du essen?|¿Qué quieres comer?|*Willst* du mitkommen?|¿Quieres venir?
+meinen|v|opinar, querer decir|Was *meinen* Sie?|¿Qué opina usted?|Wir *meinen* es ernst.|Lo decimos en serio.
+tag|sm|día|Ich habe einen guten *Tag*.|Tengo un buen día.|Guten *Tag*!|¡Buenos días!
+leute|sp|gente|Die *Leute* sind nett.|La gente es amable.|Viele *Leute* mögen Musik.|A mucha gente le gusta la música.
+viele|det|muchos, muchas|Ich habe *viele* Freunde.|Tengo muchos amigos.|*Viele* Menschen sind gekommen.|Ha venido mucha gente.
+diesem|det|este (dativo)|In *diesem* Haus wohne ich.|Vivo en esta casa.|Mit *diesem* Mann arbeite ich.|Trabajo con este hombre.
+dort|adv|allí|Ich war gestern *dort*.|Ayer estuve allí.|Was machst du *dort*?|¿Qué haces allí?
+klar|adj|claro|Das ist doch *klar*!|¡Eso está claro!|Alles *klar*?|¿Todo claro?
+weiter|adv|más, adelante|Wie geht es *weiter*?|¿Cómo continúa?|Ich gehe *weiter*.|Sigo caminando.
+unsere|det|nuestro, nuestros (femenino y plural)|*Unsere* Wohnung ist klein.|Nuestro piso es pequeño.|Das sind *unsere* Kinder.|Estos son nuestros hijos.
+weißt|v|sabes (de «wissen»)|*Weißt* du, wie spät es ist?|¿Sabes qué hora es?|Du *weißt* es doch!|¡Pero si lo sabes!
+gemacht|v|hecho (participio de «machen»)|Was hast du *gemacht*?|¿Qué has hecho?|Das hast du gut *gemacht*.|Lo has hecho bien.
+besser|adj|mejor|Das ist *besser*.|Eso es mejor.|Mir geht es heute *besser*.|Hoy me siento mejor.
+na|int|bueno, pues, ¿qué tal?|*Na*, wie geht's?|Bueno, ¿qué tal?|*Na* gut, ich komme mit.|Bueno, vale, voy contigo.
+diesen|det|este (acusativo masc.), estos (dativo)|Ich kaufe *diesen* Tisch.|Compro esta mesa.|Mit *diesen* Leuten arbeite ich.|Trabajo con esta gente.
+ihren|det|su, sus (de ella, ellos; declinado)|Sie liebt *ihren* Hund.|Ella quiere a su perro.|Er besucht *ihren* Bruder.|Visita a su hermano.
+geld|sn|dinero|Ich habe kein *Geld*.|No tengo dinero.|Zeit ist *Geld*.|El tiempo es oro.
+schön|adj|bonito, hermoso, agradable|Das Wetter ist *schön*.|El tiempo es bueno.|Der Garten ist *schön*.|El jardín es bonito.
+sei|v|sé, esté (imperativo/subjuntivo de «sein»)|*Sei* vorsichtig!|¡Ten cuidado!|Er sagt, es *sei* spät.|Dice que es tarde.
+jahre|sp|años|Ich bin zwanzig *Jahre* alt.|Tengo veinte años.|Zwei *Jahre* sind vergangen.|Han pasado dos años.
+keinen|det|ningún (acusativo masc.)|Ich habe *keinen* Hunger.|No tengo hambre.|Er hat *keinen* Bruder.|No tiene hermano.
+gott|sm|dios|Mein *Gott*!|¡Dios mío!|Er glaubt an *Gott*.|Él cree en Dios.
+jahren|sp|años (dativo plural)|In den letzten *Jahren* hat sich viel verändert.|En los últimos años ha cambiado mucho.|Mit zehn *Jahren* lernte sie Klavier.|A los diez años aprendió piano.
+dabei|adv|con ello, al hacerlo, presente|Ich war *dabei*.|Yo estuve presente.|Er singt und tanzt *dabei*.|Canta y baila a la vez.
+ins|prep|en el, al (in das)|Wir gehen *ins* Kino.|Vamos al cine.|Er schaut *ins* Buch.|Mira el libro.
+morgen|adv|mañana|Bis *morgen*!|¡Hasta mañana!|Was machst du *morgen*?|¿Qué haces mañana?
+erst|adv|primero; solo, apenas|Ich bin *erst* zehn Minuten hier.|Solo llevo diez minutos aquí.|*Erst* essen, dann spielen.|Primero comer, luego jugar.
+leid|adj|(es tut mir leid = lo siento)|Es tut mir *leid*.|Lo siento.|Er tut mir *leid*.|Me da pena él.
+andere|det|otro, otros, otra|Ich möchte eine *andere* Farbe.|Quiero otro color.|Die *andere* Tasche ist größer.|El otro bolso es más grande.
+drei|num|tres|Ich habe *drei* Schwestern.|Tengo tres hermanas.|Es ist *drei* Uhr.|Son las tres.
+paar|det|un par, unos cuantos (ein paar)|Ich habe ein *paar* Fragen.|Tengo unas cuantas preguntas.|Warte ein *paar* Minuten.|Espera unos minutos.
+gar|adv|en absoluto, incluso (gar nicht)|Das ist *gar* nicht schlimm.|No es nada grave.|Ich habe *gar* kein Geld.|No tengo nada de dinero.
+dafür|adv|para eso, a cambio, a favor|Ich habe keine Zeit *dafür*.|No tengo tiempo para eso.|Ich bin *dafür*.|Estoy a favor.
+jemand|pron|alguien|Ist *jemand* da?|¿Hay alguien?|*Jemand* hat angerufen.|Alguien ha llamado.
+hallo|int|hola|*Hallo*, wie geht's?|Hola, ¿qué tal?|Sag *hallo* zu Oma.|Saluda a la abuela.
+natürlich|adv|naturalmente, por supuesto|*Natürlich* komme ich!|¡Por supuesto que voy!|Das ist *natürlich* wahr.|Eso es por supuesto verdad.
+ihrer|det|su, de ellos (genitivo/dativo)|Er spricht mit *ihrer* Mutter.|Habla con su madre.|Das ist das Haus *ihrer* Eltern.|Esta es la casa de sus padres.
+gute|adj|buen, buena (declinado)|Ich habe eine *gute* Idee.|Tengo una buena idea.|Wir wünschen dir *gute* Besserung.|Te deseamos que te mejores.
+liebe|adj|querido, amable; sf: amor|*Liebe* Anna, wie geht es dir?|Querida Anna, ¿cómo estás?|Wir haben *liebe* Nachbarn.|Tenemos vecinos amables.
+wegen|prep|a causa de, debido a|*Wegen* des Regens bleiben wir hier.|Por la lluvia nos quedamos aquí.|Ich rufe *wegen* der Wohnung an.|Llamo por el piso.

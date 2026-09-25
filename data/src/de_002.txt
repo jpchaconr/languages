@@ -1,0 +1,230 @@
+sagte|v|dijo, dije (pretérito de «sagen»)|Er *sagte* nichts.|Él no dijo nada.|Sie *sagte*, sie sei müde.|Ella dijo que estaba cansada.
+finden|v|encontrar; opinar|Ich kann meine Schlüssel nicht *finden*.|No encuentro mis llaves.|Wie *finden* Sie das?|¿Qué le parece eso?
+seiner|det|su, de él (femenino dativo/genitivo)|Er spricht mit *seiner* Mutter.|Habla con su madre.|Das ist das Haus *seiner* Eltern.|Esta es la casa de sus padres.
+glaube|v|creo (de «glauben»)|Ich *glaube* dir.|Te creo.|Ich *glaube*, es regnet.|Creo que llueve.
+gesehen|v|visto (participio de «sehen»)|Hast du meinen Bruder *gesehen*?|¿Has visto a mi hermano?|Ich habe den Film schon *gesehen*.|Ya he visto la película.
+meiner|det|mi, de mí (femenino dativo/genitivo)|Ich helfe *meiner* Mutter.|Ayudo a mi madre.|Das ist ein Freund *meiner* Schwester.|Es un amigo de mi hermana.
+lange|adv|mucho tiempo, largo rato|Ich habe *lange* gewartet.|He esperado mucho tiempo.|Wie *lange* dauert das?|¿Cuánto tiempo dura eso?
+jahr|sn|año|Nächstes *Jahr* fahre ich nach Spanien.|El año que viene voy a España.|Ein *Jahr* hat zwölf Monate.|Un año tiene doce meses.
+recht|adj|derecho; (recht haben = tener razón)|Du hast *recht*.|Tienes razón.|Das ist mir *recht*.|Por mí está bien.
+geben|v|dar; es gibt = hay|Kannst du mir das Salz *geben*?|¿Me das la sal?|Ich will dir eine Chance *geben*.|Quiero darte una oportunidad.
+gleich|adv|enseguida; adj: igual|Ich komme *gleich*.|Enseguida voy.|Sie sind *gleich* alt.|Tienen la misma edad.
+sagt|v|dice (de «sagen»)|Er *sagt*, er kommt später.|Dice que llegará más tarde.|Was *sagt* der Lehrer?|¿Qué dice el profesor?
+wurden|v|fueron, se volvieron (de «werden»)|Sie *wurden* Freunde.|Se hicieron amigos.|Die Häuser *wurden* verkauft.|Las casas fueron vendidas.
+welt|sf|mundo|Er reist um die *Welt*.|Viaja por todo el mundo.|Die *Welt* ist klein.|El mundo es pequeño.
+möchte|v|querría, me gustaría (de «mögen»)|Ich *möchte* einen Kaffee.|Quisiera un café.|Er *möchte* nach Hause.|Él quiere irse a casa.
+richtig|adj|correcto, justo; adv: muy|Das ist *richtig*.|Eso es correcto.|Es ist *richtig* kalt.|Hace mucho frío.
+vater|sm|padre|Mein *Vater* ist Lehrer.|Mi padre es profesor.|Er sieht aus wie sein *Vater*.|Se parece a su padre.
+davon|adv|de eso, de ello|Was hältst du *davon*?|¿Qué opinas de eso?|Ich habe nichts *davon* gewusst.|No sabía nada de eso.
+lass|v|deja (imperativo de «lassen»)|*Lass* mich in Ruhe!|¡Déjame en paz!|*Lass* uns gehen.|Vámonos.
+steht|v|está de pie, está (de «stehen»)|Das Auto *steht* vor dem Haus.|El coche está delante de la casa.|Was *steht* da?|¿Qué pone ahí?
+gehört|v|pertenece, oído (de «gehören», «hören»)|Das Buch *gehört* mir.|El libro es mío.|Ich habe es nicht *gehört*.|No lo he oído.
+zwischen|prep|entre|Er sitzt *zwischen* uns.|Está sentado entre nosotros.|*Zwischen* zwei und drei Uhr.|Entre las dos y las tres.
+sieht|v|ve, parece (de «sehen»)|Er *sieht* müde aus.|Parece cansado.|Sie *sieht* den Hund.|Ella ve al perro.
+seinen|det|su, sus (de él; acusativo masc./dativo pl.)|Er liebt *seinen* Hund.|Quiere a su perro.|Sie hilft *seinen* Kindern.|Ayuda a sus hijos.
+dazu|adv|para eso, además|Was sagst du *dazu*?|¿Qué dices a eso?|Wir brauchen *dazu* mehr Zeit.|Para eso necesitamos más tiempo.
+neue|adj|nuevo, nueva|Ich habe eine *neue* Wohnung.|Tengo un piso nuevo.|Das sind *neue* Schuhe.|Son zapatos nuevos.
+einmal|adv|una vez; alguna vez|Ich war *einmal* in Rom.|Estuve una vez en Roma.|Es war *einmal* ein König.|Érase una vez un rey.
+kinder|sp|niños, hijos|Die *Kinder* spielen draußen.|Los niños juegan afuera.|Wir haben zwei *Kinder*.|Tenemos dos hijos.
+meinem|det|mi (dativo masc./neutro)|Ich wohne bei *meinem* Bruder.|Vivo con mi hermano.|Ich spreche mit *meinem* Chef.|Hablo con mi jefe.
+mutter|sf|madre|Meine *Mutter* kocht gern.|A mi madre le gusta cocinar.|Sie ist *Mutter* von zwei Kindern.|Es madre de dos hijos.
+reden|v|hablar, charlar|Wir müssen *reden*.|Tenemos que hablar.|Er kann stundenlang *reden*.|Puede hablar durante horas.
+zusammen|adv|juntos|Wir wohnen *zusammen*.|Vivimos juntos.|Was macht das *zusammen*?|¿Cuánto es en total?
+sollen|v|deber, tener que (obligación externa)|Wir *sollen* leise sein.|Tenemos que estar callados.|Was *sollen* wir tun?|¿Qué debemos hacer?
+nacht|sf|noche|Gute *Nacht*!|¡Buenas noches!|Es ist mitten in der *Nacht*.|Es en plena noche.
+raus|adv|fuera, afuera (coloquial)|*Raus* hier!|¡Fuera de aquí!|Ich muss mal *raus*.|Necesito salir un rato.
+konnte|v|podía, pudo (de «können»)|Ich *konnte* nicht schlafen.|No podía dormir.|Er *konnte* gut schwimmen.|Sabía nadar bien.
+ersten|adj|primero, primeros (declinado)|Ich wohne im *ersten* Stock.|Vivo en el primer piso.|Am *ersten* Mai ist Feiertag.|El primero de mayo es festivo.
+uhr|sf|reloj; hora (con «Uhr»)|Wie viel *Uhr* ist es?|¿Qué hora es?|Meine *Uhr* ist kaputt.|Mi reloj está roto.
+passiert|v|ocurre, pasa (de «passieren»)|Was ist *passiert*?|¿Qué ha pasado?|Das *passiert* oft.|Eso pasa a menudo.
+arbeit|sf|trabajo|Ich gehe zur *Arbeit*.|Voy al trabajo.|Die *Arbeit* ist anstrengend.|El trabajo es agotador.
+jeder|det|cada, cada uno, todo el mundo|*Jeder* kennt ihn.|Todo el mundo lo conoce.|*Jeder* Tag ist anders.|Cada día es distinto.
+schnell|adj|rápido; adv: rápido|Das Auto ist sehr *schnell*.|El coche es muy rápido.|Komm *schnell*!|¡Ven rápido!
+stadt|sf|ciudad|Ich wohne in einer großen *Stadt*.|Vivo en una ciudad grande.|Die *Stadt* ist sehr alt.|La ciudad es muy antigua.
+wieso|adv|por qué, cómo así|*Wieso* bist du zu spät?|¿Por qué llegas tarde?|*Wieso* nicht?|¿Por qué no?
+her|adv|hacia aquí; desde|Komm *her*!|¡Ven aquí!|Wo kommst du *her*?|¿De dónde eres?
+ende|sn|final, fin|Das *Ende* des Films war schön.|El final de la película fue bonito.|Am *Ende* des Tages bin ich müde.|Al final del día estoy cansado.
+sondern|conj|sino, sino que|Er ist nicht müde, *sondern* hungrig.|No está cansado, sino hambriento.|Nicht heute, *sondern* morgen.|No hoy, sino mañana.
+hin|adv|hacia allá; hacia (dirección)|Wo willst du *hin*?|¿Adónde quieres ir?|Ich gehe nicht *hin*.|No voy allí.
+dachte|v|pensaba, pensó (de «denken»)|Ich *dachte*, du schläfst.|Pensaba que dormías.|Sie *dachte* an ihre Mutter.|Pensó en su madre.
+mach|v|haz (imperativo de «machen»)|*Mach* die Tür zu!|¡Cierra la puerta!|*Mach* schnell!|¡Date prisa!
+musst|v|tienes que (de «müssen»)|Du *musst* nicht kommen.|No tienes que venir.|*Musst* du schon gehen?|¿Ya tienes que irte?
+darf|v|puede, se permite (de «dürfen»)|Hier *darf* man nicht rauchen.|Aquí no se puede fumar.|*Darf* ich reinkommen?|¿Puedo pasar?
+sollten|v|debían, deberían (de «sollen»)|Wir *sollten* gehen.|Deberíamos irnos.|Sie *sollten* mehr schlafen.|Deberían dormir más.
+haus|sn|casa, edificio|Wir haben ein großes *Haus*.|Tenemos una casa grande.|Das *Haus* ist alt.|La casa es vieja.
+guten|adj|bueno, buenos (declinado)|Ich wünsche dir einen *guten* Tag.|Te deseo un buen día.|Wir haben *guten* Kaffee.|Tenemos buen café.
+unser|det|nuestro (masculino y neutro)|*Unser* Haus ist klein.|Nuestra casa es pequeña.|Das ist *unser* Lehrer.|Este es nuestro profesor.
+ganze|adj|entero, todo (declinado)|Ich habe die *ganze* Nacht gearbeitet.|He trabajado toda la noche.|Die *ganze* Familie war da.|Toda la familia estaba allí.
+helfen|v|ayudar|Kannst du mir *helfen*?|¿Puedes ayudarme?|Wir wollen dir *helfen*.|Queremos ayudarte.
+nehmen|v|tomar, coger|Ich möchte den Bus *nehmen*.|Quiero tomar el autobús.|Sie können das Buch *nehmen*.|Puede coger el libro.
+heißt|v|se llama, significa (de «heißen»)|Wie *heißt* du?|¿Cómo te llamas?|Was *heißt* das auf Spanisch?|¿Qué significa eso en español?
+eigentlich|adv|en realidad, propiamente|Was willst du *eigentlich*?|¿Qué quieres en realidad?|*Eigentlich* habe ich keine Zeit.|En realidad no tengo tiempo.
+frage|sf|pregunta; también «fragen» (yo pregunto)|Ich habe eine *Frage*.|Tengo una pregunta.|Das ist eine gute *Frage*.|Es una buena pregunta.
+ach|int|ay, ah, vaya|*Ach*, wirklich?|Ah, ¿de verdad?|*Ach* so!|¡Ah, ya entiendo!
+hatten|v|tenían, teníamos (de «haben»)|Wir *hatten* viel Spaß.|Nos divertimos mucho.|Sie *hatten* keine Zeit.|No tenían tiempo.
+fragen|v|preguntar|Darf ich Sie etwas *fragen*?|¿Puedo preguntarle algo?|Du kannst mich alles *fragen*.|Puedes preguntarme lo que quieras.
+abend|sm|tarde, noche (atardecer)|Guten *Abend*!|¡Buenas tardes!|Wir essen am *Abend*.|Cenamos por la noche.
+während|prep|durante; conj: mientras|*Während* der Woche arbeite ich viel.|Durante la semana trabajo mucho.|Ich lese, *während* ich warte.|Leo mientras espero.
+bleiben|v|quedarse, permanecer|Wir wollen zu Hause *bleiben*.|Queremos quedarnos en casa.|Kannst du noch ein bisschen *bleiben*?|¿Puedes quedarte un poco más?
+kam|v|vino, llegó (de «kommen»)|Er *kam* spät nach Hause.|Llegó tarde a casa.|Woher *kam* das?|¿De dónde venía eso?
+fall|sm|caso; caída|In diesem *Fall* bleibe ich.|En ese caso me quedo.|Das ist ein schwieriger *Fall*.|Es un caso difícil.
+ihrem|det|su (de ella/ellos; dativo)|Sie spricht mit *ihrem* Bruder.|Ella habla con su hermano.|Er wohnt bei *ihrem* Onkel.|Vive con su tío.
+sonst|adv|si no, por lo demás|Beeil dich, *sonst* verpassen wir den Zug.|Date prisa, si no perdemos el tren.|Möchten Sie *sonst* noch etwas?|¿Desea algo más?
+seinem|det|su (de él; dativo)|Er spricht mit *seinem* Vater.|Habla con su padre.|Er wohnt in *seinem* Haus.|Vive en su casa.
+essen|v|comer; sn: comida|Wir *essen* um sieben.|Comemos a las siete.|Was möchtest du *essen*?|¿Qué quieres comer?
+gab|v|dio (de «geben»); es gab = había|Sie *gab* mir ein Buch.|Ella me dio un libro.|Es *gab* viele Leute.|Había mucha gente.
+sag|v|di (imperativo de «sagen»)|*Sag* mir die Wahrheit.|Dime la verdad.|*Sag* mal, wie spät ist es?|Oye, ¿qué hora es?
+denke|v|pienso (de «denken»)|Ich *denke* oft an dich.|Pienso a menudo en ti.|Ich *denke*, das ist richtig.|Creo que eso es correcto.
+wirst|v|te vuelves, vas a (de «werden»)|Du *wirst* müde.|Te estás cansando.|Du *wirst* sehen!|¡Ya verás!
+mädchen|sn|chica, niña|Das *Mädchen* liest ein Buch.|La niña lee un libro.|Sie ist ein nettes *Mädchen*.|Es una chica simpática.
+fast|adv|casi|Ich bin *fast* fertig.|Ya casi he terminado.|Es ist *fast* zehn Uhr.|Son casi las diez.
+etwa|adv|aproximadamente, más o menos|Das dauert *etwa* eine Stunde.|Eso dura aproximadamente una hora.|Ist das *etwa* dein Auto?|¿Acaso es este tu coche?
+genug|adv|suficiente, bastante|Ich habe *genug* Geld.|Tengo suficiente dinero.|Es ist *genug*!|¡Ya basta!
+familie|sf|familia|Ich liebe meine *Familie*.|Quiero a mi familia.|Die *Familie* ist sehr wichtig.|La familia es muy importante.
+hause|adv|en casa (zu Hause / nach Hause)|Ich bleibe zu *Hause*.|Me quedo en casa.|Wann kommst du nach *Hause*?|¿Cuándo vuelves a casa?
+hören|v|oír, escuchar|Ich kann dich nicht *hören*.|No puedo oírte.|Wir *hören* gern Musik.|Nos gusta escuchar música.
+jeden|det|cada, todo (acusativo)|Ich trinke *jeden* Tag Kaffee.|Bebo café cada día.|Er kennt *jeden* hier.|Conoce a todos aquí.
+bringen|v|traer, llevar|Kannst du mir Wasser *bringen*?|¿Puedes traerme agua?|Wir *bringen* die Kinder zur Schule.|Llevamos a los niños a la escuela.
+bereits|adv|ya|Ich habe *bereits* gegessen.|Ya he comido.|Der Zug ist *bereits* abgefahren.|El tren ya ha salido.
+darauf|adv|sobre eso, después de eso|Ich freue mich *darauf*.|Me hace ilusión.|Kurz *darauf* ging er.|Poco después se fue.
+darüber|adv|sobre eso, acerca de eso|Wir sprechen *darüber*.|Hablamos de eso.|Ich habe nicht *darüber* nachgedacht.|No he pensado en ello.
+hör|v|escucha (imperativo de «hören»)|*Hör* mal, ich muss dir etwas sagen.|Escucha, tengo que decirte algo.|*Hör* auf!|¡Para ya!
+vielen|det|muchos (declinado); vielen Dank = muchas gracias|*Vielen* Dank!|¡Muchas gracias!|Er hat *vielen* Menschen geholfen.|Ha ayudado a mucha gente.
+später|adv|más tarde|Bis *später*!|¡Hasta luego!|Ich rufe dich *später* an.|Te llamo más tarde.
+neuen|adj|nuevo, nuevos (declinado)|Ich habe einen *neuen* Job.|Tengo un trabajo nuevo.|Sie wohnt in einer *neuen* Wohnung.|Vive en un piso nuevo.
+junge|sm|chico, muchacho|Der *Junge* spielt Fußball.|El chico juega al fútbol.|Er ist ein netter *Junge*.|Es un chico simpático.
+musik|sf|música|Ich höre gern *Musik*.|Me gusta escuchar música.|Die *Musik* ist zu laut.|La música está demasiado alta.
+deinen|det|tu, tus (acusativo masc./dativo pl.)|Ich liebe *deinen* Humor.|Me encanta tu humor.|Hilfst du *deinen* Freunden?|¿Ayudas a tus amigos?
+problem|sn|problema|Das ist kein *Problem*.|No es ningún problema.|Wir haben ein *Problem*.|Tenemos un problema.
+liegt|v|está tumbado, se encuentra (de «liegen»)|Das Buch *liegt* auf dem Tisch.|El libro está sobre la mesa.|Die Stadt *liegt* am Meer.|La ciudad está junto al mar.
+große|adj|grande (declinado)|Das ist eine *große* Stadt.|Es una ciudad grande.|Sie hat *große* Augen.|Tiene los ojos grandes.
+angst|sf|miedo|Ich habe *Angst*.|Tengo miedo.|Hab keine *Angst*!|¡No tengas miedo!
+dies|pron|esto|*Dies* ist mein Haus.|Esta es mi casa.|Ich weiß *dies* nicht.|Esto no lo sé.
+erste|adj|primero, primera|Das ist meine *erste* Reise.|Este es mi primer viaje.|Sie ist die *erste* im Büro.|Es la primera en la oficina.
+ordnung|sf|orden|Alles in *Ordnung*!|¡Todo en orden!|Er liebt *Ordnung*.|Le gusta el orden.
+beide|det|ambos, los dos|Wir mögen *beide* Kaffee.|A los dos nos gusta el café.|*Beide* Kinder sind krank.|Los dos niños están enfermos.
+freund|sm|amigo, novio|Er ist mein bester *Freund*.|Es mi mejor amigo.|Ihr *Freund* kommt aus Peru.|Su novio es de Perú.
+halt|adv|pues, simplemente; ¡alto!|Das ist *halt* so.|Es simplemente así.|*Halt*! Wer ist da?|¡Alto! ¿Quién está ahí?
+stehen|v|estar de pie, estar|Wir *stehen* im Stau.|Estamos en un atasco.|Bitte nicht *stehen* bleiben.|Por favor, no se detengan.
+frauen|sp|mujeres|Die *Frauen* lachen.|Las mujeres ríen.|Viele *Frauen* arbeiten hier.|Aquí trabajan muchas mujeres.
+sofort|adv|enseguida, inmediatamente|Komm *sofort* her!|¡Ven ahora mismo!|Ich rufe dich *sofort* an.|Te llamo enseguida.
+geh|v|ve, anda (imperativo de «gehen»)|*Geh* bitte nach Hause.|Vete a casa, por favor.|*Geh* nicht weg!|¡No te vayas!
+denen|pron|a los cuales, a ellos (dativo pl.)|Das sind die Leute, mit *denen* ich arbeite.|Esa es la gente con la que trabajo.|Ich helfe *denen*, die Hilfe brauchen.|Ayudo a quienes necesitan ayuda.
+allein|adj|solo; adv: solamente|Ich wohne *allein*.|Vivo solo.|Lass mich *allein*!|¡Déjame solo!
+sogar|adv|incluso, hasta|Er kann *sogar* singen.|Incluso sabe cantar.|Es hat *sogar* geschneit.|Incluso ha nevado.
+teil|sm|parte|Das ist ein wichtiger *Teil*.|Es una parte importante.|Ein *Teil* der Kinder ist krank.|Una parte de los niños está enferma.
+welche|det|qué, cuál, cuáles|*Welche* Farbe magst du?|¿Qué color te gusta?|*Welche* Bücher hast du gelesen?|¿Qué libros has leído?
+rein|adv|adentro (coloquial), puro|Komm *rein*!|¡Pasa!|Das ist *rein* zufällig.|Es pura casualidad.
+stimmt|v|es correcto, es verdad (de «stimmen»)|Das *stimmt*.|Eso es verdad.|Es *stimmt* etwas nicht.|Algo no va bien.
+gerne|adv|con gusto, gustosamente|Ich helfe dir *gerne*.|Te ayudo con gusto.|Möchten Sie Kaffee? — *Gerne*!|¿Quiere café? — ¡Con gusto!
+würden|v|(condicional) harían, haríamos|Wir *würden* gern reisen.|Nos gustaría viajar.|Sie *würden* das nicht tun.|Ellos no harían eso.
+halten|v|sostener, parar, considerar|Kannst du das *halten*?|¿Puedes sostener esto?|Wir *halten* an der Ampel.|Paramos en el semáforo.
+beiden|det|ambos (declinado)|Ich kenne die *beiden* Brüder.|Conozco a los dos hermanos.|Mit den *beiden* spreche ich.|Hablo con los dos.
+daran|adv|en eso, a eso|Ich denke oft *daran*.|Pienso a menudo en eso.|Ich erinnere mich *daran*.|Me acuerdo de eso.
+bekommen|v|recibir, conseguir|Ich habe ein Geschenk *bekommen*.|He recibido un regalo.|Wo kann ich Tickets *bekommen*?|¿Dónde puedo conseguir entradas?
+habt|v|tenéis, habéis (de «haben»)|*Habt* ihr Zeit?|¿Tenéis tiempo?|Ihr *habt* recht.|Tenéis razón.
+herr|sm|señor|*Herr* Müller ist hier.|El señor Müller está aquí.|Sehr geehrter *Herr* Schmidt.|Estimado señor Schmidt.
+scheiße|sf|mierda (vulgar)|So eine *Scheiße*!|¡Qué mierda!|Das ist *Scheiße*.|Es una mierda.
+letzten|adj|último, pasado (declinado)|Am *letzten* Sonntag war ich dort.|El domingo pasado estuve allí.|In den *letzten* Jahren hat sich viel verändert.|En los últimos años ha cambiado mucho.
+kleine|adj|pequeño, pequeña|Sie hat eine *kleine* Wohnung.|Tiene un piso pequeño.|Er hat zwei *kleine* Kinder.|Tiene dos hijos pequeños.
+brauchen|v|necesitar|Wir *brauchen* mehr Zeit.|Necesitamos más tiempo.|Was *brauchen* Sie?|¿Qué necesita?
+glauben|v|creer|Ich kann es nicht *glauben*.|No puedo creerlo.|Wir *glauben* dir.|Te creemos.
+niemand|pron|nadie|*Niemand* ist zu Hause.|No hay nadie en casa.|*Niemand* hat angerufen.|Nadie ha llamado.
+art|sf|tipo, manera|Was für eine *Art* Musik magst du?|¿Qué tipo de música te gusta?|Das ist eine gute *Art*, zu lernen.|Es una buena manera de aprender.
+gefunden|v|encontrado (participio de «finden»)|Hast du deine Schlüssel *gefunden*?|¿Has encontrado tus llaves?|Ich habe eine neue Wohnung *gefunden*.|He encontrado un piso nuevo.
+moment|sm|momento|Einen *Moment*, bitte.|Un momento, por favor.|Im *Moment* bin ich beschäftigt.|Ahora mismo estoy ocupado.
+dank|sm|gracias, agradecimiento|Vielen *Dank*!|¡Muchas gracias!|Mit bestem *Dank*.|Con mi mayor agradecimiento.
+namen|sp|nombres (también: acusativo/dativo de «Name»)|Ich kenne seinen *Namen* nicht.|No conozco su nombre.|Er kennt alle *Namen*.|Conoce todos los nombres.
+allem|pron|todo (dativo)|Vor *allem* mag ich Musik.|Sobre todo me gusta la música.|Trotz *allem* bin ich glücklich.|A pesar de todo soy feliz.
+echt|adj|real, auténtico; adv: muy (coloquial)|Das ist *echt* Gold.|Eso es oro auténtico.|Das ist *echt* gut!|¡Eso está muy bien!
+lieber|adv|preferiblemente, más bien|Ich trinke *lieber* Tee.|Prefiero beber té.|Ich bleibe *lieber* zu Hause.|Prefiero quedarme en casa.
+wenig|det|poco|Ich habe *wenig* Zeit.|Tengo poco tiempo.|Er isst *wenig* Fleisch.|Come poca carne.
+bevor|conj|antes de que|Ruf mich an, *bevor* du kommst.|Llámame antes de venir.|*Bevor* ich gehe, esse ich.|Antes de irme, como.
+weit|adj|lejos, ancho; adv: lejos|Ist es *weit* von hier?|¿Está lejos de aquí?|Das ist nicht *weit*.|No está lejos.
+sohn|sm|hijo|Ihr *Sohn* ist zehn Jahre alt.|Su hijo tiene diez años.|Ich habe einen *Sohn* und eine Tochter.|Tengo un hijo y una hija.
+minuten|sp|minutos|Warte fünf *Minuten*.|Espera cinco minutos.|Es dauert zehn *Minuten*.|Tarda diez minutos.
+sache|sf|cosa, asunto|Das ist eine wichtige *Sache*.|Es un asunto importante.|Das ist eine schöne *Sache*.|Es algo bonito.
+allen|det|todos (dativo pl.)|Ich danke *allen*.|Doy las gracias a todos.|Das gefällt *allen* Kindern.|Eso les gusta a todos los niños.
+kind|sn|niño, hijo|Das *Kind* schläft.|El niño duerme.|Sie erwartet ein *Kind*.|Ella espera un hijo.
+einige|det|algunos, unos cuantos|*Einige* Leute sind gekommen.|Han venido algunas personas.|Ich habe *einige* Fragen.|Tengo algunas preguntas.
+hilfe|sf|ayuda|Danke für deine *Hilfe*.|Gracias por tu ayuda.|*Hilfe*!|¡Socorro!
+mag|v|quiere, le gusta (de «mögen»)|Ich *mag* Kaffee.|Me gusta el café.|Sie *mag* Musik.|A ella le gusta la música.
+lässt|v|deja, permite (de «lassen»)|Er *lässt* mich nicht gehen.|No me deja irme.|Sie *lässt* das Auto reparieren.|Ella hace reparar el coche.
+polizei|sf|policía|Ruf die *Polizei*!|¡Llama a la policía!|Die *Polizei* ist schon da.|La policía ya está aquí.
+großen|adj|grande, grandes (declinado)|Wir haben einen *großen* Garten.|Tenemos un jardín grande.|Er wohnt in einer *großen* Stadt.|Vive en una ciudad grande.
+kurz|adj|corto; adv: brevemente|Der Film war sehr *kurz*.|La película fue muy corta.|Ich muss dich *kurz* sprechen.|Tengo que hablar contigo un momento.
+egal|adj|da igual, indiferente|Das ist mir *egal*.|Me da igual.|Es ist *egal*, wann du kommst.|Da igual cuándo vengas.
+seite|sf|página, lado|Öffne das Buch auf *Seite* zehn.|Abre el libro por la página diez.|Er steht auf meiner *Seite*.|Está de mi lado.
+ging|v|iba, fue (de «gehen»)|Er *ging* nach Hause.|Se fue a casa.|Es *ging* ihm gut.|Le iba bien.
+spiel|sn|juego, partido|Das *Spiel* beginnt um acht.|El partido empieza a las ocho.|Das ist ein schönes *Spiel*.|Es un juego bonito.
+machst|v|haces (de «machen»)|Was *machst* du?|¿Qué haces?|Du *machst* das gut.|Lo haces bien.
+arbeiten|v|trabajar|Ich muss heute *arbeiten*.|Hoy tengo que trabajar.|Wo *arbeiten* Sie?|¿Dónde trabaja usted?
+wann|adv|cuándo|*Wann* kommst du?|¿Cuándo vienes?|Ich weiß nicht, *wann* er kommt.|No sé cuándo viene.
+land|sn|país, campo|Spanien ist ein schönes *Land*.|España es un país bonito.|Sie wohnen auf dem *Land*.|Viven en el campo.
+sowie|conj|así como; en cuanto|Äpfel *sowie* Birnen sind im Angebot.|Hay manzanas así como peras en oferta.|*Sowie* er kommt, rufe ich dich an.|En cuanto llegue, te llamo.
+deutschen|adj|alemán, alemanes (declinado)|Ich wohne in einer *deutschen* Stadt.|Vivo en una ciudad alemana.|Er wohnt bei *deutschen* Freunden.|Vive con amigos alemanes.
+geschichte|sf|historia, cuento|Ich liebe *Geschichte*.|Me encanta la historia.|Erzähl mir eine *Geschichte*.|Cuéntame una historia.
+männer|sp|hombres|Die *Männer* arbeiten.|Los hombres trabajan.|Drei *Männer* warten draußen.|Tres hombres esperan afuera.
+denken|v|pensar|Ich muss darüber *denken*.|Tengo que pensar en ello.|Was *denken* Sie?|¿Qué piensa usted?
+spielen|v|jugar, tocar|Die Kinder *spielen* im Garten.|Los niños juegan en el jardín.|Er kann Gitarre *spielen*.|Sabe tocar la guitarra.
+getan|v|hecho (participio de «tun»)|Was hast du *getan*?|¿Qué has hecho?|Ich habe alles *getan*.|Lo he hecho todo.
+kopf|sm|cabeza|Mein *Kopf* tut weh.|Me duele la cabeza.|Sie schüttelt den *Kopf*.|Ella niega con la cabeza.
+warte|v|espero, espera (de «warten»)|Ich *warte* auf den Bus.|Espero el autobús.|*Warte* auf mich!|¡Espérame!
+je|adv|alguna vez; cada|Hast du das *je* gesehen?|¿Has visto eso alguna vez?|Sie bekommen *je* zwei Euro.|Reciben dos euros cada uno.
+seid|v|sois, estáis (de «sein»)|Ihr *seid* spät.|Llegáis tarde.|*Seid* ihr bereit?|¿Estáis listos?
+sprechen|v|hablar|Ich möchte mit Ihnen *sprechen*.|Quiero hablar con usted.|Sie *sprechen* gut Deutsch.|Hablan bien alemán.
+gern|adv|con gusto, gustosamente|Ich esse *gern* Pizza.|Me gusta comer pizza.|Ich helfe dir *gern*.|Te ayudo con gusto.
+bald|adv|pronto|Bis *bald*!|¡Hasta pronto!|Ich komme *bald* zurück.|Vuelvo pronto.
+tot|adj|muerto|Der Hund ist *tot*.|El perro está muerto.|Die Batterie ist *tot*.|La batería está agotada.
+ganzen|adj|entero, todo (declinado)|Ich habe den *ganzen* Tag gearbeitet.|He trabajado todo el día.|Er hat den *ganzen* Kuchen gegessen.|Se ha comido todo el pastel.
+letzte|adj|último, pasado|Das ist die *letzte* Chance.|Es la última oportunidad.|Ich war *letzte* Woche dort.|Estuve allí la semana pasada.
+vier|num|cuatro|Ich habe *vier* Geschwister.|Tengo cuatro hermanos.|Es ist *vier* Uhr.|Son las cuatro.
+oft|adv|a menudo, con frecuencia|Ich gehe *oft* ins Kino.|Voy a menudo al cine.|Wie *oft* kommst du hierher?|¿Con qué frecuencia vienes aquí?
+könnten|v|podrían, podríamos (de «können»)|Wir *könnten* ins Kino gehen.|Podríamos ir al cine.|Sie *könnten* recht haben.|Podrían tener razón.
+warten|v|esperar|Ich muss hier *warten*.|Tengo que esperar aquí.|Wir *warten* auf den Zug.|Esperamos el tren.
+gewesen|v|sido, estado (participio de «sein»)|Ich bin schon in Rom *gewesen*.|Ya he estado en Roma.|Wo bist du *gewesen*?|¿Dónde has estado?
+sehe|v|veo (de «sehen»)|Ich *sehe* nichts.|No veo nada.|Ich *sehe* dich morgen.|Te veo mañana.
+auto|sn|coche, auto|Mein *Auto* ist rot.|Mi coche es rojo.|Wir fahren mit dem *Auto*.|Vamos en coche.
+grund|sm|razón, motivo; suelo|Was ist der *Grund*?|¿Cuál es el motivo?|Ich habe keinen *Grund* zu lügen.|No tengo motivo para mentir.
+glück|sn|suerte, felicidad|Viel *Glück*!|¡Mucha suerte!|Ich habe *Glück* gehabt.|He tenido suerte.
+musste|v|tuvo que (de «müssen»)|Ich *musste* früh aufstehen.|Tuve que levantarme temprano.|Er *musste* arbeiten.|Tuvo que trabajar.
+hinter|prep|detrás de|Die Katze sitzt *hinter* dem Sofa.|El gato está detrás del sofá.|Er steht *hinter* mir.|Está de pie detrás de mí.
+fertig|adj|listo, terminado|Bist du *fertig*?|¿Has terminado?|Das Essen ist *fertig*.|La comida está lista.
+deshalb|adv|por eso|Ich bin krank, *deshalb* bleibe ich zu Hause.|Estoy enfermo, por eso me quedo en casa.|*Deshalb* bin ich hier.|Por eso estoy aquí.
+zwar|adv|es cierto que, de hecho|Er ist *zwar* jung, aber sehr klug.|Es cierto que es joven, pero muy listo.|Ich habe *zwar* Zeit, aber keine Lust.|Tengo tiempo, pero no ganas.
+vergessen|v|olvidar|Ich habe meine Schlüssel *vergessen*.|He olvidado mis llaves.|Das werde ich nie *vergessen*.|Eso no lo olvidaré nunca.
+fahren|v|conducir, ir (en vehículo)|Wir *fahren* nach Berlin.|Vamos a Berlín.|Kannst du Auto *fahren*?|¿Sabes conducir?
+stunden|sp|horas|Ich habe zwei *Stunden* gewartet.|He esperado dos horas.|Die Reise dauert drei *Stunden*.|El viaje dura tres horas.
+woche|sf|semana|Nächste *Woche* habe ich Urlaub.|La semana que viene tengo vacaciones.|Eine *Woche* hat sieben Tage.|Una semana tiene siete días.
+überhaupt|adv|en absoluto, en general|Das stimmt *überhaupt* nicht.|Eso no es verdad en absoluto.|Hast du *überhaupt* Zeit?|¿Tienes tiempo siquiera?
+bleibt|v|se queda, permanece (de «bleiben»)|Er *bleibt* zu Hause.|Él se queda en casa.|Es *bleibt* dabei.|Queda así.
+platz|sm|plaza, sitio, lugar|Ist hier noch ein *Platz* frei?|¿Hay algún sitio libre aquí?|Wir treffen uns auf dem *Platz*.|Nos vemos en la plaza.
+bisschen|det|un poco (ein bisschen)|Ich spreche ein *bisschen* Deutsch.|Hablo un poco de alemán.|Warte noch ein *bisschen*.|Espera un poco más.
+lang|adj|largo|Der Film war sehr *lang*.|La película fue muy larga.|Der Weg ist *lang*.|El camino es largo.
+deiner|det|tu, de ti (femenino dativo/genitivo)|Ich spreche mit *deiner* Schwester.|Hablo con tu hermana.|Das ist ein Freund *deiner* Mutter.|Es un amigo de tu madre.
+hätten|v|tendrían, habrían (de «haben»)|Wir *hätten* gern einen Tisch.|Quisiéramos una mesa.|Sie *hätten* kommen sollen.|Deberían haber venido.
+all|det|todo, todos|*All* das ist neu für mich.|Todo eso es nuevo para mí.|*All* seine Freunde waren da.|Todos sus amigos estaban allí.
+dinge|sp|cosas|Ich habe viele *Dinge* zu tun.|Tengo muchas cosas que hacer.|Das sind wichtige *Dinge*.|Son cosas importantes.
+augen|sp|ojos|Sie hat blaue *Augen*.|Tiene los ojos azules.|Mach die *Augen* zu!|¡Cierra los ojos!
+eben|adv|justo ahora; simplemente|Ich bin *eben* angekommen.|Acabo de llegar.|Das ist *eben* so.|Es así, simplemente.
+freunde|sp|amigos|Ich treffe meine *Freunde*.|Quedo con mis amigos.|Wir sind gute *Freunde*.|Somos buenos amigos.
+worden|v|participio de «werden» en pasiva|Das Haus ist verkauft *worden*.|La casa ha sido vendida.|Er ist gelobt *worden*.|Ha sido elogiado.
+finde|v|encuentro, opino (de «finden»)|Ich *finde* das schön.|Me parece bonito.|Ich *finde* meine Schlüssel nicht.|No encuentro mis llaves.
+anders|adv|de otra manera, distinto|Das ist ganz *anders*.|Eso es muy distinto.|Ich mache es *anders*.|Lo hago de otra manera.
+kennen|v|conocer|Ich möchte dich *kennen* lernen.|Quiero conocerte.|Wir *kennen* uns schon.|Ya nos conocemos.
+treffen|v|encontrarse, quedar; acertar|Wir *treffen* uns um acht.|Quedamos a las ocho.|Ich möchte dich *treffen*.|Quiero verte.
+bruder|sm|hermano|Mein *Bruder* wohnt in Berlin.|Mi hermano vive en Berlín.|Er ist mein großer *Bruder*.|Es mi hermano mayor.
+hand|sf|mano|Gib mir deine *Hand*.|Dame la mano.|Sie hat etwas in der *Hand*.|Tiene algo en la mano.
+tage|sp|días|Die *Tage* werden kürzer.|Los días se acortan.|Ich bleibe drei *Tage*.|Me quedo tres días.
+wusste|v|sabía (de «wissen»)|Ich *wusste* es nicht.|No lo sabía.|Er *wusste* die Antwort.|Sabía la respuesta.
+wasser|sn|agua|Ich möchte ein Glas *Wasser*.|Quisiera un vaso de agua.|Das *Wasser* ist kalt.|El agua está fría.
+braucht|v|necesita (de «brauchen»)|Er *braucht* Hilfe.|Necesita ayuda.|Sie *braucht* mehr Zeit.|Ella necesita más tiempo.
+deinem|det|tu (dativo masc./neutro)|Ich spreche mit *deinem* Bruder.|Hablo con tu hermano.|Ich wohne in *deinem* Haus.|Vivo en tu casa.
+verstehe|v|entiendo (de «verstehen»)|Ich *verstehe* dich nicht.|No te entiendo.|Ich *verstehe*.|Ya entiendo.
+endlich|adv|por fin, finalmente|*Endlich* bist du da!|¡Por fin estás aquí!|Wir sind *endlich* angekommen.|Por fin hemos llegado.
+möglich|adj|posible|Ist das *möglich*?|¿Es posible?|Komm so schnell wie *möglich*.|Ven lo antes posible.
+stellen|v|poner (de pie), plantear|Wir *stellen* die Stühle an den Tisch.|Ponemos las sillas junto a la mesa.|Darf ich eine Frage *stellen*?|¿Puedo hacer una pregunta?
+schwer|adj|pesado, difícil|Der Koffer ist *schwer*.|La maleta es pesada.|Das ist *schwer* zu sagen.|Eso es difícil de decir.
+fünf|num|cinco|Ich habe *fünf* Euro.|Tengo cinco euros.|Es ist *fünf* Uhr.|Son las cinco.
+deutsche|adj|alemán, alemana|Das ist eine *deutsche* Stadt.|Es una ciudad alemana.|Ich mag *deutsche* Musik.|Me gusta la música alemana.
+kleinen|adj|pequeño, pequeños (declinado)|Wir wohnen in einem *kleinen* Dorf.|Vivimos en un pueblo pequeño.|Er hat einen *kleinen* Hund.|Tiene un perro pequeño.
