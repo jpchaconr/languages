@@ -52,6 +52,17 @@ Puedes usarla como una app más, incluso **sin conexión**:
 - **Android / PC (Chrome, Edge):** pulsa **Instalar como app** en la pantalla de inicio.
 - **iPhone / iPad:** en Safari, Compartir → **Añadir a pantalla de inicio**.
 
+## Mejorar las voces en iPhone / iPad
+
+La app usa las voces que tiene instalado tu dispositivo, y las que vienen por defecto suenan bastante robóticas. Puedes descargar otras de mejor calidad gratis:
+
+1. Abre **Ajustes → Accesibilidad → Contenido leído → Voces**.
+2. Elige el idioma (**Inglés**, **Alemán** o **Ruso**) y el acento que prefieras.
+3. Toca una voz y pulsa el icono de descarga. Busca las que digan **Mejorada** o **Premium**; son las más naturales.
+4. Vuelve a la app. Si no notas el cambio, ciérrala del todo y ábrela de nuevo.
+
+La app elige sola la mejor voz instalada para cada idioma, así que no hay nada que configurar dentro de ella. Los nombres de los menús pueden variar un poco según la versión de iOS.
+
 ## Usarla en tu computadora
 
 1. Instala [Python](https://www.python.org/downloads/) si no lo tienes.
