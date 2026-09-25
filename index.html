@@ -612,10 +612,43 @@ $("scrim").onclick=e=>{
 };
 
 /* ============ Utilidades ============ */
+/* El navegador no elige bien la voz si solo se le da el idioma: buscamos la mejor instalada.
+   Las neuronales (Edge «Natural», Chrome «Google», Safari «Premium») suenan mucho más naturales. */
+const GOOD_VOICE=/natural|neural|online|premium|enhanced|mejorad|google|siri/i; // «mejorada»: iOS/macOS en español
+let voiceCache={};
+if("speechSynthesis" in window){
+  speechSynthesis.getVoices(); // Chrome las carga en segundo plano
+  speechSynthesis.addEventListener?.("voiceschanged",()=>voiceCache={});
+}
+function pickVoice(lang){
+  if(lang in voiceCache)return voiceCache[lang];
+  const want=lang.toLowerCase(),base=want.split("-")[0];
+  let best=null,top=0;
+  for(const v of speechSynthesis.getVoices()){
+    const vl=v.lang.replace("_","-").toLowerCase();
+    let s=vl===want?100:vl.split("-")[0]===base?50:0;
+    if(!s)continue;
+    if(GOOD_VOICE.test(v.name))s+=30;
+    if(/compact|eloquence/i.test(v.name))s-=20; // voces de baja calidad en Apple
+    if(s>top){top=s;best=v}
+  }
+  // Si la lista aún no se ha cargado, no guardamos el resultado para volver a buscar la próxima vez
+  if(speechSynthesis.getVoices().length)voiceCache[lang]=best;
+  return best;
+}
 function speak(text){
   try{
     if(!("speechSynthesis" in window))return toast("Este navegador no puede pronunciar");
-    speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text.replace(STRESS,""));u.lang=deck().voice;u.rate=.9;speechSynthesis.speak(u);
+    speechSynthesis.cancel();
+    const d=deck(),u=new SpeechSynthesisUtterance(text.replace(STRESS,""));
+    const v=pickVoice(d.voice);
+    u.lang=d.voice;
+    if(v){u.voice=v;u.rate=GOOD_VOICE.test(v.name)?1:.9}
+    else{
+      u.rate=.9;
+      if(speechSynthesis.getVoices().length)toast(`Este dispositivo no tiene voz en ${d.name.toLowerCase()}`);
+    }
+    speechSynthesis.speak(u);
   }catch(e){toast("No se pudo reproducir el audio")}
 }
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
