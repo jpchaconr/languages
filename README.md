@@ -1,5 +1,11 @@
 # Mil Palabras
 
+<p align="center">
+  <img src="docs/inicio.png" width="250" alt="Pantalla de inicio">
+  <img src="docs/tarjeta.png" width="250" alt="Tarjeta de estudio">
+  <img src="docs/tarjeta-reverso.png" width="250" alt="Tarjeta volteada con la traducción">
+</p>
+
 Aprende las **1000 palabras más frecuentes** de **inglés, alemán y ruso** con tarjetas y repetición espaciada. Funciona en el navegador, sin cuenta, sin anuncios y sin instalar nada.
 
 Con esas 1000 palabras entiendes buena parte de lo que se dice y se lee a diario en un idioma, así que empiezas por lo que más te va a servir.
