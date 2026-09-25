@@ -419,6 +419,19 @@ const STRESS=/\u0301/g; // acento del ruso (молоко́): se muestra, pero no
 
 function dueWords(){const P=prog(),now=Date.now();return deck().words.filter(w=>P[w.r]&&P[w.r].due<=now).sort((a,b)=>P[a.r].due-P[b.r].due)}
 function newWords(){const P=prog();return deck().words.filter(w=>!P[w.r])}
+/* Lote de palabras nuevas: sorteo ponderado sin reemplazo (Efraimidis–Spirakis) sobre las que faltan.
+   El peso decae con el puesto entre las no vistas (e^(−i/TAU)): casi siempre salen de las ~2·TAU más frecuentes
+   que quedan, pero no en orden estricto. El lote se guarda para que el avance «Siguientes» coincida con la sesión. */
+const NEW_TAU=25;
+let newBatch=null;
+function nextNewWords(){
+  const nw=newWords(),P=prog();
+  if(newBatch&&newBatch.lang===S.lang&&newBatch.size===Math.min(S.size,nw.length)&&newBatch.words.every(w=>!P[w.r]))return newBatch.words;
+  const words=nw.map((w,i)=>({w,k:Math.log(Math.random())*Math.exp(i/NEW_TAU)})) // log(u^(1/peso)), sin desbordar
+    .sort((a,b)=>b.k-a.k).slice(0,S.size).map(x=>x.w);
+  newBatch={lang:S.lang,size:words.length,words};
+  return words;
+}
 function grade(w,known){
   const P=prog(),isNew=!P[w.r],st=P[w.r]||{box:0,due:0,seen:0,ok:0,ko:0};
   st.seen++;st.t=Date.now();
@@ -443,7 +456,7 @@ function renderHome(){
   $("stats").innerHTML=[[seen,"vistas"],[mastered,"dominadas"],[due.length,"por repasar"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
   $("freqmap").innerHTML=words.map(w=>{const s=status(P[w.r]);return`<i ${s===null?"":`data-s="${s}"`} title="Nº ${w.r} · ${esc(w.w)}"></i>`}).join("");
 
-  const nw=newWords(),next=nw.slice(0,S.size);
+  const nw=newWords(),next=nextNewWords();
   $("newCount").textContent=nw.length?next.length:"✓";
   $("newSub").innerHTML=nw.length?`Siguientes: <span class="peek">${next.slice(0,4).map(w=>esc(w.w)).join(", ")}${next.length>4?"…":""}</span>`:"Completaste todas las palabras del mazo";
   $("btnNew").disabled=!nw.length;
@@ -472,7 +485,7 @@ $("btnReset").onclick=()=>{
   if(!resetArmed){resetArmed=true;$("btnReset").textContent="Toca otra vez para confirmar";setTimeout(()=>{if(resetArmed)renderHome()},3500);return}
   S.progress[S.lang]={};S.resetAt[S.lang]=Date.now();save();renderHome();toast("Progreso reiniciado");
 };
-$("btnNew").onclick=()=>start("new",newWords().slice(0,S.size));
+$("btnNew").onclick=()=>start("new",nextNewWords());
 $("btnReview").onclick=()=>{
   let q=dueWords().slice(0,S.size);
   if(!q.length){const P=prog();q=deck().words.filter(w=>P[w.r]).sort((a,b)=>P[a.r].box-P[b.r].box||P[b.r].ko-P[a.r].ko).slice(0,S.size)}
